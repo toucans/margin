@@ -57,7 +57,8 @@ Each step eliminates the one above it.
 
 6. **Getting both requires being inside Danish books.** Which is why the
    bookkeeping subcontract isn't a side job. It's the only affordable route to
-   the half of the equation agencies can't reach.
+   the half of the equation agencies can't reach. You're not buying income —
+   you're buying line of sight. (P7)
 
 7. **Distribution has to come from someone who already has the trust.** Webshops
    don't search for this — you said it yourself. Bookkeepers have hundreds of
@@ -89,6 +90,10 @@ P3 Defensibility is accumulation, not cleverness.
 P4 Distribution before product.
 P5 Content comes from work actually done.
 P6 Price follows proximity to the client's money, not difficulty.
+P7 Opportunity density is inverse to visibility. Any market you can see from the
+   outside — as a consumer, from the sidewalk — is already priced and defended.
+   Good problems are only visible from inside an operation, so ideas get found by
+   buying access, never by thinking harder about what to make.
 
 | Cut | Killed by |
 |---|---|
