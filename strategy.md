@@ -28,14 +28,45 @@ content won't resurrect it.
 
 Each step eliminates the one above it.
 
-1. **Price, not volume.** No audience, no capital → 10–20 clients, not 10,000.
-2. **High price needs proximity to money** → the deliverable sits next to the ad budget.
-3. **Next to the ad budget = measurement, not media buying.** Automation optimises toward whatever target it's given. Defining the target is the job automation makes *more* valuable.
-4. **Retainer, not project.** A maintained monthly number can't be cancelled without going blind. Implementation gets haggled.
-5. **The number must be unproducible by others.** Agencies know attribution, not COGS. Bookkeepers know COGS, not attribution. The intersection *is* the business.
-6. **Both halves need real book access** → the bookkeeping subcontract is tuition that pays, not a side job.
-7. **Distribution comes from existing trust.** Bookkeepers have hundreds of webshop clients and zero capability here. Content targets them first, webshop owners second.
-8. **The non-copyable content ingredient is what I see in the books.** 6 and 7 are the same activity.
+1. Online income requires either volume or price. You have neither an audience nor
+   capital. Volume is out — it requires reach you don't have and a year of unpaid
+   building. So: **high price, low client count.** Ten to twenty clients, not ten
+   thousand. Everything downstream follows from that.
+
+2. High price requires being close to money. **Price tracks proximity to the
+   client's revenue, not the difficulty of the work.** Bookkeeping is adjacent to
+   money but classified as compliance cost — buyers benchmark it against other
+   bookkeepers and grind. Ad spend decisions *are* money. So the deliverable must
+   sit next to the ad budget.
+
+3. Being next to the ad budget means **measurement, not media buying.** Media
+   buying is being automated toward zero human margin, and you'd be paid a
+   percentage of a shrinking human contribution. Measurement defines the target
+   the automation optimises toward — the one thing automation makes *more*
+   valuable, not less.
+
+4. Measurement sold as implementation is comparable; sold as a maintained number
+   it isn't. One-off setup gets quoted against freelancers. A monthly number the
+   client makes decisions on can't be cancelled without going blind. So:
+   **retainer, not project.**
+
+5. **The number has to be one nobody else can produce.** Agencies know
+   attribution, not COGS. Bookkeepers know COGS, not attribution. True
+   contribution margin per channel needs both. That intersection *is* your entire
+   business — not a feature of it.
+
+6. Getting both requires being inside Danish books. Which is why **the
+   bookkeeping subcontract isn't a side job.** It's the only affordable route to
+   the half of the equation agencies can't reach.
+
+7. **Distribution has to come from someone who already has the trust.** Webshops
+   don't search for this — you said it yourself. Bookkeepers have hundreds of
+   them and no capability here. So content targets bookkeepers first, webshop
+   owners second.
+
+8. **The content's non-copyable ingredient is what you see in the books.** Not
+   opinions, not frameworks — specific recurring patterns from real Danish SMB
+   accounts. That's why steps 6 and 7 are the same activity.
 
 ## Content
 
