@@ -46,9 +46,11 @@ Each step eliminates the one above it.
    valuable, not less.
 
 4. **Measurement sold as implementation is comparable; sold as a maintained
-   number it isn't.** One-off setup gets quoted against freelancers. A monthly
-   number the client makes decisions on can't be cancelled without going blind.
-   So: retainer, not project.
+   number it isn't.** One-off setup gets quoted against freelancers. What makes
+   it monthly is that the number decays — spend shifts, products change, returns
+   move. Retainers come from ongoing wrongness, not ongoing work. Once they're
+   deciding on it, going back to platform ROAS is going blind. So: retainer, not
+   project.
 
 5. **The number has to be one nobody else can produce.** Agencies know
    attribution, not COGS. Bookkeepers know COGS, not attribution. True
@@ -69,14 +71,58 @@ Each step eliminates the one above it.
    opinions, not frameworks — specific recurring patterns from real Danish SMB
    accounts. That's why steps 6 and 7 are the same activity.
 
+## How it runs
+
+The order is the whole thing, and it's the reverse of how it looks from outside.
+
+Work for a few people → find the one pattern that repeats → say that one thing
+publicly, in specific terms, over and over → people with that exact problem
+self-identify → talk to them → some buy.
+
+Every step is fed by the one before it. Content is step three — and the only
+step visible from outside, which is why it's where everyone starts and stalls.
+Starting there produces generic material because there's nothing else to draw
+on. Same posts, different sourcing: that's the entire difference between a
+crowded market and an empty one.
+
+**The asset is one repeatable claim tied to a number.** Not "I help ecommerce
+brands grow." Closer to: *most Danish webshops are wrong about which channels
+make money, usually by 30–50%, because returns and COGS never reach the
+attribution.* One sentence, provable, and it says who it's *not* for. That
+sentence can't be written before seeing it happen three times — which is what
+the three free analyses are for. They aren't marketing; they're what makes
+marketing possible.
+
+**Content's job is qualification, not persuasion.** Not convincing anyone —
+being findable by people who already have the problem and don't know it has a
+name. A reader recognises their own books and now has a word for what's bothered
+them for a year. That recognition does the selling. Which is why narrow wins:
+200 people who recognise themselves precisely beat 50,000 who nod.
+
+**The transition from reader to client is a diagnostic, not a pitch.** Never
+sell off a post. Offer something small, bounded and concrete — *send three
+months of ad spend and your P&L, I'll show you real contribution margin per
+channel.* Free or cheap. Not a lead magnet: the first delivery. When it lands,
+the finding *is* the sales conversation — here's what you didn't know, here's
+what it costs, here's what maintaining it monthly looks like. Nobody has to be
+persuaded, because the problem showed up in their own numbers.
+
 ## Content
 
-LinkedIn, Danish, 2–3/week. One real pattern per post, ending at what it does to
-the channel-level margin number. Shopify payouts booked as gross revenue; returns
-landing a month after the sale; shipping subsidies buried in a cost account.
+LinkedIn, Danish, 2–3/week — but not before the pattern exists. One real pattern
+per post, ending at what it does to the channel-level margin number. Shopify
+payouts booked as gross revenue; returns landing a month after the sale;
+shipping subsidies buried in a cost account.
 
 Long-term: annual anonymised benchmark of real contribution margin per channel for
 Danish webshops. Nobody else can build it. Bookkeepers circulate it.
+
+## Ceiling
+
+This business tops out. Ten to twenty clients, good money, real freedom, then a
+plateau, because I'm the bottleneck. That's the correct *first* business and a
+far better position to build something scalable from than nowhere — but it isn't
+the last one. Don't plan as if it is.
 
 ## Cut — and what killed it
 
@@ -94,6 +140,8 @@ P7 Opportunity density is inverse to visibility. Any market you can see from the
    outside — as a consumer, from the sidewalk — is already priced and defended.
    Good problems are only visible from inside an operation, so ideas get found by
    buying access, never by thinking harder about what to make.
+P8 The first delivery is the sales conversation. Never pitch what a bounded piece
+   of real work can demonstrate.
 
 | Cut | Killed by |
 |---|---|
@@ -107,3 +155,4 @@ P7 Opportunity density is inverse to visibility. Any market you can see from the
 | Short-form video, YouTube, audience building | Market is a few thousand Danes. 200 correct people beats 50,000 views. |
 | Using the firm's client list quietly | Loses income and distribution in the same week when found out. Negotiate openly. |
 | More months ranking options before starting | The ranking depends on what only market contact reveals. |
+| Publishing before the three analyses are done | Nothing to draw on but frameworks, so the output is generic. The dangerous one: it feels like progress and costs nothing. P5. |
