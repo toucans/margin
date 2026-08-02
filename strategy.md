@@ -24,8 +24,8 @@ least 1 says "I want this monthly." If not, the thesis is dead and content won't
 resurrect it. Paid, not free — see P10.
 
 Three answers the question. It doesn't build the asset: 3 case studies won't sell
-a retainer to a stranger. Ten is the proof target, bought the same way — cheap
-and conditional. Don't mistake passing the test for having proof.
+a retainer to a stranger. Ten is the proof target, bought the same way —
+refundable and conditional. Don't mistake passing the test for having proof.
 
 ## Why this
 
@@ -101,11 +101,15 @@ what you didn't know, here's what it costs, here's what maintaining it monthly
 looks like. Nobody has to be persuaded, because the problem showed up in their own
 numbers. (P8)
 
-**Price it cheap and conditional, never free.** ~5,000 DKK, with the real price a
-named case study and two introductions. Paid means they actually send the data and
-take the meeting. Conditional means I extract the assets those first engagements
-exist to produce. Get the case-study permission into the terms up front, not
-afterwards when the number is embarrassing. (P10)
+**Price it refundable and conditional, never free.** 5,000 DKK up front, credited
+in full against the first month of the retainer, or refunded if the analysis
+changes no decision. Money moving is what makes them send the data and take the
+meeting — free work gets deprioritised and the P&L never arrives. But their real
+cost is zero if they proceed, so there's nothing to argue about in a cold message
+from a stranger about a category they can't yet name.
+
+The actual price is a named case study and two introductions. Get that into the
+terms up front, not afterwards when the number is embarrassing. (P10)
 
 **4. The retainer** keeps the number current as spend, products and returns move.
 
@@ -116,8 +120,7 @@ already have, sold to the exact buyer I want, and it puts me inside their ad dat
 this month. The finding then writes itself from data I'm already holding. Sell it
 as the way in, never as the business. (P1, P7)
 
-**Risk reversal instead of discount.** Fixed scope, cancel anytime, don't pay if
-it changes no decision.
+**Risk reversal on the retainer, never a discount.** Fixed scope, cancel anytime.
 
 *Bookkeepers stay on the list as referral nodes — they hold hundreds of webshops
 and no capability here. Worth outreach once there's a case study to hand them.
@@ -207,7 +210,8 @@ them.
 
 **P10** Free doesn't buy trust — it signals no other demand and sets the work's
 worth. Free work gets deprioritised, the data never arrives, the case study never
-materialises. Cheap and conditional instead.
+materialises. Refundable and conditional instead: money has to move, but their
+cost is zero if they go ahead.
 
 **P11** Trust transfers, it doesn't accumulate. Only signals with a *stake* behind
 them transfer — someone risking a real relationship. Proximity signals (podcasts,
