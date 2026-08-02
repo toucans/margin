@@ -6,7 +6,8 @@ promoted here and deleted from the log.
 **Read before:** changing direction, taking on new work, or spending more than a
 day on a new idea.
 
-**Edit in place** — new info replaces old. Exception: Cut, which only grows.
+**Edit in place** — new info replaces old. Git has the history; this file is only
+ever the current answer.
 
 ---
 
@@ -81,20 +82,15 @@ learn any other way.
 
 **List → outreach → paid diagnostic → retainer.**
 
-The old plan routed this through a bookkeeping subcontract and eight links. Four
-of those links produced no money and no feedback, and the first one was a single
-person's goodwill. Cut. See the table.
-
 **1. The list.** Danish webshops running visible ad spend. Meta ad library,
 Trustpilot, Shopify and DanDomain footprints, FDIH membership. Finite,
 enumerable, and it is the asset — it survives every change of message.
 
 **2. Outreach, 1-to-1, ten a day.** They don't search for this, so inbound is
-dead — but outbound doesn't require them to search. That was the error in the old
-plan: a fact that kills inbound was used to rule out all direct contact. The
-message leads with the pain in their own numbers, not the category name, because
-they don't have a word for it yet: *how much of your Meta ROAS survives returns?*
-One message, improved daily.
+dead — but outbound doesn't require them to search. The message leads with the
+pain in their own numbers, not the category name, because they don't have a word
+for it yet: *how much of your Meta ROAS survives returns?* One message, improved
+daily.
 
 **3. The diagnostic is the sales conversation, not a pitch.** Small, bounded,
 concrete: *send three months of ad spend and your P&L, I'll show you real
@@ -175,59 +171,63 @@ or pricing later. The relationship is the asset; the number is how it gets earne
 ## Cut — and what killed it
 
 Read before evaluating any new idea. If it dies on a principle here, it dies
-without further thought. **Only grows.** A reversal moves the row to the bottom
-with the *new information* that caused it; no new information means drift.
+without further thought. Un-cutting something requires new information, named in
+the commit message. No new information means drift.
 
-**A principle kills what it was aimed at, not everything adjacent.** Three rows
-below were over-applied for months. Check the scope of the kill before invoking it.
+**A principle kills what it was aimed at, not everything adjacent.** Check the
+scope of the kill before invoking it. That mistake cost me the whole plan once.
 
-P1 Never sell a comparable input — sell the number.
-P2 Automation raises the value of defining the target; downstream of it is shrinking.
-P3 Defensibility is accumulation, not cleverness.
-P4 Distribution before product.
-P5 Content comes from work actually done.
-P6 Price follows proximity to the client's money, not difficulty.
-P7 Opportunity density is inverse to visibility. Any market visible from the
-   outside is already priced and defended; good problems are only visible from
-   inside an operation. So ideas get found by buying access, never by thinking
-   harder about what to make — but buy the access inside the industry you intend
-   to sell to, and get paid for it.
-P8 The first delivery is the sales conversation. Never pitch what a bounded piece
-   of real work can demonstrate.
-P9 The earnings curve belongs to *how a skill is sold*, not to the skill. Sold to
-   an audience it's winner-take-all; sold to clients it's flat with a livable
-   floor. Take price leverage over audience leverage, and avoid commodity
-   freelance — no floor *and* no ceiling. High floors exist because unglamorous
-   entry costs guard them.
-P10 Free doesn't buy trust — it signals no other demand and sets the work's worth.
-    Free work gets deprioritised, the data never arrives, the case study never
-    materialises. Cheap and conditional instead.
-P11 Trust transfers, it doesn't accumulate. Only signals with a *stake* behind them
-    transfer — someone risking a real relationship. Proximity signals (podcasts,
-    logos, name-drops) have no stake and AI is making them abundant. Aim at costly.
-P12 A chain is as reliable as the product of its links. Prefer the plan with fewer
-    steps between me and someone paying me, even when the longer one is smarter.
+**P1** Never sell a comparable input — sell the number.
+
+**P2** Automation raises the value of defining the target; downstream of it is
+shrinking.
+
+**P3** Defensibility is accumulation, not cleverness.
+
+**P4** Distribution before product.
+
+**P5** Content comes from work actually done.
+
+**P6** Price follows proximity to the client's money, not difficulty.
+
+**P7** Opportunity density is inverse to visibility. Any market visible from the
+outside is already priced and defended; good problems are only visible from inside
+an operation. So ideas get found by buying access, never by thinking harder about
+what to make — but buy the access inside the industry you intend to sell to, and
+get paid for it.
+
+**P8** The first delivery is the sales conversation. Never pitch what a bounded
+piece of real work can demonstrate.
+
+**P9** The earnings curve belongs to *how a skill is sold*, not to the skill. Sold
+to an audience it's winner-take-all; sold to clients it's flat with a livable
+floor. Take price leverage over audience leverage, and avoid commodity freelance —
+no floor *and* no ceiling. High floors exist because unglamorous entry costs guard
+them.
+
+**P10** Free doesn't buy trust — it signals no other demand and sets the work's
+worth. Free work gets deprioritised, the data never arrives, the case study never
+materialises. Cheap and conditional instead.
+
+**P11** Trust transfers, it doesn't accumulate. Only signals with a *stake* behind
+them transfer — someone risking a real relationship. Proximity signals (podcasts,
+logos, name-drops) have no stake and AI is making them abundant. Aim at costly.
+
+**P12** A chain is as reliable as the product of its links. Prefer the plan with
+fewer steps between me and someone paying me, even when the longer one is smarter.
 
 | Cut | Killed by |
 |---|---|
 | Bookkeeping for håndværkere | No ad budget, no attribution problem. Wrong client base, not wrong tactic. |
 | Bookkeeping as the business, any client base | Filed as compliance cost, benchmarked against other bookkeepers. P1, P6. |
-| Ageras / e-conomic marketplace as lead channels | Acquisition for the rejected thesis. Superseded. |
 | Media buying / ad management | Being automated; paid a % of a shrinking human contribution. P2. |
-| Employment with the bookkeeping firm | Messy for them (A-skat, employer duties, PE). No compounding for me. |
+| Server-side GTM sold *as the business* | 15–25k DKK one-off vs 10–25k DKK/month for the same work reframed. P1. Still the right way *in* — see the door-opener. |
 | Short-form video, YouTube, audience building | Market is a few thousand Danes. 200 correct people beats 50,000 views. |
-| Using the firm's client list quietly | Loses income and distribution in the same week when found out. |
 | More months ranking options before starting | The ranking depends on what only market contact reveals. |
 | Publishing before the first diagnostics are done | Nothing to draw on but frameworks, so the output is generic. The dangerous one: it feels like progress and costs nothing. P5. |
 | Commodity freelance of any kind (design, copy, editing, VA) | No floor and no ceiling. Top 1% earns ~4x median. Worst square on the board. P9. |
 | Free initial analyses | Signals no demand, gets deprioritised, data never arrives. P10. |
 | Paid ads to acquire my own clients | Two to five conversions/month starves the optimiser; rising CPMs from everyone else's cheap AI execution. |
 | Credibility by proximity (podcasts, logos, borrowed names) | No stake behind it, and AI is making it abundant. P11. |
-| **Bookkeeping subcontract as the route to access** | Wrong sample: a Danish bookkeeping firm's book is mostly håndværkere, already cut above as the wrong client base. Wrong industry: apprenticing in bookkeeping to sell to webshops is one industry off. And unnecessary: the client hands over the COGS with the diagnostic. Eight links where four will do. P12. |
-
-### Reversed — and what changed
-
-| Was cut | Why it's back |
-|---|---|
-| Own webshop client base from scratch first | The kill was "they don't know the category exists, so they don't search." True, and it only rules out *inbound*. Outbound doesn't require them to search. This is now the spine. |
-| Server-side GTM sold as implementation | Still cut *as the business* — 15–25k DKK one-off vs 10–25k DKK/month for the same work reframed, P1 stands. Back as the paid way in: it's a skill I have, the buyer already searches for it, and it puts me inside their data. |
+| Bookkeeping subcontract as the route to access | Wrong sample: a Danish bookkeeping firm's book is mostly håndværkere, already cut above as the wrong client base. Wrong industry: apprenticing in bookkeeping to sell to webshops is one industry off. And unnecessary: the client hands over the COGS with the diagnostic. Eight links where four will do. P12. |
+| Inbound as a first channel | They don't know the category exists, so they don't search. Kills inbound only — outbound is the spine. P4. |
