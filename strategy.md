@@ -20,9 +20,9 @@ Provable on the client's existing data within a week.
 
 Tracking, Consent Mode, server-side GTM, CAPI are machinery. Never the headline.
 
-**The test:** by month 6, 3 Danish webshops look at their real per-channel margin
-for free and at least 1 says "I want this monthly." If not, the thesis is dead and
-content won't resurrect it.
+**The test:** by month 6, 3 Danish webshops pay for an initial analysis and at
+least 1 says "I want this monthly." If not, the thesis is dead and content won't
+resurrect it. Paid, not free — see P10.
 
 ## Why this
 
@@ -71,6 +71,35 @@ Each step eliminates the one above it.
    opinions, not frameworks — specific recurring patterns from real Danish SMB
    accounts. That's why steps 6 and 7 are the same activity.
 
+### Step 3 is provisional. Revisit month 4.
+
+Steps 1, 2, 6, 7, 8 are load-bearing and hold regardless. Step 3 was not derived
+from "be close to money" — it was *chosen* given current assets, then written up
+as if it followed. Be honest about that.
+
+"Close to money" selects a pool, not a specific one. Others in Danish SMB that
+satisfy it equally:
+
+| Pool | Why not (yet) |
+|---|---|
+| Working capital / inventory | Usually a bigger number than ad spend. But no budget line, no habit of paying outsiders. |
+| Pricing and discounting | Highest leverage in any ecommerce P&L; a 3% price change beats most tracking work. Nobody sells it to Danish SMBs — and the buyer has no category for it. |
+| Payment fees, returns, shipping economics | Visible in the books, real money, unglamorous. Live option. |
+| Moms / tax optimisation | Huge per-krone leverage. Licensed, liability-heavy, entrenched incumbents. |
+| Financing cost | Competing with banks and brokers. No. |
+
+Ad spend won on *my* assets, not on being objectively largest: existing
+measurement knowledge, a genuine reason the job appreciates under automation,
+and a buyer who already has a budget line and pays outsiders from it. Inventory
+and pricing are arguably bigger but put me back in "they don't know to search
+for this" — worse, not better.
+
+**Month 4 checkpoint:** write down the three most common expensive mistakes seen
+in the books, ranked by size. If ad spend isn't in the top two, change the number
+sold. Access, distribution, content channel and buyer all survive the switch —
+only step 3 gets rewritten. The irreversible commitment is the access. The choice
+of number is reversible, and I'll choose it far better from inside than I can now.
+
 ## How it runs
 
 The order is the whole thing, and it's the reverse of how it looks from outside.
@@ -90,7 +119,7 @@ brands grow." Closer to: *most Danish webshops are wrong about which channels
 make money, usually by 30–50%, because returns and COGS never reach the
 attribution.* One sentence, provable, and it says who it's *not* for. That
 sentence can't be written before seeing it happen three times — which is what
-the three free analyses are for. They aren't marketing; they're what makes
+the three first analyses are for. They aren't marketing; they're what makes
 marketing possible.
 
 **Content's job is qualification, not persuasion.** Not convincing anyone —
@@ -102,10 +131,43 @@ them for a year. That recognition does the selling. Which is why narrow wins:
 **The transition from reader to client is a diagnostic, not a pitch.** Never
 sell off a post. Offer something small, bounded and concrete — *send three
 months of ad spend and your P&L, I'll show you real contribution margin per
-channel.* Free or cheap. Not a lead magnet: the first delivery. When it lands,
-the finding *is* the sales conversation — here's what you didn't know, here's
-what it costs, here's what maintaining it monthly looks like. Nobody has to be
-persuaded, because the problem showed up in their own numbers.
+channel.* Not a lead magnet: the first delivery. When it lands, the finding *is*
+the sales conversation — here's what you didn't know, here's what it costs,
+here's what maintaining it monthly looks like. Nobody has to be persuaded,
+because the problem showed up in their own numbers.
+
+**Price it cheap and conditional, never free.** ~5,000 DKK for the initial
+analysis, with the real price a named case study and two introductions. Paid
+means they actually send the data and take the meeting. Conditional means I
+extract the assets those first engagements exist to produce. (P10)
+
+## Getting in without a track record
+
+The entry cost is real and there's no version that skips the access. Every
+shortcut — certifications, a good website, a confident cold deck — fails on the
+same objection, because none of them give me anything to say that a hundred
+others couldn't.
+
+**Trust transfers; it doesn't accumulate from zero.** Don't build credibility
+then get access. Borrow someone else's credibility to get access, then convert
+it. (P11) Four routes, strongest first:
+
+1. **Borrowed trust from an intermediary.** A bookkeeper who's had the client
+   six years saying "he's good, talk to him." The client isn't trusting me —
+   they're trusting a relationship that already survived. This is the
+   load-bearing one, not one option among several.
+2. **An unasked-for finding on their own data.** P8 — but bait, not the
+   deliverable. One line they can't argue with: "Meta shows 4.2 ROAS; after
+   returns and COGS it's 0.8." The analysis itself stays paid (P10).
+3. **Specificity only an insider could have.** Step 8, aimed at one person.
+   Generic competence is unprovable.
+4. **Risk reversal, not discounts.** If they hesitate, remove downside — fixed
+   scope, cancel anytime, don't pay if it changes no decision. Costs nothing when
+   I'm right and keeps the price anchored.
+
+Assembled: subcontract → access → specific knowledge → credible content →
+bookkeeper's word → first conversation → diagnostic on their data → client.
+Track record is the *output* of that loop, not a prerequisite for entering it.
 
 ## Content
 
@@ -117,12 +179,39 @@ shipping subsidies buried in a cost account.
 Long-term: annual anonymised benchmark of real contribution margin per channel for
 Danish webshops. Nobody else can build it. Bookkeepers circulate it.
 
+**No paid acquisition for this business.** Automated optimisation is data-hungry
+— dozens of conversions a month to learn. I'd generate two to five, from a few
+thousand addressable Danish webshops, long cycle, buyer who doesn't know the
+category has a name. The algorithm starves. Meanwhile AI makes ad execution cheap
+for everyone, so more advertisers bid and CPMs rise while my ability to feed the
+machine stays terrible. Retargeting readers is the only paid layer worth anything
+and it's a rounding error.
+
 ## Ceiling
 
 This business tops out. Ten to twenty clients, good money, real freedom, then a
 plateau, because I'm the bottleneck. That's the correct *first* business and a
 far better position to build something scalable from than nowhere — but it isn't
 the last one. Don't plan as if it is.
+
+**Measurement is not permanently safe either.** Triple Whale, Northbeam and
+Shopify's own reporting are productising "true profit per channel." In five years
+part of this ships as a €300/month SaaS. The *analysis* is the most automatable
+piece — an AI reading clean data computes contribution margin fine.
+
+What doesn't productise is everything upstream of clean data: mapping this
+kontoplan to these channels, deciding what counts as COGS for this business,
+catching that returns land in a different month, reconciling platform against
+bank, and signing my name to it. Messy, per-client, judgment-heavy,
+liability-bearing. That's the line — system access, liability, accumulated data,
+distribution. Not "understanding attribution," which is in every model's training
+data. Don't drift into selling the analysis.
+
+So treat measurement as the **entry point, not the destination**. The durable
+position is one step up: the person a webshop owner calls before making an
+expensive decision — ads this year, inventory or pricing next, because those
+pools are bigger and further from productisation. The relationship is the asset.
+The number is how the relationship gets earned.
 
 ## Cut — and what killed it
 
@@ -142,6 +231,21 @@ P7 Opportunity density is inverse to visibility. Any market you can see from the
    buying access, never by thinking harder about what to make.
 P8 The first delivery is the sales conversation. Never pitch what a bounded piece
    of real work can demonstrate.
+P9 The earnings curve is a property of *how a skill is sold*, not of the skill.
+   Same ability: sold to an audience it's winner-take-all with a median near
+   zero; sold to clients it's a flat curve with a livable floor. Two exponentials
+   exist — audience leverage (steeper, but you must *win* to be on it at all) and
+   price leverage (one client pays 50x another for the same hours, available to
+   anyone competent, ceiling ~€300–500k solo). Take the second. The quadrant to
+   avoid is commodity freelance: no floor *and* no ceiling. High floors exist
+   precisely because unglamorous entry costs guard them.
+P10 Free doesn't buy trust — it signals no other demand and sets the work's worth.
+    Free work also gets deprioritised, the data never arrives, and the case study
+    never materialises. Cheap and conditional instead.
+P11 Trust transfers, it doesn't accumulate. Only signals with a *stake* behind
+    them transfer — someone risking a real relationship. Proximity signals
+    (podcasts, logos, name-drops) have no stake and AI is making them cheap and
+    abundant. As fakeable signals inflate, costly ones appreciate. Aim at costly.
 
 | Cut | Killed by |
 |---|---|
@@ -156,3 +260,7 @@ P8 The first delivery is the sales conversation. Never pitch what a bounded piec
 | Using the firm's client list quietly | Loses income and distribution in the same week when found out. Negotiate openly. |
 | More months ranking options before starting | The ranking depends on what only market contact reveals. |
 | Publishing before the three analyses are done | Nothing to draw on but frameworks, so the output is generic. The dangerous one: it feels like progress and costs nothing. P5. |
+| Commodity freelance of any kind (design, copy, editing, VA) | No floor and no ceiling. Top 1% earns ~4x median, not 400x. Worst square on the board. P9. |
+| Free initial analyses | Signals no demand, gets deprioritised, data never arrives. Cheap + conditional instead. P10. |
+| Paid ads to acquire my own clients | Two to five conversions/month starves the optimiser; rising CPMs from everyone else's cheap AI execution. |
+| Credibility by proximity (podcasts, logos, borrowed names) | No stake behind it, and AI is making it abundant. P11. |
