@@ -61,6 +61,32 @@ Each step eliminates the one above it.
    account is really a shipping subsidy and which return landed in the wrong
    month. That intersection *is* the business, not a feature of it.
 
+### Why Denmark
+
+Not "it's easier in a small pond," which sounds like an excuse and invites me to
+talk myself out of it. The real reasons:
+
+**The puddle is deliberate.** Constrain the pond on purpose so you compete where
+the sharks aren't, then move puddle → pond → lake once you're too big for it.
+English-language ecommerce profitability is a red ocean with Triple Whale,
+Northbeam and every US consultant already in it, and my only edge there would be
+price — which is the commodity-freelance square. P7, P9.
+
+**The moat is the localisation cost.** Kontoplan, moms, e-conomic and Dinero
+exports, returns booked a month late under Danish practice. That's an unglamorous
+entry cost, which is exactly the thing that guards a high floor. It also walls me
+in, and that's fine at this size.
+
+**Market size is not the binding constraint — my capacity is.** I need ten to
+twenty clients out of a few thousand Danish webshops with real ad spend. Under
+half a percent. "My market is too small" is the most commonly stated and least
+commonly true reason a business doesn't grow, and the threshold for *fine* is
+needing a couple of hundred. I need a tenth of that. The Ceiling section already
+says I top out because I'm the bottleneck, so Denmark isn't what caps this.
+
+Pick it and stop reopening it. Niche-hopping restarts the clock every time.
+Revisit only when capacity, not demand, is what's stopping me.
+
 ### Step 3 is provisional. Revisit month 4.
 
 Steps 1, 2, 4, 5 hold regardless. Step 3 was not derived from "close to money" —
@@ -139,10 +165,23 @@ possible. (P5)
 
 ## Content
 
-LinkedIn, Danish, 2–3/week — but not before the pattern exists. One real pattern
-per post, ending at what it does to the channel-level margin number. Shopify
-payouts booked as gross revenue; returns landing a month after the sale; shipping
-subsidies buried in a cost account.
+Danish, 2–3/week — but not before the pattern exists. One real pattern per post,
+ending at what it does to the channel-level margin number. Shopify payouts booked
+as gross revenue; returns landing a month after the sale; shipping subsidies
+buried in a cost account.
+
+**LinkedIn first, and that's a starting choice, not a ban on the rest.** Two
+reasons, neither of them "short form is bad." A feed has to have enough signal to
+isolate a few thousand Danish webshop owners out of six million Danes, and
+LinkedIn is the only one carrying that signal natively. And it's where someone
+who just got a cold message from a stranger goes to check whether he's real —
+which is the job content does in a plan whose spine is outbound.
+
+Once a post exists, cutting it into short form costs close to nothing, and
+channels are an and, not an or. TikTok is the one to skip: in Hormozi's own
+platform numbers it converts worst by a distance. Long-form video isn't audience
+building either — one clear explanation of the margin problem is a thing to send a
+prospect, so it's *not yet*, not *no*.
 
 **Content's job is qualification, not persuasion.** Not convincing anyone — being
 findable by people who already have the problem and don't know it has a name. A
@@ -226,7 +265,7 @@ fewer steps between me and someone paying me, even when the longer one is smarte
 | Bookkeeping as the business, any client base | Filed as compliance cost, benchmarked against other bookkeepers. P1, P6. |
 | Media buying / ad management | Being automated; paid a % of a shrinking human contribution. P2. |
 | Server-side GTM sold *as the business* | 15–25k DKK one-off vs 10–25k DKK/month for the same work reframed. P1. Still the right way *in* — see the door-opener. |
-| Short-form video, YouTube, audience building | Market is a few thousand Danes. 200 correct people beats 50,000 views. |
+| Audience building as the business | Sold to an audience the earnings curve is winner-take-all and the median gets nothing. P9. Kills the *business model*, not any format or platform — see Content. |
 | More months ranking options before starting | The ranking depends on what only market contact reveals. |
 | Publishing before the first diagnostics are done | Nothing to draw on but frameworks, so the output is generic. The dangerous one: it feels like progress and costs nothing. P5. |
 | Commodity freelance of any kind (design, copy, editing, VA) | No floor and no ceiling. Top 1% earns ~4x median. Worst square on the board. P9. |
