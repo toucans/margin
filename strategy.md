@@ -24,6 +24,11 @@ Tracking, Consent Mode, server-side GTM, CAPI are machinery. Never the headline.
 least 1 says "I want this monthly." If not, the thesis is dead and content won't
 resurrect it. Paid, not free — see P10.
 
+Three answers the question. It doesn't build the asset: 3 case studies won't sell
+a retainer to someone who doesn't already know a bookkeeper who knows me. Ten is
+the proof target, bought the same way — cheap and conditional. Don't mistake
+passing the test for having proof.
+
 ## Why this
 
 Each step eliminates the one above it.
@@ -104,9 +109,11 @@ crowded market and an empty one.
 brands grow." Closer to: *most Danish webshops are wrong about which channels
 make money, usually by 30–50%, because returns and COGS never reach the
 attribution.* One sentence, provable, and it says who it's *not* for. That
-sentence can't be written before seeing it happen three times — which is what
-the three first analyses are for. They aren't marketing; they're what makes
-marketing possible.
+sentence can't be written before seeing it happen three times — but the three
+sightings come from inside the books (step 6), not only from paid analyses. The
+books prove the pattern is *true*; the paid analyses prove it *sells*. The gate
+is on publishing, not on looking, and the cheapest proof I own is a pattern from
+accounts I already touch, anonymised.
 
 **Content's job is qualification, not persuasion.** Not convincing anyone —
 being findable by people who already have the problem and don't know it has a
@@ -142,6 +149,14 @@ no decision.
 Assembled: subcontract → access → specific knowledge → credible content →
 bookkeeper's word → first conversation → diagnostic on their data → client.
 Track record is the *output* of that loop, not a prerequisite for entering it.
+
+**One bookkeeper is a single point of failure.** The whole thesis routes through
+one relationship's goodwill, and there is no second channel — content is
+self-gated, ads are cut, and the loop above has exactly one entrance. Denmark has
+a countable number of bookkeeping firms. Contacting them directly is 1-to-1, so
+the publishing gate doesn't apply, nothing in Cut kills it, and P4 and P7 both
+argue for it. Ten a day, one question about what they see in their webshop
+clients' ad spend. The list is the asset; the message gets better daily.
 
 ## Content
 
