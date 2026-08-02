@@ -62,10 +62,11 @@ Each step eliminates the one above it.
    contribution margin per channel needs both. That intersection *is* your entire
    business — not a feature of it.
 
-6. **Getting both requires being inside Danish books.** Which is why the
-   bookkeeping subcontract isn't a side job. It's the only affordable route to
-   the half of the equation agencies can't reach. You're not buying income —
-   you're buying line of sight. (P7)
+6. **The subcontract buys pattern density and kontoplan fluency, not the number
+   itself.** One client's COGS arrives with the diagnostic — that half was never
+   gated. What is gated is what recurs across *many* Danish books, and knowing
+   which account is really a shipping subsidy, which is the part the Ceiling says
+   never automates. You're not buying income — you're buying line of sight. (P7)
 
 7. **Distribution has to come from someone who already has the trust.** Webshops
    don't search for this — you said it yourself. Bookkeepers have hundreds of
@@ -91,6 +92,14 @@ number sold. Access, distribution, channel and buyer all survive the switch —
 only step 3 gets rewritten. The access is the irreversible commitment; the choice
 of number is reversible, and better made from inside than now.
 
+**Also month 4: is the chain feeding, or just paying?** The subcontract earns its
+place by what it hands the thesis, so test that instead of asserting it — patterns
+written down, webshops named, introductions asked for. If the honest answer is "I
+did bookkeeping and got paid," it's a job and the access argument has become the
+excuse for not selling. Irreversible was meant as *don't flinch*, not *no end
+date*. Leave when the patterns and the fluency are in hand, not when the money is
+good.
+
 ## How it runs
 
 The order is the whole thing, and it's the reverse of how it looks from outside.
@@ -112,8 +121,7 @@ attribution.* One sentence, provable, and it says who it's *not* for. That
 sentence can't be written before seeing it happen three times — but the three
 sightings come from inside the books (step 6), not only from paid analyses. The
 books prove the pattern is *true*; the paid analyses prove it *sells*. The gate
-is on publishing, not on looking, and the cheapest proof I own is a pattern from
-accounts I already touch, anonymised.
+is on publishing, not on looking.
 
 **Content's job is qualification, not persuasion.** Not convincing anyone —
 being findable by people who already have the problem and don't know it has a
@@ -124,7 +132,9 @@ them for a year. That recognition does the selling. Which is why narrow wins:
 **The transition from reader to client is a diagnostic, not a pitch.** Never
 sell off a post. Offer something small, bounded and concrete — *send three
 months of ad spend and your P&L, I'll show you real contribution margin per
-channel.* Not a lead magnet: the first delivery. When it lands, the finding *is*
+channel, ten working days from the data landing.* Not a lead magnet: the first
+delivery. The clock is the one value driver I can raise without a customer, so
+name it. When it lands, the finding *is*
 the sales conversation — here's what you didn't know, here's what it costs,
 here's what maintaining it monthly looks like. Nobody has to be persuaded,
 because the problem showed up in their own numbers.
@@ -142,7 +152,10 @@ couldn't. **Don't build credibility then get access. Borrow credibility to get
 access, then convert it** (P11). Strongest first: a bookkeeper's word, because
 the client is trusting a relationship that already survived; then an unasked-for
 finding on their own data (P8 — bait, not the deliverable); then insider
-specificity (step 8, aimed at one person). If they still hesitate, reverse the
+specificity (step 8, aimed at one person) — weakest of the three but the only one
+needing no client at all, since an anonymised pattern from accounts I already
+touch costs nothing but noticing. Start there, because it's available now. If
+they still hesitate, reverse the
 risk rather than discount — fixed scope, cancel anytime, don't pay if it changes
 no decision.
 
