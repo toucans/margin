@@ -59,8 +59,7 @@ Each step eliminates the one above it.
 - **The localisation cost is the moat.** Kontoplan, moms, e-conomic and Dinero,
   returns booked a month late. Unglamorous entry costs guard high floors.
 - **Market size isn't the constraint. I am.** Ten to twenty clients out of a few
-  thousand Danish webshops is under half a percent. The Ceiling already says I top
-  out because I'm the bottleneck.
+  thousand Danish webshops is under half a percent. See Ceiling.
 
 Reopen only when capacity, not demand, is what stops me.
 
@@ -81,43 +80,47 @@ number sold. Buyer, channel and method survive the switch.
 **List → outreach → one offer.** Every step makes money or teaches me something I
 can't learn another way.
 
-**1. The list.** Danish webshops running visible ad spend. Meta ad library,
+**1. The list.** Danish webshops spending 100k+ DKK/month on ads. Meta ad library,
 Trustpilot, Shopify and DanDomain footprints, FDIH membership. Finite and
-enumerable. It survives every change of message, so it's the asset.
+enumerable. It survives every change of message, so it's the asset. The spend
+floor prices the retainer and drops the shops that churn by going out of business.
 
-**2. Outreach, 1-to-1, ten a day.** They don't search for this, so inbound is
-dead. Outbound doesn't need them to search. Lead with the pain in their own
-numbers, not the category name: *how much of your Meta ROAS survives returns?* One
-message, improved daily.
+**2. Outreach, 1-to-1, a hundred a day.** They don't search for this, so inbound is
+dead. Lead with the pain in their own numbers, not the category name: *how much of
+your Meta ROAS survives returns?* One message, improved daily — ten a day can't
+tell a bad message from bad luck.
 
 *Warm before cold. Warm is anyone who gave permission to contact them — contacts
 now, followers and repliers once the posts start. Content builds the warm list.*
 
-**3. One offer, no cheap step in front of it.** *Send three months of ad spend and
-your P&L. Ten working days later you get real contribution margin per channel, and
-it stays current every month after.* The first month is the analysis. The finding
+**3. One offer, no cheap step in front of it.** *Give me read-only access to your
+ad accounts, shop and ledger. Fifteen working days later you get real contribution
+margin per channel, and it stays current every month after.* I pull the data;
+their effort kills the yes. Deliver in ten, first finding on day two. The finding
 is the pitch, because the problem shows up in their own numbers. (P8)
 
-No 5,000 DKK version. A cheap first step gets quoted against a freelancer and
-teaches them the work is cheap. (P1)
+No 5,000 DKK version — it gets quoted against a freelancer and teaches them the
+work is cheap. (P1) Against a no, remove the guarantee or the months, never price.
 
 **4. Full price, risk reversed.** If the first month changes no spending decision,
 it's free. If the number is ever late past five working days from month-end, that
-month is free. Both conditional on their data arriving — their half of the work.
-Guarantee delivery, never their profit; the spending decision isn't mine. Fixed
-scope, cancel anytime, never discount.
+month is free. Both conditional on access — their half of the work. Guarantee
+delivery, never their profit; the spending decision isn't mine. Fixed scope,
+cancel anytime, never discount. Quarterly prepaid is the price shown first;
+monthly is the fallback and churns at several times the rate.
 
-Early clients trade a named case study and two introductions, agreed up front. A
-reason why, not a discount. (P10)
+Two named introductions asked of every client at signature, not at the end. Early
+ones also trade a named case study, agreed up front. A reason why, not a
+discount. (P10)
 
-**The door-opener, when the offer alone doesn't land.** Cheap bounded
-tracking work: server-side GTM, Consent Mode, CAPI. Danish webshops already search
-for it and have a budget line. I already have the skill, it's the exact buyer I
-want, and it puts me inside their ad data this month. The way in, never the
-business. (P1, P7)
+**The door-opener, promoted, not held in reserve.** Cheap bounded tracking work:
+server-side GTM, Consent Mode, CAPI. Danish webshops already search for it and
+have a budget line. I already have the skill, it's the exact buyer I want, and it
+puts me inside their ad data this month — which is the retainer's first step
+anyway. The way in, never the business. (P1, P7)
 
-*Bookkeepers stay on the list as referral nodes. Hundreds of webshops each, no
-capability here. Worth outreach once a case study exists. Never a prerequisite.*
+**Bookkeepers as referral nodes**, the second channel behind outbound. Hundreds of
+webshops each. Needs one case study first, never a prerequisite.
 
 ## The asset
 
@@ -132,9 +135,9 @@ clients are for. They aren't marketing; they make marketing possible. (P5)
 ## Content
 
 **Presence starts with outreach; claims wait for the pattern.** The pattern posts
-— most Danish webshops are wrong by 30–50% — wait for three clients' real data.
-Before that, presence only: what I'm looking at, in Danish, from week one. Cold
-messages into an empty profile answer the wrong question about whether I'm real.
+wait for three clients' real data. Before that, presence only: what I'm looking
+at, in Danish, from week one. Cold messages into an empty profile answer the wrong
+question about whether I'm real.
 
 Danish, 2–3/week. One real pattern per post, ending at what it does to the margin
 number. Shopify payouts booked as gross revenue; returns landing a month after the
@@ -159,14 +162,14 @@ Danish webshops. Nobody else can build it. Bookkeepers circulate it.
 
 This business tops out. Ten to twenty clients, good money, real freedom, then a
 plateau, because I'm the bottleneck. The correct *first* business, not the last.
-Don't plan as if it is.
+Don't plan as if it is. Until then the cap is quoted, not hidden: four slots a year.
 
 **Measurement isn't permanently safe.** Triple Whale, Northbeam and Shopify are
 productising "true profit per channel," and the *analysis* is the automatable
 piece. What doesn't productise is upstream: mapping this kontoplan to these
 channels, deciding what counts as COGS here, catching returns that land in a
 different month, and signing my name to it. **Don't drift into selling the
-analysis.**
+analysis** — automate it and keep the margin.
 
 Measurement is the **entry point, not the destination**. The durable position is
 the person a webshop owner calls before an expensive decision — ads now, inventory
@@ -199,7 +202,7 @@ outside is already priced and defended. So ideas get found by buying access, nev
 by thinking harder — but buy it inside the industry you sell to, and get paid.
 
 **P8** The first delivery is the sales conversation. Never pitch what a bounded
-piece of real work can demonstrate.
+piece of real work can demonstrate — but make them say the problem out loud first.
 
 **P9** The earnings curve belongs to *how a skill is sold*, not the skill. Sold to
 an audience it's winner-take-all; sold to clients it's flat with a livable floor.
@@ -229,5 +232,5 @@ between me and someone paying me, even when the longer plan is smarter.
 | Paid ads to acquire my own clients | Two to five conversions/month starves the optimiser; rising CPMs from everyone else's cheap AI execution. |
 | Credibility by proximity (podcasts, logos, borrowed names) | No stake behind it, and AI is making it abundant. P11. |
 | Commodity freelance of any kind (design, copy, editing, VA) | No floor and no ceiling. Top 1% earns ~4x median. P9. |
-| Free initial analyses | Signals no demand, gets deprioritised, data never arrives. P10. |
+| Free initial analyses | Signals no demand; the data never arrives. P10. |
 | More months ranking options before starting | The ranking depends on what only market contact reveals. |
