@@ -18,12 +18,11 @@ webshops: platform ROAS after returns, COGS, shipping and payment fees.
 The claim is **accuracy about where the money already is** — not more revenue.
 Provable on the client's existing data within a week.
 
-**The test:** by month 6, 3 Danish webshops pay for an initial analysis and at
-least 1 says "I want this monthly." If not, the thesis is dead and content won't
-resurrect it.
+Nobody is in pain about being inaccurate. The pain is spending real money on a
+channel that loses it while the dashboard calls it the best one. Lead with that.
 
-Three answers the question. Ten builds the asset — 3 case studies won't sell a
-retainer to a stranger. Don't mistake passing the test for having proof.
+Three paying clients answer the question. Ten build the asset — 3 case studies
+won't sell a retainer to a stranger.
 
 ## Why this
 
@@ -65,7 +64,7 @@ Each step eliminates the one above it.
 
 Reopen only when capacity, not demand, is what stops me.
 
-### Step 3 is provisional. Revisit month 4.
+### Step 3 is provisional
 
 Steps 1, 2, 4, 5 hold regardless. Step 3 was *chosen* given current assets, then
 written up as if it followed. "Close to money" selects a pool, not a specific one;
@@ -73,14 +72,14 @@ inventory, pricing and returns economics satisfy it as well. Ad spend won on *my
 assets: existing measurement knowledge, a job that appreciates under automation,
 and a buyer with a budget line who already pays outsiders from it.
 
-**Month 4 checkpoint:** the three most expensive recurring mistakes seen in real
-client data, ranked by size. If ad spend isn't in the top two, change the number
-sold. Buyer, channel and method survive the switch. Only step 3 gets rewritten.
+**Client data rewrites it, not a date:** the three most expensive recurring
+mistakes seen in real work, ranked. If ad spend isn't in the top two, change the
+number sold. Buyer, channel and method survive the switch.
 
 ## How it runs
 
-**List → outreach → paid diagnostic → retainer.** Every step makes money or
-teaches me something I can't learn another way.
+**List → outreach → one offer.** Every step makes money or teaches me something I
+can't learn another way.
 
 **1. The list.** Danish webshops running visible ad spend. Meta ad library,
 Trustpilot, Shopify and DanDomain footprints, FDIH membership. Finite and
@@ -91,24 +90,27 @@ dead. Outbound doesn't need them to search. Lead with the pain in their own
 numbers, not the category name: *how much of your Meta ROAS survives returns?* One
 message, improved daily.
 
-**3. The diagnostic is the sales conversation.** *Send three months of ad spend
-and your P&L, I'll show you real contribution margin per channel, ten working days
-from the data landing.* The clock is the one value driver I can raise without a
-customer, so name it. Not a lead magnet — the first delivery. The finding is the
-pitch, because the problem shows up in their own numbers. (P8)
+*Warm before cold. Warm is anyone who gave permission to contact them — contacts
+now, followers and repliers once the posts start. Content builds the warm list.*
 
-**Price it refundable and conditional, never free.** 5,000 DKK up front, credited
-against the first retainer month, or refunded if it changes no decision. Money has
-to move or the P&L never arrives. But their real cost is zero if they proceed, so
-there's nothing to argue about in a cold message.
+**3. One offer, no cheap step in front of it.** *Send three months of ad spend and
+your P&L. Ten working days later you get real contribution margin per channel, and
+it stays current every month after.* The first month is the analysis. The finding
+is the pitch, because the problem shows up in their own numbers. (P8)
 
-The actual price is a named case study and two introductions. Into the terms up
-front, not afterwards when the number is embarrassing. (P10)
+No 5,000 DKK version. A cheap first step gets quoted against a freelancer and
+teaches them the work is cheap. (P1)
 
-**4. The retainer** keeps the number current as spend, products and returns move.
-Fixed scope, cancel anytime. Reverse the risk, never discount.
+**4. Full price, risk reversed.** If the first month changes no spending decision,
+it's free. If the number is ever late past five working days from month-end, that
+month is free. Both conditional on their data arriving — their half of the work.
+Guarantee delivery, never their profit; the spending decision isn't mine. Fixed
+scope, cancel anytime, never discount.
 
-**The door-opener, when the diagnostic alone doesn't land.** Cheap bounded
+Early clients trade a named case study and two introductions, agreed up front. A
+reason why, not a discount. (P10)
+
+**The door-opener, when the offer alone doesn't land.** Cheap bounded
 tracking work: server-side GTM, Consent Mode, CAPI. Danish webshops already search
 for it and have a budget line. I already have the skill, it's the exact buyer I
 want, and it puts me inside their ad data this month. The way in, never the
@@ -125,14 +127,18 @@ by 30–50%, because returns and COGS never reach the attribution.* One sentence
 provable, and it says who it's *not* for.
 
 It can't be written before seeing it happen three times. That's what the first
-diagnostics are for. They aren't marketing; they make marketing possible. (P5)
+clients are for. They aren't marketing; they make marketing possible. (P5)
 
 ## Content
 
-Danish, 2–3/week, not before the pattern exists. One real pattern per post, ending
-at what it does to the margin number. Shopify payouts booked as gross revenue;
-returns landing a month after the sale; shipping subsidies buried in a cost
-account.
+**Presence starts with outreach; claims wait for the pattern.** The pattern posts
+— most Danish webshops are wrong by 30–50% — wait for three clients' real data.
+Before that, presence only: what I'm looking at, in Danish, from week one. Cold
+messages into an empty profile answer the wrong question about whether I'm real.
+
+Danish, 2–3/week. One real pattern per post, ending at what it does to the margin
+number. Shopify payouts booked as gross revenue; returns landing a month after the
+sale; shipping subsidies buried in a cost account.
 
 **Content qualifies, it doesn't persuade.** Be findable by people who have the
 problem and don't know it has a name. A reader recognises their own numbers. That
@@ -224,5 +230,4 @@ between me and someone paying me, even when the longer plan is smarter.
 | Credibility by proximity (podcasts, logos, borrowed names) | No stake behind it, and AI is making it abundant. P11. |
 | Commodity freelance of any kind (design, copy, editing, VA) | No floor and no ceiling. Top 1% earns ~4x median. P9. |
 | Free initial analyses | Signals no demand, gets deprioritised, data never arrives. P10. |
-| Publishing before the first diagnostics | Nothing to draw on but frameworks, so the output is generic. Feels like progress and costs nothing, which makes it the dangerous one. P5. |
 | More months ranking options before starting | The ranking depends on what only market contact reveals. |
