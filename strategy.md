@@ -85,10 +85,12 @@ can't learn another way.
 Meta ad library, Trustpilot, Shopify and DanDomain footprints, FDIH membership.
 Finite and enumerable. It survives every change of message, so it's the asset.
 
-**2. Outreach, 1-to-1, a hundred a day.** They don't search for this, so inbound is
-dead. Lead with the pain in their own numbers, not the category name: *how much of
-your Meta ROAS survives returns?* One message, improved daily — ten a day can't
-tell a bad message from bad luck.
+**2. Outreach, a hundred actions a day.** Not a hundred strangers — the list is
+too small for that. Roughly twenty researched first touches, sixty follow-ups and
+channel switches, twenty posts and replies. Seven touches per shop before the list
+is spent, then wait three months and cycle with a new message. They don't search
+for this, so inbound is dead. Lead with the pain in their own numbers: *how much
+of your Meta ROAS survives returns?*
 
 *Warm before cold. Warm is anyone who gave permission to contact them — contacts
 now, followers and repliers once the posts start. Content builds the warm list.*
