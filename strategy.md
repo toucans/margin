@@ -80,10 +80,10 @@ number sold. Buyer, channel and method survive the switch.
 **List → outreach → one offer.** Every step makes money or teaches me something I
 can't learn another way.
 
-**1. The list.** Danish webshops spending 100k+ DKK/month on ads. Meta ad library,
-Trustpilot, Shopify and DanDomain footprints, FDIH membership. Finite and
-enumerable. It survives every change of message, so it's the asset. The spend
-floor prices the retainer and drops the shops that churn by going out of business.
+**1. The list.** Danish webshops running visible ad spend, ranked by how much —
+100k+ DKK/month first. A ranking, not a gate; the floor rises with the proof.
+Meta ad library, Trustpilot, Shopify and DanDomain footprints, FDIH membership.
+Finite and enumerable. It survives every change of message, so it's the asset.
 
 **2. Outreach, 1-to-1, a hundred a day.** They don't search for this, so inbound is
 dead. Lead with the pain in their own numbers, not the category name: *how much of
