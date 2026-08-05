@@ -1,8 +1,5 @@
 # Strategy
 
-`log.md` is the only other file. Raw thoughts go there; settled conclusions get
-promoted here and deleted from the log.
-
 **Read before:** changing direction, taking on new work, or spending more than a
 day on a new idea.
 
