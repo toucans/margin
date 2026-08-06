@@ -1,8 +1,5 @@
 # Strategy
 
-This file is the business. `principles.md` holds general rules that decide
-nothing here; a rule that decides something here is a **P** below.
-
 **Read before:** changing direction, taking on new work, or spending more than a
 day on a new idea.
 
@@ -30,27 +27,26 @@ Each step eliminates the one above it.
 
 1. **Online income requires volume or price.** No audience, no capital. Volume
    needs reach I don't have and a year of unpaid building. So: high price, low
-   client count. Ten to twenty clients, not ten thousand. (P9)
+   client count. Ten to twenty clients, not ten thousand.
 
 2. **High price requires being close to money.** Price tracks proximity to the
    client's revenue, not difficulty. Bookkeeping is adjacent to money but filed as
    compliance cost, so it gets benchmarked and ground down. Ad spend decisions
-   *are* money. The deliverable sits next to the ad budget. (P6, P1)
+   *are* money. The deliverable sits next to the ad budget.
 
 3. **Next to the ad budget means measurement, not media buying.** Media buying is
    being automated toward zero human margin. Measurement defines the target the
-   automation optimises toward — the one job automation makes *more* valuable. (P2)
+   automation optimises toward — the one job automation makes *more* valuable.
 
 4. **Implementation is comparable; a maintained number isn't.** One-off setup gets
    quoted against freelancers. The number decays as spend shifts, products change
    and returns move. Retainers come from ongoing wrongness, not ongoing work. Once
-   they decide on it, going back to platform ROAS is going blind. (P1)
+   they decide on it, going back to platform ROAS is going blind.
 
 5. **The number needs both halves, and the client hands me both.** Agencies know
    attribution, not COGS. Bookkeepers know COGS, not attribution. Three months of
    ad spend plus a P&L contains both. The moat isn't the data — it's knowing which
    account is really a shipping subsidy and which return landed in the wrong month.
-   (P3)
 
 ### Why Denmark
 
@@ -187,11 +183,6 @@ message. No new information means drift.
 **A principle kills what it was aimed at, not everything adjacent.** Check the
 scope before invoking it. That mistake cost me the whole plan once.
 
-Numbers are permanent labels, not an order. Grouping changed once; the numbers
-never do.
-
-### What to sell, and to whom
-
 **P1** Never sell a comparable input — sell the number.
 
 **P2** Automation raises the value of defining the target. Downstream of it is
@@ -199,25 +190,23 @@ shrinking.
 
 **P3** Defensibility is accumulation, not cleverness.
 
+**P4** Distribution before product.
+
+**P5** Content comes from work actually done.
+
 **P6** Price follows proximity to the client's money, not difficulty.
 
 **P7** Opportunity density is inverse to visibility. Any market visible from the
 outside is already priced and defended. So ideas get found by buying access, never
 by thinking harder — but buy it inside the industry you sell to, and get paid.
 
+**P8** The first delivery is the sales conversation. Never pitch what a bounded
+piece of real work can demonstrate — but make them say the problem out loud first.
+
 **P9** The earnings curve belongs to *how a skill is sold*, not the skill. Sold to
 an audience it's winner-take-all; sold to clients it's flat with a livable floor.
 Avoid commodity freelance — no floor *and* no ceiling. High floors exist because
 unglamorous entry costs guard them.
-
-### Reaching them, and getting paid
-
-**P4** Distribution before product.
-
-**P5** Content comes from work actually done.
-
-**P8** The first delivery is the sales conversation. Never pitch what a bounded
-piece of real work can demonstrate — but make them say the problem out loud first.
 
 **P10** Free doesn't buy trust. It signals no other demand and sets the work's
 worth, gets deprioritised, and the case study never materialises. Refundable and
