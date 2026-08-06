@@ -80,9 +80,10 @@ Reopen only when capacity, not demand, is what stops me.
 
 Steps 1, 2, 4, 5 hold regardless. Step 3 was *chosen*, then written up as if it
 followed. "Close to money" selects a pool, not a specific one; inventory, pricing
-and returns economics satisfy it as well. Ad spend won on skill and access, not
-capital — measurement I can already do, a job that appreciates under automation,
-and a buyer who already pays outsiders from that budget line.
+and returns economics satisfy it as well. Ad spend won on a buyer who already
+pays outsiders from that budget line, a job that appreciates under automation,
+and a skill I can acquire on my own — not one I have. That third leg is the
+weakest, and the only one I can fix this month.
 
 **Nothing else has one.** A webshop's recurring money decisions are ad spend,
 inventory, working capital, pricing, shipping, returns, assortment, retention,
@@ -132,20 +133,43 @@ delivery, never their profit; the spending decision isn't mine. Fixed scope,
 cancel anytime, never discount. Quarterly prepaid is the price shown first;
 monthly is the fallback and churns at several times the rate.
 
+**The late-delivery guarantee is priced on a skill I don't have yet.** Producing
+the number once is analysis; producing it by working day five every month is a
+repeatable close. Build it as a checklist during the first job, while getting it
+wrong is still free.
+
 Two named introductions asked of every client at signature, not at the end. Early
 ones also trade a named case study, agreed up front. A reason why, not a
 discount. (P10)
 
 **The door-opener, promoted, not held in reserve.** Cheap bounded tracking work:
 server-side GTM, Consent Mode, CAPI. Danish webshops already search for it and
-have a budget line. I already have the skill, it's the exact buyer I want, and it
-puts me inside their ad data this month — which is the retainer's first step
-anyway. The way in, never the business. (P1, P7)
+have a budget line, it's the exact buyer I want, and it puts me inside their ad
+data this month — which is the retainer's first step anyway. The way in, never
+the business. (P1, P7)
+
+**I can't do it yet, and that is task one.** Build the whole stack on a site I
+control before selling one: sGTM, Consent Mode, CAPI, reconciled against the
+platform numbers. Weeks, not months, and no client is exposed to the learning.
+Nothing else starts until it's done — selling accuracy I can't produce is the one
+failure this business doesn't survive.
+
+**First job warm, full price, fully refundable until the events reconcile.**
+Money moves, their cost is zero if I get it wrong. That's P10's mechanism, not a
+discount, and it buys the first reps without putting the claim at risk.
 
 ### Front end and back end
 
 Front end: tracking work. Back end: the retainer. The front end buys the
 customer and pays for itself. The retainer is the money.
+
+**It also buys the reps, and that's why the order is forced.** Tracking is
+learnable alone — it either fires or it doesn't. The retainer's real skill isn't:
+mapping this kontoplan to these channels, deciding what counts as COGS here,
+catching the return booked a month late. That needs a real shop's messy data and
+can only be learned inside a job. So: learn tracking alone, sell it, learn the
+retainer in there. Selling the retainer first would mean learning it on someone
+paying for accuracy.
 
 **Not the cheap step P1 kills.** P1 kills discounted versions of the retainer —
 they anchor it. Tracking is a different deliverable on its own budget line,
