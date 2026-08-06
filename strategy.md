@@ -118,6 +118,27 @@ have a budget line. I already have the skill, it's the exact buyer I want, and i
 puts me inside their ad data this month — which is the retainer's first step
 anyway. The way in, never the business. (P1, P7)
 
+### Front end and back end
+
+Front end: tracking work. Back end: the retainer. The front end buys the
+customer and pays for itself. The retainer is the money.
+
+**Not the cheap step P1 kills.** P1 kills discounted versions of the retainer —
+they anchor it. Tracking is a different deliverable on its own budget line,
+quoted against agencies. Complement, not substitute.
+
+**P8 is the bridge, and it fires during the job.** Inside their ad data, one
+discrepancy is enough: platform ROAS against what survives returns and COGS.
+Show it, make them say the problem out loud, then offer the retainer. Never
+before the finding.
+
+**Fixing the inputs creates the question.** Accurate tracking makes "accurate to
+what, after what comes out" askable. The job builds the awareness; I don't
+argue for it.
+
+**Measure:** tracking jobs sold, share converting within 60 days. Low conversion
+means the finding didn't land — fix the finding, not the price.
+
 **Bookkeepers as referral nodes**, the second channel behind outbound. Hundreds of
 webshops each. Needs one case study first, never a prerequisite.
 
