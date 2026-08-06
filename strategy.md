@@ -1,5 +1,8 @@
 # Strategy
 
+This file is the business. `principles.md` holds general rules that decide
+nothing here; a rule that decides something here is a **P** below.
+
 **Read before:** changing direction, taking on new work, or spending more than a
 day on a new idea.
 
