@@ -90,9 +90,9 @@ conversion. Only ad spend already has an outsider paid from it. Inventory is the
 runner-up on money at stake and is the real ceiling on a webshop — but owners
 think buying is their own skill, and stock-outs get blamed on me.
 
-**Client data rewrites it, not a date.** Record on every job, in DKK:
-misallocated by channel, dead and overbought stock, margin lost to returns
-timing, cash locked in the conversion cycle. Three clients, ranked. If ad spend
+**Client data rewrites it, not a date.** Record on every job, in DKK, in
+`contact.md`: misallocated by channel, dead and overbought stock, margin lost to
+returns timing, cash locked in the conversion cycle. Three clients, ranked. If ad spend
 isn't in the top two, change the number sold. Buyer, channel and method survive
 the switch.
 
