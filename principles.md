@@ -83,6 +83,21 @@ zero. Vary hard while nothing works; clamp down the moment something does.
 **G17** Write the disconfirmation threshold before the drought, not during it.
 Stated in advance it is data. Decided in the moment it is mood.
 
+## What not to invent
+
+**G20** Copy everything upstream of whether money moves; invent everything
+downstream. Upstream, in order: the buyer, the problem and the evidence it is
+already paid for, the shape of the cash, the price, the channel. Downstream:
+delivery, the claim, the look. That order is also the cost of being wrong — a
+wrong buyer is a restart, a wrong look is an afternoon. The usual error inverts
+it, because the top is the part that feels like enterprise and the bottom is the
+part you can see.
+
+**G21** Market beats offer beats skill, and a strong link cancels a weak one
+below it. Being unoriginal where it counts is what buys permission to be ordinary
+everywhere else. Skill is the smallest of the three and the one most often worked
+on instead.
+
 ## Reading advice
 
 **G18** Advice is aimed at the median reader's error. Persistence advice corrects
