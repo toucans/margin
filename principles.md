@@ -3,7 +3,7 @@
 General rules. Not this business.
 
 Anything that decides something *here* is a **P** in `strategy.md` and lives only
-there. This file never restates one — it cites. Numbers are permanent labels.
+there. This file never restates one — it cites.
 
 **The bar is that it changed a decision**, and that it isn't already in the
 corpus. Anything `./hormozi` returns on demand is a duplicate of a searchable
@@ -14,46 +14,61 @@ on the day it was learned.
 
 ## Where opportunity is
 
-**G1** The channel that taught you an option exists predicts its returns,
-negatively. If you found it through something built to make it appealing, you are
-late by construction. The mechanism under P7 — visibility *causes* the crowding.
+**How you found it predicts how crowded it is.** If you found it through
+something built to make it appealing, you are late by construction. The channel
+that taught you the option exists predicts its returns, negatively. That is the
+mechanism under P7 — visibility *causes* the crowding.
 
-**G20** Copy everything upstream of whether money moves. Invent everything
-downstream.
+---
 
-*Upstream — copy. This decides whether money moves at all.*
+**Copy the top of this list. Invent the bottom.**
 
-1. **The buyer.** Can you name people already paying someone for this?
-2. **The problem**, and evidence it is already being paid for. Inventing one
-   means funding the market's education.
-3. **The shape of the cash** — collected up front, recurring, front end against
-   back end. Not the price; the structure.
-4. **The price level.** Anchored to the nearest thing the market already buys.
-5. **The channel.** Proven per market, not universally.
+The order is the whole point. Each item decides more than everything below it,
+costs more to get wrong, and is harder to change afterwards. Work down it, never
+up.
 
-*Downstream — invent. This decides how well the work goes once it does.*
+### Copy — this decides whether money moves at all
 
-6. **Delivery.** Usually where the real edge is, and cheap to be wrong.
-7. **The claim.** Has to be yours, and can't be copied anyway.
-8. **The look.**
+**1. The buyer.**
+Can you name people already paying someone for this?
+*Wrong here and nothing below it matters. A restart.*
 
-The order is also the cost of being wrong: a wrong buyer is a restart, a wrong
-look is an afternoon. The usual error inverts it — inventing the top because that
-feels like enterprise, copying the bottom because that is the part you can see.
+**2. The problem, and evidence it is already paid for.**
+Invent one and you are funding the market's education, which is the most
+expensive line in business.
+*Wrong here and you spend years teaching instead of selling.*
 
-## What can be known before starting
+**3. The shape of the cash.**
+What is collected up front, what recurs, what is front end against back end.
+Not the price — the structure.
+*Wrong here and the business is profitable on paper while you run out of money.*
 
-**G6** One business, run once, is a sample of one. The branch you didn't take is
-unobservable, so a good plan that got unlucky and a bad plan that got lucky look
-identical from inside. The domain yields heuristics and stances, never laws.
+**4. The price level.**
+Anchored to the nearest thing this market already buys.
+*Wrong here and you find out you are a commodity, one client at a time.*
 
-**G7** No profitable list survives being followed. A rule that reliably made money
-stops once enough people run it. Anything sold as a complete plan is either wrong
-or already spent.
+**5. The channel.**
+Proven per market, never universally. That everyone uses one is evidence it
+works, not evidence it is crowded.
+*Wrong here and you burn a quarter on a channel that was never going to fire.*
 
-**G8** Perfect knowledge would be a policy, not a plan — *if you observe X, do Y*.
-X still has to be measured. Omniscience removes the guessing, not the looking.
+### Invent — this decides how well it goes once money moves
 
-**G9** Selection moves you from the tenth percentile of choices to roughly the
-eighty-fifth. The remainder is execution and variance, neither knowable in
-advance. No quantity of analysis reaches certainty.
+**6. Delivery.**
+Usually where the real edge is.
+*Wrong here and you change it next month.*
+
+**7. The claim.**
+Has to be yours, and cannot be copied anyway — nobody can copy what you have
+done.
+*Wrong here and you rewrite a sentence.*
+
+**8. The look.**
+*Wrong here and you lose an afternoon.*
+
+---
+
+**The usual error runs the list backwards** — inventing the top because that is
+the part that feels like enterprise, copying the bottom because that is the part
+you can see. What is visible from outside is the copyable half, and the copyable
+half is not why anything works.
