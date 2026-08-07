@@ -1,7 +1,7 @@
 # Contact
 
-What other people said. `strategy.md` holds the conclusions; this holds what
-they were drawn from.
+What other people said and did. `strategy.md` holds the conclusions; this holds
+what they were drawn from.
 
 **The bar is that someone outside said it, or their data showed it.** Nothing I
 thought of enters here — no plans, no ideas, no drafts of the offer. Those live
@@ -54,3 +54,26 @@ gets assembled out of these — it is not written and then tested on them.
 ## Objections
 
 The sentence said just before the no, verbatim, with what preceded it.
+
+## Precedent
+
+Firms already selling this in English-speaking markets. The model is proven
+there; this is what "proven" looks like in specifics, so I stop re-deciding
+whether it works.
+
+**One afternoon, once.** Not a standing activity — the Cut table kills months of
+ranking options. Reopen only when something concrete needs an answer.
+
+**Copyable, so record it:** offer structure, guarantee shape, price and terms,
+what's included, how they open. **Not copyable, so don't envy it:** their proof,
+case studies, reputation, relationships. Write down what I *can't* see about
+them, so the visible part doesn't get mistaken for the machine.
+
+```
+YYYY-MM-DD · firm · country · url
+Offer:
+Price and terms:
+How they open:
+What I can't see:
+What it changes here:
+```

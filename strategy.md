@@ -66,6 +66,11 @@ Each step eliminates the one above it.
 
 ### Why Denmark
 
+- **The model is proven, just not here.** None of this is invented. Ecom profit
+  measurement is an established retainer business in English-speaking markets —
+  the red ocean *is* the proof that it works. This is an import, not a category.
+  Copy the demand; never the proof. Theirs doesn't transfer and mine is the thing
+  being built. (P3, P11)
 - **The puddle is deliberate.** Compete where the sharks aren't, then move up.
   English-language ecom profitability is a red ocean with Triple Whale, Northbeam
   and every US consultant in it. My only edge there is price. P7, P9.
