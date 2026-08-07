@@ -57,23 +57,18 @@ The sentence said just before the no, verbatim, with what preceded it.
 
 ## Precedent
 
-Firms already selling this in English-speaking markets. The model is proven
-there; this is what "proven" looks like in specifics, so I stop re-deciding
-whether it works.
+Anyone selling this as a service, not software, in English-speaking markets. The
+open question is whether the retainer version exists at all and at what price. An
+empty section answers it too.
 
-**One afternoon, once.** Not a standing activity — the Cut table kills months of
-ranking options. Reopen only when something concrete needs an answer.
-
-**Copyable, so record it:** offer structure, guarantee shape, price and terms,
-what's included, how they open. **Not copyable, so don't envy it:** their proof,
-case studies, reputation, relationships. Write down what I *can't* see about
-them, so the visible part doesn't get mistaken for the machine.
+**One afternoon.** Record what's on the page. Note what the page can't tell me —
+margins, churn, how long it took — so I don't read a landing page as a business.
 
 ```
 YYYY-MM-DD · firm · country · url
 Offer:
 Price and terms:
 How they open:
-What I can't see:
-What it changes here:
+Can't see:
+Changes here:
 ```

@@ -21,18 +21,16 @@ Nobody is in pain about being inaccurate. The pain is spending real money on a
 channel that loses it while the dashboard calls it the best one. Lead with that.
 
 **One number, two budget lines.** Allowable CAC governs the ad spend *and* the
-next purchase order. Contribution margin per channel alone governs only the
-first, and has nothing to say the month the split turns out to be roughly right.
+next purchase order. Per-channel margin governs only the first, and goes quiet
+the month the split turns out to be fine.
 
-**Lead with the unarguable half.** Returns and COGS are verifiable from their own
-ledger. Cross-channel attribution is contested, and it's the half Triple Whale is
-productising. Per product and per cohort, not per channel.
+**Per product and cohort, not per channel.** Returns and COGS are checkable in
+their own ledger. Attribution is arguable, and it's the half Triple Whale is
+productising.
 
-**The high-ticket version of what a fractional revenue chief does.** Same job —
-owning the numbers that decide where the money goes — sold as one named
-deliverable at a fixed price instead of a seat rented by the month. A seat
-carries no promise, can't be proven in a week, and gets priced against hours.
-Never use the title. Sell the number.
+**Sold as a deliverable, not a seat.** A fractional chief is priced against
+hours and promises nothing specific. Same job, fixed scope, one number, one
+price. Never use the title.
 
 Three paying clients answer the question. Ten build the asset — 3 case studies
 won't sell a retainer to a stranger.
@@ -66,11 +64,10 @@ Each step eliminates the one above it.
 
 ### Why Denmark
 
-- **The model is proven, just not here.** None of this is invented. Ecom profit
-  measurement is an established retainer business in English-speaking markets —
-  the red ocean *is* the proof that it works. This is an import, not a category.
-  Copy the demand; never the proof. Theirs doesn't transfer and mine is the thing
-  being built. (P3, P11)
+- **Unverified: does the service version exist anywhere.** Triple Whale and
+  Northbeam prove demand for the number. They don't prove anyone makes a living
+  selling it as a retainer. Who does, at what price, how they open →
+  `contact.md`. Finding nobody is also an answer.
 - **The puddle is deliberate.** Compete where the sharks aren't, then move up.
   English-language ecom profitability is a red ocean with Triple Whale, Northbeam
   and every US consultant in it. My only edge there is price. P7, P9.
@@ -138,10 +135,9 @@ delivery, never their profit; the spending decision isn't mine. Fixed scope,
 cancel anytime, never discount. Quarterly prepaid is the price shown first;
 monthly is the fallback and churns at several times the rate.
 
-**The late-delivery guarantee is priced on a skill I don't have yet.** Producing
-the number once is analysis; producing it by working day five every month is a
-repeatable close. Build it as a checklist during the first job, while getting it
-wrong is still free.
+**The late-delivery guarantee is priced on a skill I don't have.** Producing the
+number once is analysis. Producing it by working day five every month is a close.
+Build the checklist during the first job, while being late is still free.
 
 Two named introductions asked of every client at signature, not at the end. Early
 ones also trade a named case study, agreed up front. A reason why, not a
@@ -153,28 +149,23 @@ have a budget line, it's the exact buyer I want, and it puts me inside their ad
 data this month — which is the retainer's first step anyway. The way in, never
 the business. (P1, P7)
 
-**I can't do it yet, and that is task one.** Build the whole stack on a site I
-control before selling one: sGTM, Consent Mode, CAPI, reconciled against the
-platform numbers. Weeks, not months, and no client is exposed to the learning.
-Nothing else starts until it's done — selling accuracy I can't produce is the one
-failure this business doesn't survive.
+**I can't do it yet. Task one.** sGTM, Consent Mode, CAPI, built on a site I
+control and reconciled against the platform numbers before I sell one. Weeks, no
+client exposed to the learning, and nothing else starts first.
 
-**First job warm, full price, fully refundable until the events reconcile.**
-Money moves, their cost is zero if I get it wrong. That's P10's mechanism, not a
-discount, and it buys the first reps without putting the claim at risk.
+**First job warm, full price, refundable until the events reconcile.** P10's
+mechanism, not a discount.
 
 ### Front end and back end
 
 Front end: tracking work. Back end: the retainer. The front end buys the
 customer and pays for itself. The retainer is the money.
 
-**It also buys the reps, and that's why the order is forced.** Tracking is
-learnable alone — it either fires or it doesn't. The retainer's real skill isn't:
-mapping this kontoplan to these channels, deciding what counts as COGS here,
-catching the return booked a month late. That needs a real shop's messy data and
-can only be learned inside a job. So: learn tracking alone, sell it, learn the
-retainer in there. Selling the retainer first would mean learning it on someone
-paying for accuracy.
+**It also buys the reps, which forces the order.** Tracking either fires or it
+doesn't, so I can learn it alone. Mapping a kontoplan to channels and catching
+the return booked a month late needs a real shop's messy data. Learn tracking
+alone, sell it, learn the retainer inside the job — otherwise I'm learning
+accuracy on someone paying for accuracy.
 
 **Not the cheap step P1 kills.** P1 kills discounted versions of the retainer —
 they anchor it. Tracking is a different deliverable on its own budget line,
