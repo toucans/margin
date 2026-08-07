@@ -106,10 +106,27 @@ can't learn another way. Twenty first touches a day, counting replies, *is* the
 market research — a stranger spending effort on me is the costly signal. There
 isn't a second, quieter version of it. (P13)
 
-**1. The list.** Danish webshops running visible ad spend, ranked by how much —
-100k+ DKK/month first. A ranking, not a gate; the floor rises with the proof.
-Meta ad library, Trustpilot, Shopify and DanDomain footprints, FDIH membership.
-Finite and enumerable. It survives every change of message, so it's the asset.
+**1. The list.** Danish webshops running visible ad spend, ranked by how much of
+their gross profit it plausibly eats. A ranking, not a gate; the floor rises with
+the proof. Finite and enumerable, and it survives every change of message, so
+it's the asset. Trustpilot, Shopify and DanDomain footprints and FDIH membership
+fill it out. Two free sources qualify it.
+
+**Meta Ad Library** — `facebook.com/ads/library`. Every active ad, its start date
+and its creatives, for any advertiser, no account needed. No spend figure: that is
+published for political and social-issue ads only. Scale is inferred instead —
+how many creatives run at once, and how long each has been live. A creative still
+running after months is one that pays for itself.
+
+**CVR** — `datacvr.virk.dk`. Every ApS and A/S files an annual report. Class B may
+merge everything above **bruttofortjeneste**, and most do, precisely to keep
+revenue and margin from competitors. So the figure I usually get is gross profit —
+the exact numerator of what I sell. Up to six months stale.
+
+**The join is the point.** Sustained ad activity against published gross profit
+estimates what share of their margin is going to Meta. That ranks the list, and
+it is the first line of the message: a number about them, off public record,
+before any contact. It qualifies the list. It never says they will pay. (P13)
 
 **2. Outreach, a hundred actions a day.** Not a hundred strangers — the list is
 too small for that. Roughly twenty researched first touches, sixty follow-ups and
