@@ -102,7 +102,9 @@ the switch.
 ## How it runs
 
 **List → outreach → one offer.** Every step makes money or teaches me something I
-can't learn another way.
+can't learn another way. Twenty first touches a day, counting replies, *is* the
+market research — a stranger spending effort on me is the costly signal. There
+isn't a second, quieter version of it. (P13)
 
 **1. The list.** Danish webshops running visible ad spend, ranked by how much —
 100k+ DKK/month first. A ranking, not a gate; the floor rises with the proof.
@@ -287,6 +289,13 @@ AI is making them abundant. Aim at costly.
 
 **P12** A chain is as reliable as the product of its links. Prefer fewer steps
 between me and someone paying me, even when the longer plan is smarter.
+
+**P13** Two different things are called research. Desk work — competitor pages,
+market size, reports — produces descriptions, and anything findable from a desk is
+already priced in. The other kind spends a little to make someone outside do
+something costly: pay, reply, book, hand over access. Only that answers whether
+the market is there. Desk work copies structure and nothing else. Never let it
+feel like progress on the other question.
 
 | Cut | Killed by |
 |---|---|

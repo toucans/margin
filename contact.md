@@ -61,6 +61,9 @@ Anyone selling this as a service, not software, in English-speaking markets. The
 open question is whether the retainer version exists at all and at what price. An
 empty section answers it too.
 
+**Desk work.** It copies structure — price, terms, how they open. It says nothing
+about whether Danish webshops will pay, and can't. (P13)
+
 **One afternoon.** Record what's on the page. Note what the page can't tell me —
 margins, churn, how long it took — so I don't read a landing page as a business.
 
