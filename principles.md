@@ -50,40 +50,11 @@ X still has to be measured. Omniscience removes the guessing, not the looking.
 eighty-fifth. The remainder is execution and variance, neither knowable in
 advance. No quantity of analysis reaches certainty.
 
-## When planning stops paying
-
-**G10** Ask what question this hour answers, and whether the answer exists outside
-the market. Written down somewhere: read it — far cheaper than trial. Written down
-nowhere: no thinking produces it, and you are rehearsing, not planning.
-
-**G11** Deliberate on the irreversible; decide the reversible now. The true cost
-of a reversible decision is the spread plus the delay. The delay is nearly always
-spent deciding, not doing.
-
-**G12** Problem, or missed opportunity? Missed opportunities exist only in your
-head and need no thought today. Problems exist in reality.
-
-**G13** The experiment budget is small — about one a week where it is automated,
-one a quarter where people are involved, and every change costs something while it
-settles. So plan which test runs next. Never plan the outcome.
-
-## Acting without knowing
-
-**G14** Willingness follows seeing the value, not liking the task. Work out
-precisely what an action buys and the willingness appears; discipline covers only
-the stretch you cannot yet see the value of. Not a substitute for it.
-
-**G15** Liking follows competence. Nobody enjoys what they are bad at, so the
-slog is the price of the enjoyment, not evidence of a wrong choice.
+## What not to invent
 
 **G16** Fix the market, vary everything else. A change is a tactic if your
 accumulated reps still apply afterwards, a change of vehicle if they are worth
 zero. Vary hard while nothing works; clamp down the moment something does.
-
-**G17** Write the disconfirmation threshold before the drought, not during it.
-Stated in advance it is data. Decided in the moment it is mood.
-
-## What not to invent
 
 **G20** Copy everything upstream of whether money moves; invent everything
 downstream. Upstream, in order: the buyer, the problem and the evidence it is
@@ -97,12 +68,3 @@ part you can see.
 below it. Being unoriginal where it counts is what buys permission to be ordinary
 everywhere else. Skill is the smallest of the three and the one most often worked
 on instead.
-
-## Reading advice
-
-**G18** Advice is aimed at the median reader's error. Persistence advice corrects
-for quitting early and is therefore silent on persisting too long. Identify the
-error the speaker is correcting for, then check that it is yours.
-
-**G19** A claim no outcome could refute is fuel, not information. Good for
-continuing. Useless for deciding whether to.
