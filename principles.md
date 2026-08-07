@@ -56,15 +56,31 @@ advance. No quantity of analysis reaches certainty.
 accumulated reps still apply afterwards, a change of vehicle if they are worth
 zero. Vary hard while nothing works; clamp down the moment something does.
 
-**G20** Copy everything upstream of whether money moves; invent everything
-downstream. Upstream, in order: the buyer, the problem and the evidence it is
-already paid for, the shape of the cash, the price, the channel. Downstream:
-delivery, the claim, the look. That order is also the cost of being wrong — a
-wrong buyer is a restart, a wrong look is an afternoon. The usual error inverts
-it, because the top is the part that feels like enterprise and the bottom is the
-part you can see.
+**G20** Copy everything upstream of whether money moves. Invent everything
+downstream.
+
+*Upstream — copy. This decides whether money moves at all.*
+
+1. **The buyer.** Can you name people already paying someone for this?
+2. **The problem**, and evidence it is already being paid for. Inventing one
+   means funding the market's education.
+3. **The shape of the cash** — collected up front, recurring, front end against
+   back end. Not the price; the structure.
+4. **The price level.** Anchored to the nearest thing the market already buys.
+5. **The channel.** Proven per market, not universally.
+
+*Downstream — invent. This decides how well the work goes once it does.*
+
+6. **Delivery.** Usually where the real edge is, and cheap to be wrong.
+7. **The claim.** Has to be yours, and can't be copied anyway.
+8. **The look.**
+
+The order is also the cost of being wrong: a wrong buyer is a restart, a wrong
+look is an afternoon. The usual error inverts it — inventing the top because that
+feels like enterprise, copying the bottom because that is the part you can see.
 
 **G21** Market beats offer beats skill, and a strong link cancels a weak one
-below it. Being unoriginal where it counts is what buys permission to be ordinary
-everywhere else. Skill is the smallest of the three and the one most often worked
-on instead.
+below it. A great market carries a bad offer; a great offer carries weak
+persuasion; a bad market stops everything under it. So being unoriginal where it
+counts is what buys permission to be ordinary everywhere else. Skill is the
+smallest of the three and the one most often worked on instead.
