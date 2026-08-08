@@ -1,8 +1,16 @@
 # Medspa — candidate market
 
-**Status: evaluated, not adopted.** Danish webshops remain the business. This
-file exists so the option can be killed or adopted on evidence instead of mood.
-Nothing here is a commitment.
+**Status: KILLED 2026-08-08, on market size.** Danish webshops remain the
+business. Kept as a record so it is not re-derived from scratch in six months,
+and because the list method below is reusable.
+
+**What killed it.** The 523 companies were joined to their published accounts.
+Roughly **15 genuine clinics have a bruttofortjeneste above 3M DKK** — the
+rough floor for a 10k DKK/month retainer to be anything other than absurd. The
+pre-registered criterion was forty. Detail under *The join*.
+
+Un-killing requires new information named in the commit message. A better
+message is not new information.
 
 **Read `strategy.md` first.** How the business runs — offer architecture,
 guarantee, outreach cadence, pricing, the cut list — applies unchanged. This
@@ -28,7 +36,8 @@ filtered to DK.
   not what I sell.
 - Sustained multi-creative activity → demand-constrained → the offer transfers.
 
-Not run yet, 2026-08-08. Everything below waits on it.
+Never run — the size question below answered first and cheaper. Noted because
+the test itself is sound and reusable on any list keyed by CVR.
 
 ## The list — better than the webshop list
 
@@ -59,7 +68,41 @@ botox for migraine. Eyeball before touching.
 
 The extract is a regenerable cache. Rebuild it from the xlsx; do not commit it.
 
-## The ceiling problem — the real objection
+## The join — how the market was sized
+
+Two public, unauthenticated endpoints. No key, no scraping, no vendor.
+
+- `distribution.virk.dk/offentliggoerelser/_search?q=cvrNummer:<cvr>` — which
+  annual reports exist, with a link to the XBRL.
+- `regnskaber.virk.dk/…xml` — the report itself. Tag `GrossProfitLoss` is
+  bruttofortjeneste; `EmployeeBenefitsExpense` is personaleomkostninger, a decent
+  capacity proxy. Match `contextRef` to the reporting period or you read last
+  year's figure.
+
+Same join works on the webshop list. It is the missing half of the ranking in
+`strategy.md` — that section describes reading bruttofortjeneste off CVR by hand.
+This does all of them in ten minutes.
+
+Result across the 523, latest filed accounts (mostly FY2025):
+
+| | |
+|---|---|
+| File accounts with a gross-profit line | 209 |
+| File no annual report at all | 283 |
+| Median bruttofortjeneste of those 209 | 487.830 DKK |
+| ≥ 3M DKK | 20 companies |
+| ≥ 5M DKK | 11 |
+| ≥ 10M DKK | 6 |
+
+The 283 non-filers are personally owned — sole traders do not file — so they are
+one room and one pair of hands. That is over half the register.
+
+Of the 20 above 3M, four or five are not medspas at all: a medical-supply
+distributor, a skincare manufacturer, a private hospital, a dermatology practice.
+**Roughly fifteen real ones.** The largest by a distance is N'AGE at 64,8M, then
+CeriX at 31,4M; below the top six it falls off a cliff.
+
+## The ceiling problem — confirmed by the join
 
 523 companies, not a few thousand. At twenty first touches a day the **entire
 market is contacted in about five weeks.**
@@ -103,17 +146,46 @@ events plus offline conversion import from the booking system.
 
 ## Kill criteria
 
-Any one of these ends it. Record the date here when it fires.
+- ~~Ad Library check shows the 40 chains barely advertising.~~ Never run. The
+  size question landed first and made it moot.
+- **Fewer than 40 companies clear a bruttofortjeneste bar supporting 10k
+  DKK/month. → FIRED 2026-08-08. About fifteen.**
+- ~~100 researched first touches produce no call.~~ Not reached.
 
-- Ad Library check shows the 40 chains barely advertising.
-- Fewer than 40 companies clear a bruttofortjeneste bar supporting 10k DKK/month.
-- 100 researched first touches produce no call.
+The criterion was written down before the data was pulled. That is the only
+reason to trust the answer.
 
-## Open
+## The American version — considered, does not reopen
 
-- Danish supply/demand. Unverified. Blocks everything.
-- Whether clinics buy advisory at all, or file it as an accountant task.
-- What a Danish clinic actually spends on Meta per month. If it is 20k DKK, a
-  15k DKK/month retainer to measure it is absurd on its face.
+Ten to fifteen thousand US medspas against fifteen Danish ones is a real
+argument, and it is the obvious response to the number above. It still loses,
+on grounds already in `strategy.md` → *Why Denmark*.
+
+The moat is the localisation cost — kontoplan, moms, e-conomic, Dinero. In the
+US that knowledge is QuickBooks and a US chart of accounts, which every American
+bookkeeper already has. Same learning cost, no advantage bought. It converts the
+only defensible position into a red ocean where the sole edge is price, which is
+P9's no-floor case.
+
+Against it also: no local-trust discount on a cold approach, no referrals, no
+case studies, US agencies already swarming that buyer, and sales calls at 22:00
+CET for years.
+
+The rule stands unchanged — **reopen geography when capacity, not demand, is
+what stops me.** Zero clients is not a capacity problem. Nothing found here is
+new information about geography; it is information about a vertical.
+
+## What this leaves
+
+Danish webshops, unchanged, for the reason the join makes concrete: a few
+thousand of them, where ten to twenty clients is under half a percent rather
+than a quarter of the market.
+
+Two things were worth the detour and are kept:
+
+- **The bruttofortjeneste join above.** Point it at the webshop list.
+- Medspa is a **capacity** business, webshops a goods-margin one. Naming that
+  sharpened what is actually being sold: not a number, but the specific
+  arithmetic of one kind of business.
 
 Contacts, prices and how anyone opens go in `contact.md`, not here.
