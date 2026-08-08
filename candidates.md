@@ -113,6 +113,59 @@ earnings they can verify and less for a founder's assertion. Same competence, sa
 data sources, larger fee, different decision. This is the one candidate that is a
 continuation rather than a switch.
 
+### Which language the content is in
+
+The rule that decides it: **match the language of the decision, not the language
+of the topic.** The topic is universal — multiples, EBITDA, founder-dependence are
+the same everywhere. The decision is not: selling a Danish ApS, under Danish tax,
+to a Danish or Nordic buyer, is made in Danish by someone who will use their first
+language for the most frightening financial decision of their life.
+
+Three configurations, and only one of them is what I actually reached for.
+
+**A. Danish content → Danish service.** The P7 puddle. Almost no competition —
+few people write well about generationsskifte in Danish — and every reader who
+finds it is qualified by the act of searching in Danish. Low volume, high
+concentration.
+
+**B. English content → Danish service.** *This is the one that fails, and it is
+the one I was drawn to.* The audience and the buyer are different populations.
+Danish SME owners facing a generationsskifte number ~40.000 against a global
+English-reading business audience in the hundreds of millions. To reach them
+through English I need reach in the tens of millions; to reach them in Danish I
+need to reach Danes. It is the hobby-niche trap in a new costume: an audience I
+cannot serve, and content whose readers convert somewhere else.
+
+**C. English content → English service.** Jurisdiction-neutral preparation sold
+internationally. Coherent, and it is the red ocean — every M&A advisor, every PE
+associate and every search-fund account already publishes exactly this. P7: the
+localisation cost is the moat, and this configuration throws it away. It also
+throws away the CVR data advantage, which is the only proprietary thing I have.
+
+*What I could not verify:* English proficiency in Denmark by age. EF EPI puts
+Denmark at 603, #7 of 116, with regions from 584 (Syddanmark) to 631
+(Midtjylland). But EF's sample is self-selected online test-takers — young, urban,
+motivated — so it overstates the proficiency of a 62-year-old owner in Sønderjylland,
+who is the actual buyer. Directional, not evidence.
+
+### The split that saves the instinct
+
+English is not wrong. It is aimed at the wrong side of the table.
+
+**Danish to be found by sellers. English to be trusted by buyers.** Nordic M&A
+runs its deal process in English — acquirers, PE, advisors, documents. And the
+number-one thing that kills this business is *deal access*: if owners route to
+their revisor regardless, knowledge doesn't convert. Being visible and credible to
+the buy side in English is a direct lever on exactly that constraint, which no
+amount of Danish seller-facing content touches.
+
+So: two audiences, two languages, one business. Not two businesses — the content
+serves one transaction from both ends.
+
+*Hypothesis, unverified:* that Nordic buy-side operates in English by default, and
+that being known to it produces deal access. Check by looking at how three
+completed Danish SME sales were actually sourced.
+
 ### What kills it
 
 Ranked by speed:
