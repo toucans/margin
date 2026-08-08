@@ -29,6 +29,11 @@ A fifth, learned from Hormozi and not in the original four: **does the buyer sto
 buying?** Retention is set by what you sell, not how well. People keep a cleaner
 and cancel a gym.
 
+**Recurring revenue is not one of the filters, and must not be smuggled in as
+one.** See the correction under §1: a one-off project business is a valid shape,
+and the test is whether one project's price carries the acquisition cost of the
+next.
+
 ---
 
 ## 1. One large asset, decided once a decade
@@ -43,16 +48,43 @@ build, farmland and forestry, a boat.
 | Capacity/trust-bound | **Passes.** Fully fragmented, no marketplace, referral-driven |
 | Prices incomparable | **Mostly.** Architecture yes. Køberrådgivning no — it is already fixed-fee and quoted against |
 
-**What kills it: no ongoing wrongness.** `strategy.md` step 4 — retainers come
-from the number decaying, not from ongoing work. A one-off decision is a project
-fee, and then the client is gone forever with no reason to return. This is the
-single worst structural fit with everything else I've decided.
+### Correction: "it's one-off" is not a kill
 
-**The only version that survives** is advising someone who does this repeatedly —
-a portfolio owner, a developer, a family office — which is a tiny population and
-is B2B, i.e. the thing I already do.
+The first version of this file killed this family for having no recurring revenue,
+citing step 4. **That was an out-of-scope use of the principle**, which is the
+error `strategy.md` explicitly warns about — a principle kills what it was aimed
+at, not everything adjacent. Step 4 is aimed at *comparable implementation sold to
+the same buyer as the retainer*: cheap setup work that gets quoted against a
+freelancer and teaches the buyer the work is cheap. It says nothing about
+high-price one-off projects as a business.
 
-**Not pursued.** Fails the retainer test, which is upstream of the four filters.
+The counter-example is in the corpus and I already wrote it up: **Gym Launch phase
+one was a one-off project business.** Fly out, thirty days, ~100k USD collected,
+leave, never see them again. No employees. He abandoned it over delivery control
+and travel logistics — not because one-off is a bad shape.
+
+**What actually governs a one-off project business:**
+
+- Churn is 100% by design, so **the lead engine is the business** and delivery is
+  the smaller half. That makes one-off projects a *better* fit for a content-led
+  business than a retainer is, not worse — content is the engine, and it has to
+  run forever either way.
+- Viability is price per project against cost per project acquired. High price
+  plus referral compounding works. Low price plus paid acquisition dies.
+- Each finished project produces proof, which lowers the cost of the next one.
+  **That is the compounding**, and it sits in acquisition rather than in revenue.
+
+So the test is not "does it recur." It is: *can one project's price carry the
+acquisition cost of the next, and does finishing it make the next one cheaper?*
+Under that test this family passes.
+
+**Why it is still not pursued — the honest reason.** I have no credential in any
+of it and cannot get one quickly. Architecture, bygherrerådgivning and property
+advisory are sold on years of demonstrable judgement about buildings. That is a
+decade, not a quarter. The shape is fine; the entry is closed to me.
+
+Køberrådgivning specifically also fails filter 4 — it is already fixed-fee and
+quoted against.
 
 ---
 
@@ -137,6 +169,41 @@ Singapore.
 expect to move again and need the child to hold a language for a future school
 entry. Rare in that it is a multi-year commitment, and it is the one variant with
 both high stakes *and* recurrence.
+
+### The Thai version, evaluated
+
+I speak Thai. The idea was content arguing that children exposed to TV shows
+become fluent in a few years, with a service attached. Three problems, worst
+first.
+
+**1. The premise is not supported, and that is disqualifying here of all places.**
+Infants exposed to a second language via video or audio showed *no* learning,
+where infants exposed to live speakers discriminated foreign phonemes as well as
+native speakers. Passive exposure familiarises a child with sound and rhythm; it
+does not teach use — not pronunciation, not grammar, not spontaneous response.
+Unsupervised screen exposure is associated with *worse* language and executive
+outcomes, not better.
+
+The defensible version is much duller: **for a child who already has live
+interaction in the language, media extends vocabulary and register.**
+Supplementary, not causal.
+
+This one matters more than it would elsewhere. The entire margin business is built
+on being accurate where the market is confidently wrong. Leading with a claim an
+informed parent can falsify in one search is the same failure, pointed at me.
+
+**2. The service is missing, and I knew it when I had the idea.** Content plus
+"…idk" is an audience, not a business. Parents who want to raise a bilingual child
+will do it themselves — filter 2 fails, which is the hobby-niche trap exactly.
+
+**3. Purchasing power.** ~11.300 Thai immigrants in Denmark (DST, 2017), mostly
+middle-aged women, with a real second generation. Enumerable, reachable, and
+genuinely in pain — the child answers in Danish, the grandparent cannot talk to
+the grandchild. But this is not an affluent demographic, and pain without money is
+the résumé-writer market: massive pain, easy to target, growing, nobody can pay.
+
+**Not pursued.** Fails on evidence, on service, and on purchasing power
+independently. The Thai fluency is a real asset; this is not the way it pays.
 
 ### What would have to be true
 
