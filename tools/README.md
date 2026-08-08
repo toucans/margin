@@ -108,3 +108,18 @@ For (4) the public candidates, best first:
   gross profit is going to Meta. Needs tier 2.
 
 The first two work right now, on any domain, with no account.
+
+## Applying the gate to a bulk extraction
+
+The rule lives in `../strategy.md` → *Who qualifies*. Don't restate it here; this
+is only which source answers which test, for filtering the tier-2 dump.
+
+| Test | Source | Field |
+|---|---|---|
+| Sustained ad spend | Meta Ad Library | oldest live creative > ~90 days, and count of concurrent creatives |
+| Gross profit worth being wrong about | `bfj.py` | `bruttofortjeneste`, else revenue × sector margin |
+| Ledger already exists | CVR | virksomhedsform ApS/A/S **and** a filed annual report; sole traders file nothing, so they fail this test by construction |
+| Category shape | branchekode + `probe.py` | 47008 is too coarse — shape comes from the site: SKU breadth, AOV proxy from the free-shipping threshold, own-brand vs reseller |
+
+**Shape is the one that can't be automated from public data**, and it is a
+down-rank as often as an up-rank. Score the first three, then read the site.

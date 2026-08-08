@@ -115,10 +115,42 @@ market research — a stranger spending effort on me is the costly signal. There
 isn't a second, quieter version of it. (P13)
 
 **1. The list.** Danish webshops running visible ad spend, ranked by how much of
-their gross profit it plausibly eats. A ranking, not a gate; the floor rises with
-the proof. Finite and enumerable, and it survives every change of message, so
-it's the asset. Trustpilot, Shopify and DanDomain footprints and FDIH membership
-fill it out. Two free sources qualify it.
+their gross profit it plausibly eats. Finite and enumerable, and it survives every
+change of message, so it's the asset. Trustpilot, Shopify and DanDomain footprints
+and FDIH membership fill it out. Two free sources qualify it.
+
+**Who qualifies — three things, or don't sell.** Gym Launch's clients only
+succeeded with a signed lease, one employee and 30 customers, so they refused
+anyone missing them *and said so in the marketing*. Average results rose, which
+made a stronger claim marketable, which pulled better clients. Same loop here:
+
+1. **Sustained ad spend** — creatives live for months, not a burst.
+2. **Gross profit worth being wrong about** — a floor in DKK, from CVR, such that
+   30–50% error on allowable CAC is real money.
+3. **A ledger that already exists** — ApS or A/S filing accounts, e-conomic or
+   Dinero, ideally a bookkeeper. This is the signed lease: it means my half of the
+   data is there before I arrive.
+
+The ranking orders who gets a researched touch. The gate decides who is on the
+list at all, and it is stated publicly — it says who this is *not* for. (Replaces
+"a ranking, not a gate": the floor still rises with the proof, but a floor of zero
+buys the wrong three clients, and those three write the asset.)
+
+**Then category shape, which size alone won't tell me.** Ecommerce is a staircase
+gated by capital; the winner-take-all sits in the ad auction, where whoever earns
+most per customer takes all the traffic at the margin. A shop in that race can't
+act on the number — losing, it's already dead; winning, it has capital and hires
+the number in-house.
+
+*Prefer* what the auction can't reach: narrow niche, high localisation cost,
+considered/high-AOV, own manufacturing, repeat purchase with an owned list, B2B.
+*Deprioritise* commodity categories, marketplace-dependent shops, dropship and
+media arbitrage — even at high bruttofortjeneste. **Hard bidding on thin gross
+profit is a down-rank, not an up-rank**: they're spending because they're losing,
+and they will stop.
+
+Unverified. Record category shape per job in `contact.md` next to the DKK figures;
+three clients say whether shape predicts anything or whether size was enough.
 
 **Meta Ad Library** — `facebook.com/ads/library`. Every active ad, its start date
 and its creatives, for any advertiser, no account needed. No spend figure: that is
