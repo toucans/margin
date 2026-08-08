@@ -87,6 +87,14 @@ pays outsiders from that budget line, a job that appreciates under automation,
 and a skill I can acquire on my own — not one I have. That third leg is the
 weakest, and the only one I can fix this month.
 
+**The buyer survived one test: where is the gross profit already committed.**
+Kosmetiske klinikker have none to commit — 15 firms clear 3 mio. Bilforhandlere
+commit 82% of it to payroll, rich per firm and nothing spare. Webshops commit
+theirs to media, which is the line I sell accuracy about. Measured from
+offentliggjorte regnskaber, not reasoned. **It fails** if advertising stops being
+a webshop's largest discretionary cost — acquisition consolidating into
+marketplaces, the way Bilbasen did to bilhandlen. Watch marketplace share.
+
 **Nothing else has one.** A webshop's recurring money decisions are ad spend,
 inventory, working capital, pricing, shipping, returns, assortment, retention,
 conversion. Only ad spend already has an outsider paid from it. Inventory is the
