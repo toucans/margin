@@ -4,10 +4,6 @@
 
 **Edit in place.** Git has the history. This file is only the current answer.
 
-Second business file alongside `ecommerce.md`, equal standing. **No clients
-yet**, and the offer is not chosen — what is settled is the buyer and the
-pricing logic.
-
 ---
 
 ## Who buys it
