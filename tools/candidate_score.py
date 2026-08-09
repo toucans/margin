@@ -68,25 +68,18 @@ C = [
         key="contemplative",
         name="Contemplative psychology, English market",
         buyer_named=1, problem_paid=1,
-        koebekraft=0.45, moat=0.70, price_anchor=0.55, reachable=0.40,
+        koebekraft=0.45, moat=0.15, price_anchor=0.55, reachable=0.40,
         # Revealed: years of unpaid study and an archive built for its own
         # sake. That is the strongest adherence evidence available for any
         # candidate here, and it was not collected in order to win an argument.
         revealed=0.95, day_shape=0.85,
         note="Buyer gate passes in English (Waking Up, Ten Percent Happier, "
              "MBSR, retreats) and fails in Thai, where dhamma is given not "
-             "sold. Koebekraft is the risk and depends entirely on which "
-             "buyer, not which subject. Reachable is low: no register, no "
-             "enumerable list, unlike Danish webshops.",
-    ),
-    dict(
-        key="exit",
-        name="Sell-side preparation, Danish SME",
-        buyer_named=1, problem_paid=1,
-        koebekraft=0.95, moat=0.60, price_anchor=0.85, reachable=0.75,
-        revealed=0.15, day_shape=0.40,
-        note="Highest purchasing power of the three. Killed slowly by deal "
-             "access and a years-long window, not by market size.",
+             "sold. Koebekraft is the risk and depends on which buyer, not "
+             "which subject. Moat scored 0.15, not 0.70: an index over a "
+             "public YouTube channel is a few prompts of work and machine "
+             "translation is closing the language gap anyway. Reachable is "
+             "low - no register, no enumerable list, unlike Danish webshops.",
     ),
 ]
 

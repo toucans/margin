@@ -1,9 +1,10 @@
 # Principles
 
-General rules. Not this business.
+General rules. Not any one business.
 
-Anything that decides something *here* is a **P** in `strategy.md` and lives only
-there. This file never restates one — it cites.
+Anything that decides something in a specific business is a **P** in that
+business's file — `ecommerce.md` or `contemplative.md` — and lives only there.
+This file never restates one; it cites.
 
 **The bar is that it changed a decision**, and that it isn't already in the
 corpus. Anything `./hormozi` returns on demand is a duplicate of a searchable

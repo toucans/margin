@@ -1,6 +1,6 @@
 # Tools, and what public data is actually reachable
 
-For the list and the ranking described in `../strategy.md`. That file says what
+For the list and the ranking described in `../ecommerce.md`. That file says what
 is sold and to whom; this one says where the data comes from and what has to be
 asked for.
 
@@ -111,7 +111,7 @@ The first two work right now, on any domain, with no account.
 
 ## Applying the gate to a bulk extraction
 
-The rule lives in `../strategy.md` → *Who qualifies*. Don't restate it here; this
+The rule lives in `../ecommerce.md` → *Who qualifies*. Don't restate it here; this
 is only which source answers which test, for filtering the tier-2 dump.
 
 | Test | Source | Field |

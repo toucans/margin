@@ -9,7 +9,7 @@ import csv, collections
 # --- weights, and why -------------------------------------------------------
 W = {
     "koebekraft": 0.30,   # what killed medspa; Hormozi's resume-writer story
-    "budgetlinje": 0.22,  # strategy.md step 3 - an outsider already paid from it
+    "budgetlinje": 0.22,  # ecommerce.md step 3 - an outsider already paid from it
     "kanikkeselv": 0.15,  # messy enough to be hard, lean enough to outsource
     "antal": 0.18,        # need >=800 so 10-20 clients is a small share
     "vaekst": 0.08,       # Hormozi: a normal market is fine
@@ -52,7 +52,7 @@ BUDGET = {
     "77000": (0.50, "some lead buying"),
     "35001": (0.40, "retailers advertise, but the count is mostly grid companies"),
     "45002": (0.40, "local lead gen, small budgets"),
-    "41000": (0.35, "buys leads, small budgets - strategy.md already cut haandvaerkere"),
+    "41000": (0.35, "buys leads, small budgets - ecommerce.md already cut haandvaerkere"),
     "42000": (0.35, "mostly tender"),
     "43001": (0.35, "same"),
     "69001": (0.30, "some, mostly referral"),

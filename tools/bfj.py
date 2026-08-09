@@ -3,7 +3,7 @@
     python3 bfj.py <input.csv> [output.csv]
 
 Input needs a `cvr` column; every other column is carried through untouched.
-This is the ranking step in strategy.md - the one that decides which names on
+This is the ranking step in ecommerce.md - the one that decides which names on
 the list are worth a researched first touch.
 
 Two public, unauthenticated sources, no key and no vendor:

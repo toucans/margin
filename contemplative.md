@@ -1,142 +1,129 @@
-# Candidate market: contemplative psychology, English
+# Contemplative psychology, English
 
-Not the business. `strategy.md` is. Working file — **deleted** when the question
-is answered, the way medspa was. The commit history is the record.
+**Read before:** changing direction here, or spending more than a day on it.
 
-**This fails P5 today**, like `candidates.md`: no clients, no case study.
-Written down so it isn't re-derived, not so it can be started now. The standing
-rule at the bottom of `candidates.md` applies here unchanged.
+**Edit in place.** Git has the history. This file is only the current answer.
+
+Second business file alongside `ecommerce.md`. Neither is the fallback for the
+other. **No clients yet** — everything below is reasoned, and marked where it is
+not checkable.
 
 ---
 
-## What changed
+## What I sell
 
-The earlier conclusion — *"no money in dhamma"* — was reached about **Thai
-video** and filed as if it were about **Buddhism**. Those are different claims
-and only the first one holds.
+Contemplative method — Theravada practice stripped of its vocabulary and taught
+as applied psychology — sold as **one named result to one named person**.
 
-**Thai fails the buyer gate, and hard.** In Thai Theravada culture dhamma is
-given, not sold: monastics teach on dana, and charging for it is close to a
-category error. So *"name people already paying someone for this"* has no answer
-— not because the audience is poor, but because the transaction does not exist.
-This is `candidates.md` configuration B in another costume: an audience I cannot
-serve, content whose readers convert somewhere else.
+The claim is a change the buyer can notice within weeks: sleeping through the
+night, not detonating in the meeting, deciding without the churn.
 
-**English does not inherit that.** Named buyers already charging: Waking Up, Ten
-Percent Happier, Headspace, Calm, Insight Timer, hospital and university MBSR
-programmes, residential retreat centres, and every therapist billing
-mindfulness-based CBT. *Unverified from any register — reasoned, not measured.*
+Nobody buys meditation, and nobody buys Buddhism. They buy the thing it does.
 
-## The buyer, which is the whole question
+## Who buys it
 
-Not the subject. `score.py`'s weights say it and medspa proved it:
-**køpekraft is what kills these.** Hormozi's worked example is a genuinely good
-résumé service that could not get paid because its market was unemployed people.
+| Buyer | Pain | Can pay | Verdict |
+|---|---|---|---|
+| Founders / operators under load | High | Yes | **Lead** |
+| Coaches and therapists wanting method | Medium | Yes — they buy CPD | **Second** |
+| "Spiritual seekers" | High | No | The résumé trap |
+| People in acute crisis | Very high | Sometimes | Clinical, not mine |
 
-| Buyer | Pain | Can pay | Reachable | Verdict |
-|---|---|---|---|---|
-| "Spiritual seekers" | High | **No** | Diffuse | The résumé trap |
-| People in acute crisis | Very high | Sometimes | Hard, and ethically fraught | No |
-| **Founders / operators under load** | High | **Yes** | Yes | **Lead candidate** |
-| **Coaches & therapists wanting method** | Medium | **Yes** | Yes — they buy CPD | **Second** |
-| Corporate L&D | Low-medium | Yes | Slow, procurement | Later, if ever |
+The two live rows share the property the ecommerce buyer has: **they already pay
+an outsider for something adjacent.** Founders buy executive coaching;
+therapists buy continuing education. Neither has to be taught the category
+exists — P2, the most expensive line in business.
 
-The two live rows have the same property the margin buyer has: **they already
-pay an outsider for something adjacent.** Founders buy executive coaching;
-therapists buy continuing education. Neither needs to be taught that the
-category exists, which is `principles.md` item 2 — inventing the problem is the
-most expensive line in business.
+**The failure mode is a slide, not a decision:** drifting from founders back to
+seekers, because seekers are pleasanter to talk to and there are more of them.
+Every version of this dying looks like that.
 
-**The same content, addressed to a different person, is the entire price
-difference.** Not a different subject.
+## Why this
 
-## Why this is not just another mindfulness account
+1. **The subject is not the constraint.** Across 6,930 posts in a community of
+   people building exactly this kind of business, market choice barely separates
+   outcomes (45–67%) while showing up repeatedly separates them more (33–68%).
+   Contemplative work appears there with money attached.
+2. **Purchasing power is the constraint**, and it is set by *which buyer*, not
+   *which subject*. This is the only thing on this page that kills the business
+   outright, and it is the one thing fully in my control.
+3. **English, not Thai.** In Thai Theravada culture dhamma is given, not sold, so
+   "name someone already paying for this" has no answer — P1 fails outright.
+   English has named buyers already charging: Waking Up, Ten Percent Happier,
+   MBSR programmes, retreat centres, therapists billing mindfulness-based CBT.
+   *Unverified against any register.*
+4. **Price follows the named buyer, not the content.** Same principles, addressed
+   more precisely, is the whole price difference — *100M Offers*, the Dan Kennedy
+   example: $19 generic, $499 named, "almost an identical product."
 
-`principles.md` 7: *the claim has to be yours, and cannot be copied — nobody can
-copy what you have done.*
+### What I do not have
 
-The English contemplative market is crowded with people paraphrasing the same
-secondary sources. Almost none can read the primary material. **Thai fluency
-plus the Zen/Sukato archive is access to a body of Thai forest-tradition
-teaching the English market cannot reach.**
+**No moat.** A retrieval index over a monk's public YouTube channel took a few
+prompts to build and anyone can rebuild it; machine translation is closing the
+language gap independently. Nothing here is defensible on access to material.
 
-The earlier framing had Thai as the *output*, which is the configuration that
-fails. Thai as the *source* and English as the market turns the rare capability
-from a ceiling into the moat. That inversion is the actual finding here.
+If there is ever an edge it is P7 — having actually done the thing — and that is
+earned by practising and teaching, not by owning files. Until then this competes
+in the open, on delivery.
 
 ## The offer
 
-**Narrow the buyer, not the teaching.** Dan Kennedy's example, via *100M
-Offers*: a generic time-management course is $19; "for sales professionals" is
-$99; "for B2B outbound sales reps" is $499 — *"almost an identical product"*, a
-25× price change, all of it from naming the buyer more precisely.
+**Narrow the promise, not the teaching.** One result, one buyer. What actually
+produces the result is interconnected and stays that way in delivery; the
+narrowness is in what gets sold, not what gets taught.
 
-So the answer to *"must I sell only anxiety?"* is no. Sell **one named result to
-one named person**, and deliver whatever actually produces it, which is
-interconnected and always was. The narrowness belongs in the promise, not in the
-curriculum. Nobody buys meditation; they buy sleeping through the night, or not
-detonating in the meeting.
+Shapes, cheapest first:
 
-Shapes worth testing, cheapest first:
-
-1. **Small cohort or 1:1 on one named result.** Fits `strategy.md` step 1 exactly
-   — high price, low client count, no audience required.
+1. **Small cohort or 1:1 on one named result.** High price, low client count, no
+   audience needed — the same constraint that shapes `ecommerce.md`.
 2. **Method training for coaches and therapists.** Buyers who already spend on
-   training; uses depth rather than reach.
-3. **Translation and commentary from the archive** as the wedge — the lead
-   magnet nobody else can build.
+   training; depth rather than reach.
 
-No low-ticket tier in front of it, same reason as `strategy.md`: it gets quoted
-against an app and teaches the buyer the work is cheap.
+No low-ticket tier in front of it. It gets quoted against a $12 app and teaches
+the buyer the work is cheap.
 
-**Price anchor:** executive coaching, not meditation apps. The anchor is chosen
-by which buyer is named, which is the same lever as everything above.
+**Price anchored to executive coaching, not meditation apps.** The anchor is
+chosen by which buyer is named.
+
+## How it runs
+
+Unlike ecommerce, **there is no list.** No register of founders who cannot
+sleep, no CVR, no Ad Library. The outreach machine in `ecommerce.md` does not
+transfer, and that is the practical difference between the two businesses.
+
+So the first question is not the offer, it is **reach**: warm first — anyone who
+already knows me — then whoever the first conversations point at. If it turns
+out to need an audience built from zero, it is a volume play and P1 in
+`ecommerce.md` rules it out.
 
 ## What kills it
 
 Ranked by speed.
 
-1. **Køpekraft, if the buyer drifts.** Every failure mode here is the same one:
-   sliding from founders back to seekers because seekers are more fun to talk to
-   and there are more of them. This is the thing to watch, and it is a slide,
-   not a decision.
-2. **No enumerable list.** Danish webshops can be enumerated from CVR and Meta
-   Ad Library. There is no register of founders who cannot sleep. The margin
-   plan's entire outreach machine does not transfer, and `strategy.md`'s
-   *"twenty researched first touches a day"* has nothing to be researched
-   against.
-3. **Red ocean on the visible half.** `principles.md`: *how you found it predicts
-   how crowded it is.* The archive is the answer to this, or nothing is.
-4. **P5, heavier than usual.** Proof in this market is testimonial and slow, and
-   the results are subjective in a way ad-spend numbers are not.
-5. **Split focus.** Two businesses is the most expensive way to answer this
-   question. The one-source rule exists for exactly this.
+1. **Buyer drift.** See above. Watch for it in who I actually talk to, not in
+   what I intend.
+2. **No enumerable list**, so no researched-outreach engine and no cheap way to
+   run the twenty-touches-a-day loop that makes the other business legible.
+3. **Selling dana-tradition material.** The norm that kills the Thai version may
+   follow the material into English. **Check before anything else** — it is
+   cheap to check and it changes what can be sold at all.
+4. **P5, heavier than in ecommerce.** Proof is testimonial and slow; results are
+   subjective in a way a margin number is not.
+5. **Split focus.** Two businesses is the most expensive way to decide between
+   two businesses.
 
 ## Unverified
 
-- Whether any of the named English buyers pays **at retainer or programme
-  prices** rather than app prices. Check: three practitioners actually selling
-  to founders, at what price, sourced how.
-- Whether the archive is legally and ethically distributable in translation.
-  Dana-tradition material carries expectations that a paywall may violate — the
-  same norm that kills the Thai version could follow the material into English.
-  **Check this before anything else; it can invalidate the moat outright.**
-- Whether "founders under load" is reachable without an audience. If it needs
-  reach, this becomes a volume play and `strategy.md` step 1 rules it out.
+- Whether any named English buyer pays at **programme prices** rather than app
+  prices. Check: three practitioners selling to founders — price, and how the
+  client was sourced.
+- Whether dana-tradition material can be sold at all without violating the norm
+  it came from. Blocks item 3 above.
+- Whether "founders under load" is reachable without an audience.
 
-## Scoring
+## Standing rule
 
-`score.py` cannot take this candidate: it ranks Danish branchekoder from DST,
-and there is no branchekode for people who cannot sleep. Forcing it would
-produce a number with no referent. `tools/candidate_score.py` scores what this
-kind of candidate actually turns on, gates first.
-
-Result: with adherence weighted at 0.30 the three candidates finish within 0.012
-of each other — margin 0.645, exit 0.642, contemplative 0.633. Drop adherence
-and margin wins by a distance (0.836 to 0.514).
-
-**The crossover is at an adherence weight of about 32%.** Below it margin wins;
-above it contemplative does. That single parameter *is* the decision, and no
-amount of further market analysis moves it — which is the honest answer to
-whether a scorecard can settle this. It cannot. It can only say what you would
-have to believe.
+Nothing here gets a day of work before three ecommerce clients exist — not
+because this matters less, but because one of them has to go first and that one
+has a list. Revisit the order when either the ecommerce list is running or the
+dana question comes back negative.
