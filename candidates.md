@@ -185,8 +185,23 @@ Ranked by speed:
 
 ---
 
+## Other open candidates
+
+One, in its own working file because it shares nothing with the shape above:
+**`contemplative.md`** — contemplative psychology sold in English. Same standing
+rule, same P5 failure today.
+
+It does *not* go through `score.py`: that tool ranks Danish branchekoder from
+DST, and this candidate has no branchekode and no Danish buyer. Forcing it would
+produce a number with no referent. `tools/candidate_score.py` scores that kind of
+candidate instead — gates before weights, and adherence as a term.
+
 ## Standing rule
 
 Nothing here gets a day of work before three margin clients exist. Then it goes
 through `score.py` against DST data — measured, not reasoned — and the losers get
 deleted with the reason in the commit message.
+
+**Where the tool cannot represent the candidate, say so and use the other one
+rather than producing a comparable-looking number.** A score with no referent is
+worse than no score: it survives into later arguments as if it had been measured.
