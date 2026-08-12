@@ -38,8 +38,15 @@ Anchored to executive coaching, not meditation apps.
 
 ## The content
 
-**A dhamma talk solves seeing.** One narrow problem of understanding, solved
-completely — why the promotion didn't land, what the second arrow is.
+**The content is the targeting** — it is the first qualifying step, before any
+CTA. Dhamma on founder problems assembles founders; dhamma in general assembles
+seekers, which is the slide above. So every talk takes its *case* from their
+week: the promotion that didn't land, the decision that won't settle, the
+Sunday that was already Monday. The dhamma is unchanged; the situation is
+theirs.
+
+**A talk solves seeing.** One narrow problem of understanding, solved
+completely.
 
 It always reveals the same next problem: *I saw it clearly for four days, then
 went back to being the same guy.* That gap is the offer.
@@ -61,8 +68,11 @@ calendar with the unqualified.
 ## The CTA
 
 In nearly every piece, and soft. Talk, don't pitch — the content is the proof —
-then one line naming who it is for and what happens next.
+then one line at the end.
 
-Not *link in bio*. **"If you're the founder who's read all of this and still
-can't put the phone down, I run a small group for exactly that — details in the
-bio."** The specificity qualifies and asks at once.
+**The line changes with the piece; the shape doesn't:** name the person by the
+problem this talk just left them holding, then the next step. Never *link in
+bio*. After a talk on compulsive checking — *"if you're the founder who's read
+all of this and still can't put the phone down, I run a small group for exactly
+that: details in the bio."* After one on the decision that won't settle, it
+names that instead. The specificity qualifies and asks at once.
