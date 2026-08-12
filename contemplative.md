@@ -22,17 +22,6 @@ taught the category exists (P2).
 **The failure mode is a slide, not a decision:** drifting from founders back to
 seekers, because seekers are pleasanter to talk to and there are more of them.
 
-## What decides it
-
-1. **Purchasing power, set by which buyer — not which subject.** The only thing
-   that kills this outright, and the one thing fully in my control.
-2. **Subject barely matters.** Across 6,930 posts by people building this kind of
-   business, market choice separates outcomes 45–67%; showing up repeatedly
-   separates them 33–68%.
-3. **English, not Thai.** P1 fails in Thai — no one is paying for it there.
-4. **Price follows the named buyer, not the content.** *100M Offers*, the Dan
-   Kennedy example: $19 generic, $499 named, on almost an identical product.
-
 ## The offer
 
 **Narrow the promise, not the teaching.** One result, one buyer. What produces
