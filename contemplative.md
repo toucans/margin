@@ -21,6 +21,12 @@ coaching, continuing education. Nobody needs teaching that the category exists
 **The failure mode is a slide, not a decision:** drifting from founders back to
 seekers, because seekers are pleasanter and there are more of them.
 
+**Pay tracks the promise**, and the ranking is stable because it is just acute
+pain × budget authority. Frames promising capability pay — performance under
+pressure, the decision that won't settle, burnout at the top, *successful and
+it isn't working*. Frames promising release don't — meaning, letting go,
+contentment. Focus and habits sit in between.
+
 ## The offer
 
 **Narrow the promise, not the teaching.** One result, one buyer.
@@ -44,6 +50,14 @@ seekers, which is the slide above. So every talk takes its *case* from their
 week: the promotion that didn't land, the decision that won't settle, the
 Sunday that was already Monday. The dhamma is unchanged; the situation is
 theirs.
+
+**The entry frame is not a wrapper.** It selects the buyer, the buyer shapes
+what gets made, and it is not reversible once the audience is built — they hold
+you to the frame they came for and the inbox fills with it. Leading with the
+acute problem and going deep once trust exists works; treating the promise as
+costume does not. *Switching out of work mode* sold to founders is a technique
+for returning to work better, not non-attachment in disguise, and will be
+judged as one.
 
 **A talk solves seeing.** One narrow problem of understanding, solved
 completely.
