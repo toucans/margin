@@ -11,7 +11,7 @@ history, this file is only the current answer.
 |---|---|---|---|
 | Founders / operators under load | High | Yes | **Lead** |
 | Coaches and therapists wanting method | Medium | Yes — they buy CPD | **Second** |
-| "Spiritual seekers" | High | No | The résumé trap |
+| "Spiritual seekers" | High | No | Builds a following, not a business |
 | People in acute crisis | Very high | Sometimes | Clinical, not mine |
 
 Both live rows already pay an outsider for something adjacent — executive
@@ -29,9 +29,10 @@ under it: money follows urgent pain held by someone who can sign.
 
 **Narrow the promise, not the teaching.** One result, one buyer.
 
-**What is sold is the recurrence of the seeing.** A talk hands over an insight;
-it fades in four days. Closing that gap takes another person — which is why it
-cannot come from a video, and why it is paid.
+**They don't pay for the insight. They pay for it to still be there in a
+month.** A talk hands the insight over and it fades in four days. Closing that
+gap takes another person — which is why a video can't do it, and why this is
+the part that's paid for.
 
 Shape: small cohort or 1:1, 8–12 weeks, weekly contact, one behavioural
 commitment a week, and somewhere to bring the moment you got captured and be
@@ -42,8 +43,7 @@ Anchored to executive coaching, not meditation apps.
 
 ## The content
 
-**The content is the targeting** — it is the first qualifying step, before any
-CTA. Dhamma on founder problems assembles founders; dhamma in general assembles
+**Your content picks your audience** — it qualifies before any CTA does. Dhamma on founder problems assembles founders; dhamma in general assembles
 seekers, which is the slide above. So every talk takes its *case* from their
 week: the promotion that didn't land, the decision that won't settle, the
 Sunday that was already Monday. The dhamma is unchanged; the situation is
@@ -55,8 +55,8 @@ Go deep after they trust you — but *how to switch out of work mode* sold to
 founders is a work technique, not non-attachment in disguise, and they'll hold
 you to that.
 
-**A talk solves seeing.** One narrow problem of understanding, solved
-completely.
+**One talk, one thing they finally see.** One narrow thing they've had wrong,
+cleared up completely.
 
 It always reveals the same next problem: *I saw it clearly for four days, then
 went back to being the same guy.* That gap is the offer.
