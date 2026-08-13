@@ -21,9 +21,9 @@ coaching, continuing education. Nobody needs teaching that the category exists
 **The failure mode is a slide, not a decision:** drifting from founders back to
 seekers, because seekers are pleasanter and there are more of them.
 
-**Pay = acute pain × budget authority.** Frames promising capability pay:
-performance under pressure, burnout at the top. Frames promising release don't:
-meaning, letting go, contentment.
+**They pay to get better, not to let go.** Performance under pressure and
+burnout at the top sell; meaning, contentment and surrender don't. The rule
+under it: money follows urgent pain held by someone who can sign.
 
 ## The offer
 
@@ -49,10 +49,11 @@ week: the promotion that didn't land, the decision that won't settle, the
 Sunday that was already Monday. The dhamma is unchanged; the situation is
 theirs.
 
-**The entry frame is not a wrapper.** It picks the buyer, the buyer shapes the
-product, and it doesn't reverse once the audience exists. Go deep after trust,
-yes — but *switching out of work mode* sold to founders is a work technique,
-not non-attachment in disguise, and gets judged as one.
+**The problem you lead with is the business you get.** It picks the buyer, the
+buyer shapes the product, and you can't swap it once they've shown up for it.
+Go deep after they trust you — but *how to switch out of work mode* sold to
+founders is a work technique, not non-attachment in disguise, and they'll hold
+you to that.
 
 **A talk solves seeing.** One narrow problem of understanding, solved
 completely.
