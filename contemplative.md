@@ -45,6 +45,40 @@ seekers. So every talk takes its *case* from their week: the promotion that didn
 Sunday that was already Monday. The dhamma is unchanged; the situation is
 theirs.
 
+**The bound — the cost of not being able to stop.** *You can't put it down, so
+you reach for something that puts it down for you, and the reaching is what costs
+you.* One mechanism, endless cases: the mechanism is what keeps hundreds of
+videos one show, the cases are what keep them supplied. It is craving and
+clinging under another name, so the archive is the deep end rather than a
+garnish — the second arrow, papañca, becoming, restlessness and worry.
+
+**In bounds:** the moment of being caught; the reach for relief — drink, phone,
+metric, work, food, planning, reassurance; why the relief costs more than it
+gives; what it takes to stay without reaching.
+
+**Out of bounds, and this is the discipline:** meaning and purpose;
+enlightenment and non-self as topics; clinical crisis; productivity;
+mechanism-first explainers.
+
+**Burnout is not the bound, it is the outcome.** Naming the territory *burnout
+and switching off* is vague rather than broad: burnout is where the loop ends,
+switching off is what the person wants, and neither tells you what one video is
+about. Burnout is also the most crowded and least specific word in the ad
+evidence.
+
+**Nobody runs this as one show, so the joining is yours.** Of the ads that
+survived triage, 3 of 88 selling drinking used any switch-off language, none of
+the 25 selling burnout named being unable to stop, and 5 of 122 advertisers
+appeared under more than one framing — `contemplative/ads.md`. The market treats
+these as three problems with three buyers. The edge and the warning are the same
+fact.
+
+**The bound sets the topic; the case register sets the room.** The same
+mechanism through work situations assembles operators, through drink assembles
+women in midlife, through the phone assembles everyone and sells to no one. Pick
+the register and hold it — that is a separate decision from the bound, and the
+one that picks the buyer.
+
 **The spine** — one talk each, reused:
 
 - the decision that reopens at 2 a.m.
