@@ -52,10 +52,24 @@ is both a CLI and the `meta` MCP server:
 TABB for Women. Sweeping on the default silently produces noise that looks like
 data.
 
-**The token is short-lived** — the one issued expires the hour it was made, and
-`fb_exchange_token` needs the app secret to trade up to sixty days. Get the
-secret from the app's Settings → Basic and store it beside the token, or every
-session starts by minting a new one.
+**Tokens last sixty days, and renewing one is a single command.** The Ad
+Library refuses app tokens and system-user tokens outright — `code 10,
+subcode 2332004`, *App role required*. It is gated behind an ID-verified
+person on purpose, so there is no never-expiring credential to be had. The
+long-lived user token is the whole of the durable path:
+
+    # Graph API Explorer -> app "breeze" -> Generate Access Token, then:
+    python3 sweeps/meta_ads.py exchange <fresh-short-token>
+    python3 sweeps/meta_ads.py status      # prints hours left
+
+Exchange a token while it is *fresh*. A near-expiry token failed the exchange
+repeatedly with a transient-flagged error that never cleared; a newly minted
+one traded for sixty days on the first try. If it errors, re-mint before
+debugging the app.
+
+`exchange` refuses to write a short or empty response over the existing token.
+That guard exists because the naive version wiped a working token when a failed
+call fell through to the file write.
 
 ## Meta — the scraper, as a second path
 
