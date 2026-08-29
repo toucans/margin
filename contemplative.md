@@ -18,14 +18,6 @@ Both live rows already pay an outsider for something adjacent — executive
 coaching, continuing education. Nobody needs teaching that the category exists,
 so none of this is spent funding the market's education.
 
-**In Denmark the invoice is probably not the buyer's own.** Employers carry
-psykisk arbejdsmiljø and procure stress work with real budgets; aftenskole (FOF,
-AOF, LOF) is an existing paid channel with published prices. Neither appears in
-a Skool census. Unverified — check before weighting.
-
-**The failure mode is a slide, not a decision:** drifting from founders back to
-seekers, because seekers are pleasanter and there are more of them.
-
 **They pay to get better, not to let go.** Performance under pressure and
 burnout at the top sell; meaning, contentment and surrender don't. The rule
 under it: money follows urgent pain held by someone who can sign.
@@ -49,8 +41,7 @@ Anchored to executive coaching, not meditation apps.
 ## The content
 
 **Your content picks your audience** — it qualifies before any CTA does. Dhamma on founder problems assembles founders; dhamma in general assembles
-seekers, which is the slide above. So every talk takes its *case* from their
-week: the promotion that didn't land, the decision that won't settle, the
+seekers. So every talk takes its *case* from their week: the promotion that didn't land, the decision that won't settle, the
 Sunday that was already Monday. The dhamma is unchanged; the situation is
 theirs.
 
@@ -86,11 +77,11 @@ went back to being the same guy.* That gap is the offer.
 
 Weekly group at Stenløse Kulturhus. **Reps and live language — not content, not
 proof.** A free suburban room proves nothing to this buyer, and a general room
-produces general talks, which is the slide.
+produces general talks.
 
 Advertise one named problem, never *meditation*; six weeks a framing; count who
 comes. That tests whether a pain is live, not whether it is paid — the paid
-question stays with the invoice above. Write their words down before you have
+question stays with the invoice. Write their words down before you have
 taught them anything.
 
 Free municipal rooms usually carry a non-commercial condition. Check.
