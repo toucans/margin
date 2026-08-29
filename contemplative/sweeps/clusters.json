@@ -1,0 +1,18 @@
+{
+  "C1": {"label": "the decision that reopens at 2am",
+    "terms": ["overthinking","can't stop thinking","replaying","second-guessing","decision fatigue","3am","2am","lying awake","spiralling"]},
+  "C2": {"label": "can't switch out of work mode",
+    "terms": ["can't switch off","always on","switch off after work","mental load","still working in my head","never really off","laptop shut"]},
+  "C3": {"label": "checking the same metric or thread",
+    "terms": ["compulsive checking","checking my phone","refreshing","inbox anxiety","checking email at night","notifications"]},
+  "C4": {"label": "the body captured before the mind notices",
+    "terms": ["nervous system","dysregulated","somatic","fight or flight","vagus","regulate your nervous system","body keeps the score"]},
+  "C5": {"label": "performing under pressure, same habit next day",
+    "terms": ["grey area drinking","gray area drinking","sober curious","high functioning","take the edge off","wine o'clock","functioning alcoholic","stop drinking without AA"]},
+  "C6": {"label": "burnout as an unbreakable loop",
+    "terms": ["executive burnout","founder burnout","high achiever burnout","burnout recovery","solving the wrong problem"]},
+  "C7": {"label": "ADHD founder",
+    "terms": ["ADHD entrepreneur","ADHD founder","time blindness","executive dysfunction","start everything finish nothing"]},
+  "C8": {"label": "Denmark",
+    "terms": ["stress","psykisk arbejdsmiljø","stresscoach","stresshåndtering","trivsel","stressforebyggelse","overtænker","kan ikke koble af","grå-zone alkohol"]}
+}
