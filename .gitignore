@@ -3,3 +3,11 @@
 .obsidian/workspace-mobile.json
 .obsidian/cache
 .trash/
+
+# Sweep output. Regenerable from the scripts beside it, so not a source of
+# truth — and large. The scripts and cluster config are versioned; the pulls
+# are not.
+contemplative/sweeps/raw.jsonl
+contemplative/sweeps/urls_active.json
+contemplative/sweeps/survivors.json
+__pycache__/
