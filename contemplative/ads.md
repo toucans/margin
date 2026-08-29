@@ -91,6 +91,20 @@ Swept 2026-08-29 via the Ad Library API: 291 keyword queries (8 clusters ×
 6 countries, Denmark-only for C8), active and inactive passes, 163,508 ads
 returned, 0 query errors. Machinery and raw CSV in `sweeps/`.
 
+**The buyer is not settled, so read these as a menu.** Founders and operators are
+the working hypothesis in `contemplative.md`, not a decision. Scored that way, the
+result is uncomfortable: **the strongest markets found here are not founder markets.**
+Drinking-as-the-off-switch and the body-under-stress carry the proven money, and both
+sell to women in midlife. The founder lane is real — the few in it run long — but it is
+eight advertisers across 163,508 ads, the thinnest of the viable options rather than the
+richest. Choosing it is choosing the harder market deliberately.
+
+**Each framing drags its own audience along.** Drinking brings midlife women. Nervous
+system brings trauma and parenting. Burnout named for a role brings executives. Nobody
+reaches a founder through the mechanism; they reach them through the habit or the job
+title. That is the same rule `contemplative.md` already states — *the problem you lead
+with is the business you get* — now with the audiences attached by observation.
+
 **§0.1 resolved to API, and the API was not the constraint.** Every country
 returned commercial ads. The DK/DE/NL-carry-the-study worry was unfounded.
 
