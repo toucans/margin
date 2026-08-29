@@ -1,0 +1,2330 @@
+[
+ {
+  "cluster": "C1",
+  "term": "overthinking",
+  "country": "DK",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C1",
+  "term": "overthinking",
+  "country": "DE",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C1",
+  "term": "overthinking",
+  "country": "NL",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C1",
+  "term": "overthinking",
+  "country": "GB",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C1",
+  "term": "overthinking",
+  "country": "US",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C1",
+  "term": "overthinking",
+  "country": "AU",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C1",
+  "term": "can't stop thinking",
+  "country": "DK",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C1",
+  "term": "can't stop thinking",
+  "country": "DE",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C1",
+  "term": "can't stop thinking",
+  "country": "NL",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C1",
+  "term": "can't stop thinking",
+  "country": "GB",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C1",
+  "term": "can't stop thinking",
+  "country": "US",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C1",
+  "term": "can't stop thinking",
+  "country": "AU",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C1",
+  "term": "replaying",
+  "country": "DK",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C1",
+  "term": "replaying",
+  "country": "DE",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C1",
+  "term": "replaying",
+  "country": "NL",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C1",
+  "term": "replaying",
+  "country": "GB",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C1",
+  "term": "replaying",
+  "country": "US",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C1",
+  "term": "replaying",
+  "country": "AU",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C1",
+  "term": "second-guessing",
+  "country": "DK",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C1",
+  "term": "second-guessing",
+  "country": "DE",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C1",
+  "term": "second-guessing",
+  "country": "NL",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C1",
+  "term": "second-guessing",
+  "country": "GB",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C1",
+  "term": "second-guessing",
+  "country": "US",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C1",
+  "term": "second-guessing",
+  "country": "AU",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C1",
+  "term": "decision fatigue",
+  "country": "DK",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C1",
+  "term": "decision fatigue",
+  "country": "DE",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C1",
+  "term": "decision fatigue",
+  "country": "NL",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C1",
+  "term": "decision fatigue",
+  "country": "GB",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C1",
+  "term": "decision fatigue",
+  "country": "US",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C1",
+  "term": "decision fatigue",
+  "country": "AU",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C1",
+  "term": "3am",
+  "country": "DK",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C1",
+  "term": "3am",
+  "country": "DE",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C1",
+  "term": "3am",
+  "country": "NL",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C1",
+  "term": "3am",
+  "country": "GB",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C1",
+  "term": "3am",
+  "country": "US",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C1",
+  "term": "3am",
+  "country": "AU",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C1",
+  "term": "2am",
+  "country": "DK",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C1",
+  "term": "2am",
+  "country": "DE",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C1",
+  "term": "2am",
+  "country": "NL",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C1",
+  "term": "2am",
+  "country": "GB",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C1",
+  "term": "2am",
+  "country": "US",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C1",
+  "term": "2am",
+  "country": "AU",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C1",
+  "term": "lying awake",
+  "country": "DK",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C1",
+  "term": "lying awake",
+  "country": "DE",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C1",
+  "term": "lying awake",
+  "country": "NL",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C1",
+  "term": "lying awake",
+  "country": "GB",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C1",
+  "term": "lying awake",
+  "country": "US",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C1",
+  "term": "lying awake",
+  "country": "AU",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C1",
+  "term": "spiralling",
+  "country": "DK",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C1",
+  "term": "spiralling",
+  "country": "DE",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C1",
+  "term": "spiralling",
+  "country": "NL",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C1",
+  "term": "spiralling",
+  "country": "GB",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C1",
+  "term": "spiralling",
+  "country": "US",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C1",
+  "term": "spiralling",
+  "country": "AU",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C2",
+  "term": "can't switch off",
+  "country": "DK",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C2",
+  "term": "can't switch off",
+  "country": "DE",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C2",
+  "term": "can't switch off",
+  "country": "NL",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C2",
+  "term": "can't switch off",
+  "country": "GB",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C2",
+  "term": "can't switch off",
+  "country": "US",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C2",
+  "term": "can't switch off",
+  "country": "AU",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C2",
+  "term": "always on",
+  "country": "DK",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C2",
+  "term": "always on",
+  "country": "DE",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C2",
+  "term": "always on",
+  "country": "NL",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C2",
+  "term": "always on",
+  "country": "GB",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C2",
+  "term": "always on",
+  "country": "US",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C2",
+  "term": "always on",
+  "country": "AU",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C2",
+  "term": "switch off after work",
+  "country": "DK",
+  "status": "INACTIVE",
+  "n": 23,
+  "error": null
+ },
+ {
+  "cluster": "C2",
+  "term": "switch off after work",
+  "country": "DE",
+  "status": "INACTIVE",
+  "n": 67,
+  "error": null
+ },
+ {
+  "cluster": "C2",
+  "term": "switch off after work",
+  "country": "NL",
+  "status": "INACTIVE",
+  "n": 65,
+  "error": null
+ },
+ {
+  "cluster": "C2",
+  "term": "switch off after work",
+  "country": "GB",
+  "status": "INACTIVE",
+  "n": 357,
+  "error": null
+ },
+ {
+  "cluster": "C2",
+  "term": "switch off after work",
+  "country": "US",
+  "status": "INACTIVE",
+  "n": 89,
+  "error": null
+ },
+ {
+  "cluster": "C2",
+  "term": "switch off after work",
+  "country": "AU",
+  "status": "INACTIVE",
+  "n": 64,
+  "error": null
+ },
+ {
+  "cluster": "C2",
+  "term": "mental load",
+  "country": "DK",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C2",
+  "term": "mental load",
+  "country": "DE",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C2",
+  "term": "mental load",
+  "country": "NL",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C2",
+  "term": "mental load",
+  "country": "GB",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C2",
+  "term": "mental load",
+  "country": "US",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C2",
+  "term": "mental load",
+  "country": "AU",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C2",
+  "term": "still working in my head",
+  "country": "DK",
+  "status": "INACTIVE",
+  "n": 0,
+  "error": null
+ },
+ {
+  "cluster": "C2",
+  "term": "still working in my head",
+  "country": "DE",
+  "status": "INACTIVE",
+  "n": 0,
+  "error": null
+ },
+ {
+  "cluster": "C2",
+  "term": "still working in my head",
+  "country": "NL",
+  "status": "INACTIVE",
+  "n": 0,
+  "error": null
+ },
+ {
+  "cluster": "C2",
+  "term": "still working in my head",
+  "country": "GB",
+  "status": "INACTIVE",
+  "n": 2,
+  "error": null
+ },
+ {
+  "cluster": "C2",
+  "term": "still working in my head",
+  "country": "US",
+  "status": "INACTIVE",
+  "n": 2,
+  "error": null
+ },
+ {
+  "cluster": "C2",
+  "term": "still working in my head",
+  "country": "AU",
+  "status": "INACTIVE",
+  "n": 0,
+  "error": null
+ },
+ {
+  "cluster": "C2",
+  "term": "never really off",
+  "country": "DK",
+  "status": "INACTIVE",
+  "n": 30,
+  "error": null
+ },
+ {
+  "cluster": "C2",
+  "term": "never really off",
+  "country": "DE",
+  "status": "INACTIVE",
+  "n": 51,
+  "error": null
+ },
+ {
+  "cluster": "C2",
+  "term": "never really off",
+  "country": "NL",
+  "status": "INACTIVE",
+  "n": 13,
+  "error": null
+ },
+ {
+  "cluster": "C2",
+  "term": "never really off",
+  "country": "GB",
+  "status": "INACTIVE",
+  "n": 89,
+  "error": null
+ },
+ {
+  "cluster": "C2",
+  "term": "never really off",
+  "country": "US",
+  "status": "INACTIVE",
+  "n": 61,
+  "error": null
+ },
+ {
+  "cluster": "C2",
+  "term": "never really off",
+  "country": "AU",
+  "status": "INACTIVE",
+  "n": 47,
+  "error": null
+ },
+ {
+  "cluster": "C2",
+  "term": "laptop shut",
+  "country": "DK",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C2",
+  "term": "laptop shut",
+  "country": "DE",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C2",
+  "term": "laptop shut",
+  "country": "NL",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C2",
+  "term": "laptop shut",
+  "country": "GB",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C2",
+  "term": "laptop shut",
+  "country": "US",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C2",
+  "term": "laptop shut",
+  "country": "AU",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C3",
+  "term": "compulsive checking",
+  "country": "DK",
+  "status": "INACTIVE",
+  "n": 47,
+  "error": null
+ },
+ {
+  "cluster": "C3",
+  "term": "compulsive checking",
+  "country": "DE",
+  "status": "INACTIVE",
+  "n": 52,
+  "error": null
+ },
+ {
+  "cluster": "C3",
+  "term": "compulsive checking",
+  "country": "NL",
+  "status": "INACTIVE",
+  "n": 53,
+  "error": null
+ },
+ {
+  "cluster": "C3",
+  "term": "compulsive checking",
+  "country": "GB",
+  "status": "INACTIVE",
+  "n": 227,
+  "error": null
+ },
+ {
+  "cluster": "C3",
+  "term": "compulsive checking",
+  "country": "US",
+  "status": "INACTIVE",
+  "n": 178,
+  "error": null
+ },
+ {
+  "cluster": "C3",
+  "term": "compulsive checking",
+  "country": "AU",
+  "status": "INACTIVE",
+  "n": 167,
+  "error": null
+ },
+ {
+  "cluster": "C3",
+  "term": "checking my phone",
+  "country": "DK",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C3",
+  "term": "checking my phone",
+  "country": "DE",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C3",
+  "term": "checking my phone",
+  "country": "NL",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C3",
+  "term": "checking my phone",
+  "country": "GB",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C3",
+  "term": "checking my phone",
+  "country": "US",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C3",
+  "term": "checking my phone",
+  "country": "AU",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C3",
+  "term": "refreshing",
+  "country": "DK",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C3",
+  "term": "refreshing",
+  "country": "DE",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C3",
+  "term": "refreshing",
+  "country": "NL",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C3",
+  "term": "refreshing",
+  "country": "GB",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C3",
+  "term": "refreshing",
+  "country": "US",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C3",
+  "term": "refreshing",
+  "country": "AU",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C3",
+  "term": "inbox anxiety",
+  "country": "DK",
+  "status": "INACTIVE",
+  "n": 1,
+  "error": null
+ },
+ {
+  "cluster": "C3",
+  "term": "inbox anxiety",
+  "country": "DE",
+  "status": "INACTIVE",
+  "n": 5,
+  "error": null
+ },
+ {
+  "cluster": "C3",
+  "term": "inbox anxiety",
+  "country": "NL",
+  "status": "INACTIVE",
+  "n": 2,
+  "error": null
+ },
+ {
+  "cluster": "C3",
+  "term": "inbox anxiety",
+  "country": "GB",
+  "status": "INACTIVE",
+  "n": 16,
+  "error": null
+ },
+ {
+  "cluster": "C3",
+  "term": "inbox anxiety",
+  "country": "US",
+  "status": "INACTIVE",
+  "n": 6,
+  "error": null
+ },
+ {
+  "cluster": "C3",
+  "term": "inbox anxiety",
+  "country": "AU",
+  "status": "INACTIVE",
+  "n": 8,
+  "error": null
+ },
+ {
+  "cluster": "C3",
+  "term": "checking email at night",
+  "country": "DK",
+  "status": "INACTIVE",
+  "n": 3,
+  "error": null
+ },
+ {
+  "cluster": "C3",
+  "term": "checking email at night",
+  "country": "DE",
+  "status": "INACTIVE",
+  "n": 0,
+  "error": null
+ },
+ {
+  "cluster": "C3",
+  "term": "checking email at night",
+  "country": "NL",
+  "status": "INACTIVE",
+  "n": 0,
+  "error": null
+ },
+ {
+  "cluster": "C3",
+  "term": "checking email at night",
+  "country": "GB",
+  "status": "INACTIVE",
+  "n": 6,
+  "error": null
+ },
+ {
+  "cluster": "C3",
+  "term": "checking email at night",
+  "country": "US",
+  "status": "INACTIVE",
+  "n": 9,
+  "error": null
+ },
+ {
+  "cluster": "C3",
+  "term": "checking email at night",
+  "country": "AU",
+  "status": "INACTIVE",
+  "n": 5,
+  "error": null
+ },
+ {
+  "cluster": "C3",
+  "term": "notifications",
+  "country": "DK",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C3",
+  "term": "notifications",
+  "country": "DE",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C3",
+  "term": "notifications",
+  "country": "NL",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C3",
+  "term": "notifications",
+  "country": "GB",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C3",
+  "term": "notifications",
+  "country": "US",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C3",
+  "term": "notifications",
+  "country": "AU",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C4",
+  "term": "nervous system",
+  "country": "DK",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C4",
+  "term": "nervous system",
+  "country": "DE",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C4",
+  "term": "nervous system",
+  "country": "NL",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C4",
+  "term": "nervous system",
+  "country": "GB",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C4",
+  "term": "nervous system",
+  "country": "US",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C4",
+  "term": "nervous system",
+  "country": "AU",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C4",
+  "term": "dysregulated",
+  "country": "DK",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C4",
+  "term": "dysregulated",
+  "country": "DE",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C4",
+  "term": "dysregulated",
+  "country": "NL",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C4",
+  "term": "dysregulated",
+  "country": "GB",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C4",
+  "term": "dysregulated",
+  "country": "US",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C4",
+  "term": "dysregulated",
+  "country": "AU",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C4",
+  "term": "somatic",
+  "country": "DK",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C4",
+  "term": "somatic",
+  "country": "DE",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C4",
+  "term": "somatic",
+  "country": "NL",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C4",
+  "term": "somatic",
+  "country": "GB",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C4",
+  "term": "somatic",
+  "country": "US",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C4",
+  "term": "somatic",
+  "country": "AU",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C4",
+  "term": "fight or flight",
+  "country": "DK",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C4",
+  "term": "fight or flight",
+  "country": "DE",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C4",
+  "term": "fight or flight",
+  "country": "NL",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C4",
+  "term": "fight or flight",
+  "country": "GB",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C4",
+  "term": "fight or flight",
+  "country": "US",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C4",
+  "term": "fight or flight",
+  "country": "AU",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C4",
+  "term": "vagus",
+  "country": "DK",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C4",
+  "term": "vagus",
+  "country": "DE",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C4",
+  "term": "vagus",
+  "country": "NL",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C4",
+  "term": "vagus",
+  "country": "GB",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C4",
+  "term": "vagus",
+  "country": "US",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C4",
+  "term": "vagus",
+  "country": "AU",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C4",
+  "term": "regulate your nervous system",
+  "country": "DK",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C4",
+  "term": "regulate your nervous system",
+  "country": "DE",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C4",
+  "term": "regulate your nervous system",
+  "country": "NL",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C4",
+  "term": "regulate your nervous system",
+  "country": "GB",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C4",
+  "term": "regulate your nervous system",
+  "country": "US",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C4",
+  "term": "regulate your nervous system",
+  "country": "AU",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C4",
+  "term": "body keeps the score",
+  "country": "DK",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C4",
+  "term": "body keeps the score",
+  "country": "DE",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C4",
+  "term": "body keeps the score",
+  "country": "NL",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C4",
+  "term": "body keeps the score",
+  "country": "GB",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C4",
+  "term": "body keeps the score",
+  "country": "US",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C4",
+  "term": "body keeps the score",
+  "country": "AU",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C5",
+  "term": "grey area drinking",
+  "country": "DK",
+  "status": "INACTIVE",
+  "n": 2,
+  "error": null
+ },
+ {
+  "cluster": "C5",
+  "term": "grey area drinking",
+  "country": "DE",
+  "status": "INACTIVE",
+  "n": 6,
+  "error": null
+ },
+ {
+  "cluster": "C5",
+  "term": "grey area drinking",
+  "country": "NL",
+  "status": "INACTIVE",
+  "n": 1,
+  "error": null
+ },
+ {
+  "cluster": "C5",
+  "term": "grey area drinking",
+  "country": "GB",
+  "status": "INACTIVE",
+  "n": 78,
+  "error": null
+ },
+ {
+  "cluster": "C5",
+  "term": "grey area drinking",
+  "country": "US",
+  "status": "INACTIVE",
+  "n": 45,
+  "error": null
+ },
+ {
+  "cluster": "C5",
+  "term": "grey area drinking",
+  "country": "AU",
+  "status": "INACTIVE",
+  "n": 47,
+  "error": null
+ },
+ {
+  "cluster": "C5",
+  "term": "gray area drinking",
+  "country": "DK",
+  "status": "INACTIVE",
+  "n": 0,
+  "error": null
+ },
+ {
+  "cluster": "C5",
+  "term": "gray area drinking",
+  "country": "DE",
+  "status": "INACTIVE",
+  "n": 0,
+  "error": null
+ },
+ {
+  "cluster": "C5",
+  "term": "gray area drinking",
+  "country": "NL",
+  "status": "INACTIVE",
+  "n": 0,
+  "error": null
+ },
+ {
+  "cluster": "C5",
+  "term": "gray area drinking",
+  "country": "GB",
+  "status": "INACTIVE",
+  "n": 121,
+  "error": null
+ },
+ {
+  "cluster": "C5",
+  "term": "gray area drinking",
+  "country": "US",
+  "status": "INACTIVE",
+  "n": 10,
+  "error": null
+ },
+ {
+  "cluster": "C5",
+  "term": "gray area drinking",
+  "country": "AU",
+  "status": "INACTIVE",
+  "n": 14,
+  "error": null
+ },
+ {
+  "cluster": "C5",
+  "term": "sober curious",
+  "country": "DK",
+  "status": "INACTIVE",
+  "n": 42,
+  "error": null
+ },
+ {
+  "cluster": "C5",
+  "term": "sober curious",
+  "country": "DE",
+  "status": "INACTIVE",
+  "n": 81,
+  "error": null
+ },
+ {
+  "cluster": "C5",
+  "term": "sober curious",
+  "country": "NL",
+  "status": "INACTIVE",
+  "n": 61,
+  "error": null
+ },
+ {
+  "cluster": "C5",
+  "term": "sober curious",
+  "country": "GB",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C5",
+  "term": "sober curious",
+  "country": "US",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C5",
+  "term": "sober curious",
+  "country": "AU",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C5",
+  "term": "high functioning",
+  "country": "DK",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C5",
+  "term": "high functioning",
+  "country": "DE",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C5",
+  "term": "high functioning",
+  "country": "NL",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C5",
+  "term": "high functioning",
+  "country": "GB",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C5",
+  "term": "high functioning",
+  "country": "US",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C5",
+  "term": "high functioning",
+  "country": "AU",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C5",
+  "term": "take the edge off",
+  "country": "DK",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C5",
+  "term": "take the edge off",
+  "country": "DE",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C5",
+  "term": "take the edge off",
+  "country": "NL",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C5",
+  "term": "take the edge off",
+  "country": "GB",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C5",
+  "term": "take the edge off",
+  "country": "US",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C5",
+  "term": "take the edge off",
+  "country": "AU",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C5",
+  "term": "wine o'clock",
+  "country": "DK",
+  "status": "INACTIVE",
+  "n": 112,
+  "error": null
+ },
+ {
+  "cluster": "C5",
+  "term": "wine o'clock",
+  "country": "DE",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C5",
+  "term": "wine o'clock",
+  "country": "NL",
+  "status": "INACTIVE",
+  "n": 201,
+  "error": null
+ },
+ {
+  "cluster": "C5",
+  "term": "wine o'clock",
+  "country": "GB",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C5",
+  "term": "wine o'clock",
+  "country": "US",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C5",
+  "term": "wine o'clock",
+  "country": "AU",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C5",
+  "term": "functioning alcoholic",
+  "country": "DK",
+  "status": "INACTIVE",
+  "n": 447,
+  "error": null
+ },
+ {
+  "cluster": "C5",
+  "term": "functioning alcoholic",
+  "country": "DE",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C5",
+  "term": "functioning alcoholic",
+  "country": "NL",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C5",
+  "term": "functioning alcoholic",
+  "country": "GB",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C5",
+  "term": "functioning alcoholic",
+  "country": "US",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C5",
+  "term": "functioning alcoholic",
+  "country": "AU",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C5",
+  "term": "stop drinking without AA",
+  "country": "DK",
+  "status": "INACTIVE",
+  "n": 0,
+  "error": null
+ },
+ {
+  "cluster": "C5",
+  "term": "stop drinking without AA",
+  "country": "DE",
+  "status": "INACTIVE",
+  "n": 0,
+  "error": null
+ },
+ {
+  "cluster": "C5",
+  "term": "stop drinking without AA",
+  "country": "NL",
+  "status": "INACTIVE",
+  "n": 0,
+  "error": null
+ },
+ {
+  "cluster": "C5",
+  "term": "stop drinking without AA",
+  "country": "GB",
+  "status": "INACTIVE",
+  "n": 0,
+  "error": null
+ },
+ {
+  "cluster": "C5",
+  "term": "stop drinking without AA",
+  "country": "US",
+  "status": "INACTIVE",
+  "n": 0,
+  "error": null
+ },
+ {
+  "cluster": "C5",
+  "term": "stop drinking without AA",
+  "country": "AU",
+  "status": "INACTIVE",
+  "n": 0,
+  "error": null
+ },
+ {
+  "cluster": "C6",
+  "term": "executive burnout",
+  "country": "DK",
+  "status": "INACTIVE",
+  "n": 22,
+  "error": null
+ },
+ {
+  "cluster": "C6",
+  "term": "executive burnout",
+  "country": "DE",
+  "status": "INACTIVE",
+  "n": 55,
+  "error": null
+ },
+ {
+  "cluster": "C6",
+  "term": "executive burnout",
+  "country": "NL",
+  "status": "INACTIVE",
+  "n": 34,
+  "error": null
+ },
+ {
+  "cluster": "C6",
+  "term": "executive burnout",
+  "country": "GB",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C6",
+  "term": "executive burnout",
+  "country": "US",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C6",
+  "term": "executive burnout",
+  "country": "AU",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C6",
+  "term": "founder burnout",
+  "country": "DK",
+  "status": "INACTIVE",
+  "n": 6,
+  "error": null
+ },
+ {
+  "cluster": "C6",
+  "term": "founder burnout",
+  "country": "DE",
+  "status": "INACTIVE",
+  "n": 7,
+  "error": null
+ },
+ {
+  "cluster": "C6",
+  "term": "founder burnout",
+  "country": "NL",
+  "status": "INACTIVE",
+  "n": 5,
+  "error": null
+ },
+ {
+  "cluster": "C6",
+  "term": "founder burnout",
+  "country": "GB",
+  "status": "INACTIVE",
+  "n": 48,
+  "error": null
+ },
+ {
+  "cluster": "C6",
+  "term": "founder burnout",
+  "country": "US",
+  "status": "INACTIVE",
+  "n": 31,
+  "error": null
+ },
+ {
+  "cluster": "C6",
+  "term": "founder burnout",
+  "country": "AU",
+  "status": "INACTIVE",
+  "n": 11,
+  "error": null
+ },
+ {
+  "cluster": "C6",
+  "term": "high achiever burnout",
+  "country": "DK",
+  "status": "INACTIVE",
+  "n": 3,
+  "error": null
+ },
+ {
+  "cluster": "C6",
+  "term": "high achiever burnout",
+  "country": "DE",
+  "status": "INACTIVE",
+  "n": 2,
+  "error": null
+ },
+ {
+  "cluster": "C6",
+  "term": "high achiever burnout",
+  "country": "NL",
+  "status": "INACTIVE",
+  "n": 1,
+  "error": null
+ },
+ {
+  "cluster": "C6",
+  "term": "high achiever burnout",
+  "country": "GB",
+  "status": "INACTIVE",
+  "n": 6,
+  "error": null
+ },
+ {
+  "cluster": "C6",
+  "term": "high achiever burnout",
+  "country": "US",
+  "status": "INACTIVE",
+  "n": 6,
+  "error": null
+ },
+ {
+  "cluster": "C6",
+  "term": "high achiever burnout",
+  "country": "AU",
+  "status": "INACTIVE",
+  "n": 4,
+  "error": null
+ },
+ {
+  "cluster": "C6",
+  "term": "burnout recovery",
+  "country": "DK",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C6",
+  "term": "burnout recovery",
+  "country": "DE",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C6",
+  "term": "burnout recovery",
+  "country": "NL",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C6",
+  "term": "burnout recovery",
+  "country": "GB",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C6",
+  "term": "burnout recovery",
+  "country": "US",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C6",
+  "term": "burnout recovery",
+  "country": "AU",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C6",
+  "term": "solving the wrong problem",
+  "country": "DK",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C6",
+  "term": "solving the wrong problem",
+  "country": "DE",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C6",
+  "term": "solving the wrong problem",
+  "country": "NL",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C6",
+  "term": "solving the wrong problem",
+  "country": "GB",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C6",
+  "term": "solving the wrong problem",
+  "country": "US",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C6",
+  "term": "solving the wrong problem",
+  "country": "AU",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C7",
+  "term": "ADHD entrepreneur",
+  "country": "DK",
+  "status": "INACTIVE",
+  "n": 31,
+  "error": null
+ },
+ {
+  "cluster": "C7",
+  "term": "ADHD entrepreneur",
+  "country": "DE",
+  "status": "INACTIVE",
+  "n": 94,
+  "error": null
+ },
+ {
+  "cluster": "C7",
+  "term": "ADHD entrepreneur",
+  "country": "NL",
+  "status": "INACTIVE",
+  "n": 87,
+  "error": null
+ },
+ {
+  "cluster": "C7",
+  "term": "ADHD entrepreneur",
+  "country": "GB",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C7",
+  "term": "ADHD entrepreneur",
+  "country": "US",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C7",
+  "term": "ADHD entrepreneur",
+  "country": "AU",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C7",
+  "term": "ADHD founder",
+  "country": "DK",
+  "status": "INACTIVE",
+  "n": 135,
+  "error": null
+ },
+ {
+  "cluster": "C7",
+  "term": "ADHD founder",
+  "country": "DE",
+  "status": "INACTIVE",
+  "n": 44,
+  "error": null
+ },
+ {
+  "cluster": "C7",
+  "term": "ADHD founder",
+  "country": "NL",
+  "status": "INACTIVE",
+  "n": 137,
+  "error": null
+ },
+ {
+  "cluster": "C7",
+  "term": "ADHD founder",
+  "country": "GB",
+  "status": "INACTIVE",
+  "n": 439,
+  "error": null
+ },
+ {
+  "cluster": "C7",
+  "term": "ADHD founder",
+  "country": "US",
+  "status": "INACTIVE",
+  "n": 379,
+  "error": null
+ },
+ {
+  "cluster": "C7",
+  "term": "ADHD founder",
+  "country": "AU",
+  "status": "INACTIVE",
+  "n": 305,
+  "error": null
+ },
+ {
+  "cluster": "C7",
+  "term": "time blindness",
+  "country": "DK",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C7",
+  "term": "time blindness",
+  "country": "DE",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C7",
+  "term": "time blindness",
+  "country": "NL",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C7",
+  "term": "time blindness",
+  "country": "GB",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C7",
+  "term": "time blindness",
+  "country": "US",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C7",
+  "term": "time blindness",
+  "country": "AU",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C7",
+  "term": "executive dysfunction",
+  "country": "DK",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C7",
+  "term": "executive dysfunction",
+  "country": "DE",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C7",
+  "term": "executive dysfunction",
+  "country": "NL",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C7",
+  "term": "executive dysfunction",
+  "country": "GB",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C7",
+  "term": "executive dysfunction",
+  "country": "US",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C7",
+  "term": "executive dysfunction",
+  "country": "AU",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C7",
+  "term": "start everything finish nothing",
+  "country": "DK",
+  "status": "INACTIVE",
+  "n": 332,
+  "error": null
+ },
+ {
+  "cluster": "C7",
+  "term": "start everything finish nothing",
+  "country": "DE",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C7",
+  "term": "start everything finish nothing",
+  "country": "NL",
+  "status": "INACTIVE",
+  "n": 464,
+  "error": null
+ },
+ {
+  "cluster": "C7",
+  "term": "start everything finish nothing",
+  "country": "GB",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C7",
+  "term": "start everything finish nothing",
+  "country": "US",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C7",
+  "term": "start everything finish nothing",
+  "country": "AU",
+  "status": "INACTIVE",
+  "n": 449,
+  "error": null
+ },
+ {
+  "cluster": "C8",
+  "term": "stress",
+  "country": "DK",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C8",
+  "term": "psykisk arbejdsmiljø",
+  "country": "DK",
+  "status": "INACTIVE",
+  "n": 132,
+  "error": null
+ },
+ {
+  "cluster": "C8",
+  "term": "stresscoach",
+  "country": "DK",
+  "status": "INACTIVE",
+  "n": 407,
+  "error": null
+ },
+ {
+  "cluster": "C8",
+  "term": "stresshåndtering",
+  "country": "DK",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C8",
+  "term": "trivsel",
+  "country": "DK",
+  "status": "INACTIVE",
+  "n": 500,
+  "error": null
+ },
+ {
+  "cluster": "C8",
+  "term": "stressforebyggelse",
+  "country": "DK",
+  "status": "INACTIVE",
+  "n": 77,
+  "error": null
+ },
+ {
+  "cluster": "C8",
+  "term": "overtænker",
+  "country": "DK",
+  "status": "INACTIVE",
+  "n": 336,
+  "error": null
+ },
+ {
+  "cluster": "C8",
+  "term": "kan ikke koble af",
+  "country": "DK",
+  "status": "INACTIVE",
+  "n": 0,
+  "error": null
+ },
+ {
+  "cluster": "C8",
+  "term": "grå-zone alkohol",
+  "country": "DK",
+  "status": "INACTIVE",
+  "n": 0,
+  "error": null
+ }
+]

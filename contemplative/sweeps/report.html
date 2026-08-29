@@ -1,0 +1,386 @@
+<title>Who Pays to Name the Problem</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600&family=Public+Sans:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap">
+<style>
+:root{--paper:#F6F7F5;--card:#FFFFFF;--ink:#131C19;--ink2:#3E4A45;--muted:#6C7A74;
+ --rule:#DCE3DF;--pine:#1D6B4C;--pine-soft:#CFE3D8;--clay:#9C5230;--clay-soft:#F0DFD5;}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--paper:#0D1412;--card:#141D1A;
+ --ink:#E7EDE9;--ink2:#B4C1BB;--muted:#84978E;--rule:#26332E;--pine:#5FC594;--pine-soft:#1E3A2E;--clay:#D08A5F;--clay-soft:#3A2820;}}
+:root[data-theme="dark"]{--paper:#0D1412;--card:#141D1A;--ink:#E7EDE9;--ink2:#B4C1BB;
+ --muted:#84978E;--rule:#26332E;--pine:#5FC594;--pine-soft:#1E3A2E;--clay:#D08A5F;--clay-soft:#3A2820;}
+*{box-sizing:border-box}
+body{background:var(--paper);color:var(--ink);font:400 16px/1.6 "Public Sans",system-ui,sans-serif;margin:0}
+.wrap{max-width:920px;margin:0 auto;padding:56px 24px 96px;display:flex;flex-direction:column;gap:44px}
+.eyebrow{font:500 11px/1 "JetBrains Mono",ui-monospace,monospace;letter-spacing:.14em;
+ text-transform:uppercase;color:var(--muted)}
+h1{font:600 clamp(34px,5.5vw,52px)/1.05 "Fraunces",Georgia,serif;margin:14px 0 0;
+ letter-spacing:-.02em;text-wrap:balance}
+.sub{color:var(--ink2);font-size:18px;max-width:62ch;margin:16px 0 0}
+h2{font:600 22px/1.25 "Fraunces",Georgia,serif;margin:0;letter-spacing:-.01em}
+h3{font:600 15px/1.3 "Public Sans",sans-serif;margin:0 0 10px;letter-spacing:-.005em}
+.verdict{background:var(--card);border:1px solid var(--rule);border-left:3px solid var(--pine);
+ padding:22px 26px;display:flex;flex-direction:column;gap:8px}
+.verdict p{margin:0;color:var(--ink2)} .verdict strong{color:var(--ink)}
+.covgrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(108px,1fr));gap:1px;
+ background:var(--rule);border:1px solid var(--rule)}
+.cc{background:var(--card);padding:14px 16px;display:flex;flex-direction:column;gap:3px}
+.cc b{font:500 13px/1 "JetBrains Mono",monospace;letter-spacing:.08em;color:var(--muted)}
+.cc span{font:500 20px/1 "Public Sans",sans-serif;font-variant-numeric:tabular-nums;color:var(--pine)}
+.cc i{font:400 12px/1 "JetBrains Mono",monospace;font-style:normal;color:var(--muted);
+ font-variant-numeric:tabular-nums}
+.legend{display:flex;gap:20px;flex-wrap:wrap;font-size:13px;color:var(--muted);align-items:center}
+.key{display:inline-flex;align-items:center;gap:7px}
+.sw{width:22px;height:8px;background:var(--pine-soft);display:inline-block}
+.sw.on{background:var(--pine)}
+.cluster{display:flex;flex-direction:column;gap:16px}
+.ch{display:flex;align-items:baseline;gap:12px;flex-wrap:wrap;
+ border-bottom:1px solid var(--rule);padding-bottom:10px}
+.cid{font:500 12px/1 "JetBrains Mono",monospace;color:var(--paper);background:var(--ink);
+ padding:5px 7px;letter-spacing:.06em}
+.count{margin-left:auto;font:400 12px/1 "JetBrains Mono",monospace;color:var(--muted)}
+.recs{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:20px}
+.rec-h{display:flex;align-items:baseline;gap:10px;flex-wrap:wrap;margin-bottom:7px}
+.adv{font-weight:600;font-size:15px}
+.meta{margin-left:auto;display:flex;gap:10px;align-items:baseline;flex-wrap:wrap}
+.ctry,.var,.lp{font:400 11px/1 "JetBrains Mono",monospace;color:var(--muted);letter-spacing:.04em}
+.var{color:var(--clay)}
+.bar{position:relative;height:10px;background:var(--rule);display:flex;align-items:center}
+.fill{display:block;height:100%;background:var(--pine-soft)}
+.fill.live{background:var(--pine)}
+.bar .d{position:absolute;right:0;top:-19px;font:500 11px/1 "JetBrains Mono",monospace;
+ color:var(--muted);font-variant-numeric:tabular-nums}
+.bar::after{content:"";position:absolute;left:32.1%;top:-3px;bottom:-3px;width:1px;background:var(--ink);opacity:.35}
+.hook{margin:11px 0 0;padding-left:14px;border-left:2px solid var(--rule);
+ font:400 13.5px/1.55 "JetBrains Mono",ui-monospace,monospace;color:var(--ink2);
+ max-width:78ch;overflow-wrap:anywhere}
+.finding{background:var(--card);border:1px solid var(--rule);padding:20px 24px}
+.finding p{margin:0;color:var(--ink2);max-width:66ch}
+.findings{display:flex;flex-direction:column;gap:14px}
+.caveat{border-left:3px solid var(--clay);background:var(--clay-soft)}
+.caveat h3{color:var(--clay)}
+.caveat p{color:var(--ink2)}
+footer{border-top:1px solid var(--rule);padding-top:18px;font:400 12.5px/1.6 "JetBrains Mono",monospace;color:var(--muted)}
+a{color:var(--pine)}
+@media(max-width:560px){.meta{margin-left:0;width:100%}.count{margin-left:0}}
+</style>
+<div class="wrap">
+<header>
+  <div class="eyebrow">Meta Ad Library sweep · 29 Aug 2026</div>
+  <h1>Who pays to name the problem</h1>
+  <p class="sub">291 keyword queries across eight framings and six countries, active and
+  inactive. 163,508 ads returned. What survives is the copy someone has paid to keep
+  running — the only public evidence that separates a live market from a loud one.</p>
+</header>
+
+<div class="verdict">
+  <div class="eyebrow">§0.1 — resolved</div>
+  <p><strong>API, not the web UI — and the API was not the constraint.</strong>
+  The brief expected commercial ads to be keyword-searchable only inside the EU, leaving
+  DK/DE/NL to carry the study. That proved wrong: <strong>ad_type=ALL returned commercial
+  ads in all six countries</strong>, with targeting everywhere and EU reach on EU rows.
+  Text is returned verbatim. Every hook below is quoted exactly as it ran.</p>
+  <p>Google is out of scope as the brief predicted — its Transparency Center is
+  advertiser-keyed, and no advertiser list was assumed here.</p>
+</div>
+
+<section>
+  <h3>Coverage — ads returned per country</h3>
+  <div class="covgrid"><div class="cc"><b>DK</b><span>8,854</span><i>18,188</i></div><div class="cc"><b>DE</b><span>8,535</span><i>16,464</i></div><div class="cc"><b>NL</b><span>8,251</span><i>16,124</i></div><div class="cc"><b>GB</b><span>11,621</span><i>18,889</i></div><div class="cc"><b>US</b><span>10,208</span><i>18,316</i></div><div class="cc"><b>AU</b><span>9,937</span><i>18,121</i></div></div>
+  <p class="eyebrow" style="margin-top:10px">green = active pass · grey = inactive pass · no country returned nothing</p>
+</section>
+
+<section>
+  <h3>The ledger</h3>
+  <p style="color:var(--ink2);margin:0 0 14px;max-width:66ch">Bars are the longest single
+  creative run, after dropping everything under 45 days and everything whose hook only
+  contained the keyword. The line at 90 days is the brief's own threshold: an ad running
+  three months is being paid for because it works.</p>
+  <div class="legend">
+    <span class="key"><i class="sw on"></i> 90 days or more — profitable</span>
+    <span class="key"><i class="sw"></i> 45–89 days — surviving, unproven</span>
+  </div>
+</section>
+
+<section class="cluster" id="C1">
+  <header class="ch"><span class="cid">C1</span>
+    <h2>the decision that reopens at 2 a.m.</h2>
+    <span class="count">14 advertisers past triage · 3 on framing</span></header>
+  <ol class="recs"><li class="rec">
+  <div class="rec-h"><span class="adv">Metacognitive Therapy</span>
+    <span class="meta"><span class="ctry">AUGBUS</span>
+    
+    <span class="lp">application form</span></span></div>
+  <div class="bar"><span class="fill live" style="width:42.9%"></span><b class="d">120d</b></div>
+  <blockquote class="hook">Overthinking is at the root of most of our mental distress.</blockquote>
+</li><li class="rec">
+  <div class="rec-h"><span class="adv">Peak Performance Hypnosis</span>
+    <span class="meta"><span class="ctry">DEDKNL</span>
+    <span class="var">2 variants</span>
+    <span class="lp">vsl</span></span></div>
+  <div class="bar"><span class="fill " style="width:23.2%"></span><b class="d">65d</b></div>
+  <blockquote class="hook">10,000 people. One speech. TOMORROW. Here&#x27;s exactly what I&#x27;d tell a client to do.</blockquote>
+</li><li class="rec">
+  <div class="rec-h"><span class="adv">Clear Minds Hypnotherapy</span>
+    <span class="meta"><span class="ctry">GB</span>
+    
+    <span class="lp">direct checkout</span></span></div>
+  <div class="bar"><span class="fill " style="width:16.8%"></span><b class="d">47d</b></div>
+  <blockquote class="hook">At 40, Hannah from Leeds had finally stopped calling herself lazy.</blockquote>
+</li></ol>
+</section><section class="cluster" id="C2">
+  <header class="ch"><span class="cid">C2</span>
+    <h2>can&#x27;t switch out of work mode</h2>
+    <span class="count">41 advertisers past triage · 7 on framing</span></header>
+  <ol class="recs"><li class="rec">
+  <div class="rec-h"><span class="adv">karl_williams_leadership_coach</span>
+    <span class="meta"><span class="ctry">GBUS</span>
+    
+    <span class="lp">application form</span></span></div>
+  <div class="bar"><span class="fill live" style="width:57.1%"></span><b class="d">160d</b></div>
+  <blockquote class="hook">If you&#x27;re a leader holding everything together for everyone else, but inside it feels like you&#x27;re right on the edge of everything falling apart... like one wrong decision could destroy the whole trust in your team,</blockquote>
+</li><li class="rec">
+  <div class="rec-h"><span class="adv">Kara Kuipers</span>
+    <span class="meta"><span class="ctry">AUNLUS</span>
+    
+    <span class="lp">direct checkout</span></span></div>
+  <div class="bar"><span class="fill live" style="width:56.8%"></span><b class="d">159d</b></div>
+  <blockquote class="hook">You work hard to keep it together. And most days you do - but it costs something.</blockquote>
+</li><li class="rec">
+  <div class="rec-h"><span class="adv">Mindstar Hypnotherapy</span>
+    <span class="meta"><span class="ctry">GB</span>
+    
+    <span class="lp">application form</span></span></div>
+  <div class="bar"><span class="fill live" style="width:53.9%"></span><b class="d">151d</b></div>
+  <blockquote class="hook">If you&#x27;re a professional who can&#x27;t switch off from work, even at weekends and even on holiday, then come and follow @mindstarhypnotherapy</blockquote>
+</li><li class="rec">
+  <div class="rec-h"><span class="adv">Sleep Oracles</span>
+    <span class="meta"><span class="ctry">GB</span>
+    <span class="var">2 variants</span>
+    <span class="lp">application form</span></span></div>
+  <div class="bar"><span class="fill live" style="width:44.3%"></span><b class="d">124d</b></div>
+  <blockquote class="hook">Tired…but can’t switch off?</blockquote>
+</li><li class="rec">
+  <div class="rec-h"><span class="adv">Always Greater</span>
+    <span class="meta"><span class="ctry">AUGBUS</span>
+    
+    <span class="lp">—</span></span></div>
+  <div class="bar"><span class="fill live" style="width:41.4%"></span><b class="d">116d</b></div>
+  <blockquote class="hook">It’s always there in the background, even when you’re trying to focus, like your brain keeps drifting back to it no matter what you’re doing.</blockquote>
+</li><li class="rec">
+  <div class="rec-h"><span class="adv">Domus Focus</span>
+    <span class="meta"><span class="ctry">NL</span>
+    
+    <span class="lp">application form</span></span></div>
+  <div class="bar"><span class="fill live" style="width:41.1%"></span><b class="d">115d</b></div>
+  <blockquote class="hook">Waarom belandt jouw belangrijkste project áltijd onderaan de to-do lijst?</blockquote>
+</li><li class="rec">
+  <div class="rec-h"><span class="adv">John Davidson</span>
+    <span class="meta"><span class="ctry">GB</span>
+    <span class="var">5 variants</span>
+    <span class="lp">—</span></span></div>
+  <div class="bar"><span class="fill " style="width:25.7%"></span><b class="d">72d</b></div>
+  <blockquote class="hook">Every day I talk to professional men that are feeling trapped, overwhelmed and burnt out at work.</blockquote>
+</li></ol>
+</section><section class="cluster" id="C3">
+  <header class="ch"><span class="cid">C3</span>
+    <h2>checking the same metric or thread</h2>
+    <span class="count">1 advertisers past triage · 1 on framing</span></header>
+  <ol class="recs"><li class="rec">
+  <div class="rec-h"><span class="adv">Laura Lange</span>
+    <span class="meta"><span class="ctry">DEGBNLUS</span>
+    
+    <span class="lp">application form</span></span></div>
+  <div class="bar"><span class="fill " style="width:18.6%"></span><b class="d">52d</b></div>
+  <blockquote class="hook">🕰️💸 GRAB YOUR FREE 4 HOUR WORK DAY STARTER PACK VIA THE LINK BELOW ⬇️</blockquote>
+</li></ol>
+</section><section class="cluster" id="C4">
+  <header class="ch"><span class="cid">C4</span>
+    <h2>the body captured before the mind notices</h2>
+    <span class="count">39 advertisers past triage · 5 on framing</span></header>
+  <ol class="recs"><li class="rec">
+  <div class="rec-h"><span class="adv">Dr. Sara B</span>
+    <span class="meta"><span class="ctry">AUUS</span>
+    
+    <span class="lp">direct checkout</span></span></div>
+  <div class="bar"><span class="fill live" style="width:52.1%"></span><b class="d">146d</b></div>
+  <blockquote class="hook">Your nervous system isn&#x27;t listening to you anymore. It keeps that buzzing, wired alertness going long after your mind is exhausted, leaving you clenching your jaw by 10am. You can&#x27;t &#x27;think&#x27; your way to calm because stress isn&#x27;t just in your head—it&#x27;s a physical state, locked in your body by a dysregulated HPA-axis.</blockquote>
+</li><li class="rec">
+  <div class="rec-h"><span class="adv">Luke Roe</span>
+    <span class="meta"><span class="ctry">GB</span>
+    <span class="var">2 variants</span>
+    <span class="lp">application form</span></span></div>
+  <div class="bar"><span class="fill live" style="width:41.1%"></span><b class="d">115d</b></div>
+  <blockquote class="hook">I want to be straight with you.</blockquote>
+</li><li class="rec">
+  <div class="rec-h"><span class="adv">The Bio-Axis</span>
+    <span class="meta"><span class="ctry">DK</span>
+    
+    <span class="lp">direct checkout</span></span></div>
+  <div class="bar"><span class="fill " style="width:31.4%"></span><b class="d">88d</b></div>
+  <blockquote class="hook">You can&#x27;t think your way out of survival mode.</blockquote>
+</li><li class="rec">
+  <div class="rec-h"><span class="adv">Stan Taylor</span>
+    <span class="meta"><span class="ctry">AUDEDKGBNL</span>
+    
+    <span class="lp">direct checkout</span></span></div>
+  <div class="bar"><span class="fill " style="width:24.6%"></span><b class="d">69d</b></div>
+  <blockquote class="hook">A nervous system stuck in chronic activation, braced and flooded and unable to settle, is in real distress, and distress demands relief, and the brain will reach for whatever delivers relief fastest.</blockquote>
+</li><li class="rec">
+  <div class="rec-h"><span class="adv">Amy Thiessen</span>
+    <span class="meta"><span class="ctry">GBUS</span>
+    
+    <span class="lp">—</span></span></div>
+  <div class="bar"><span class="fill " style="width:17.9%"></span><b class="d">50d</b></div>
+  <blockquote class="hook">Sometimes stress doesn’t just live in the mind. It lives in the body, in the breath, and in the voice.</blockquote>
+</li></ol>
+</section><section class="cluster" id="C5">
+  <header class="ch"><span class="cid">C5</span>
+    <h2>performing under pressure, same habit next day</h2>
+    <span class="count">10 advertisers past triage · 6 on framing</span></header>
+  <ol class="recs"><li class="rec">
+  <div class="rec-h"><span class="adv">Sarah Rusbatch</span>
+    <span class="meta"><span class="ctry">AUGBUS</span>
+    <span class="var">3 variants</span>
+    <span class="lp">application form</span></span></div>
+  <div class="bar"><span class="fill live" style="width:43.9%"></span><b class="d">123d</b></div>
+  <blockquote class="hook">Have you noticed you&#x27;ve started relying on that evening glass of wine more and more to switch off at the end of the day, but it&#x27;s now negatively impacting your sleep, energy, mood and health? Need new ideas of what to do to help unwind without wine?</blockquote>
+</li><li class="rec">
+  <div class="rec-h"><span class="adv">Just the Tonic</span>
+    <span class="meta"><span class="ctry">AUGBUS</span>
+    
+    <span class="lp">unknown</span></span></div>
+  <div class="bar"><span class="fill " style="width:30.0%"></span><b class="d">84d</b></div>
+  <blockquote class="hook">You know that voice in your head that says &quot;I&#x27;ll cut back tomorrow&quot;?</blockquote>
+</li><li class="rec">
+  <div class="rec-h"><span class="adv">Mindful Drinking Community</span>
+    <span class="meta"><span class="ctry">AUDEDKGBNLUS</span>
+    
+    <span class="lp">application form</span></span></div>
+  <div class="bar"><span class="fill " style="width:24.3%"></span><b class="d">68d</b></div>
+  <blockquote class="hook">Tired of feeling held back by your drinking habits?</blockquote>
+</li><li class="rec">
+  <div class="rec-h"><span class="adv">Dr. Alex Morgan</span>
+    <span class="meta"><span class="ctry">DEDKNL</span>
+    
+    <span class="lp">application form</span></span></div>
+  <div class="bar"><span class="fill " style="width:23.6%"></span><b class="d">66d</b></div>
+  <blockquote class="hook">Tired of feeling held back by your drinking habits?</blockquote>
+</li><li class="rec">
+  <div class="rec-h"><span class="adv">Alcohol Free Daily</span>
+    <span class="meta"><span class="ctry">DEDKNL</span>
+    
+    <span class="lp">application form</span></span></div>
+  <div class="bar"><span class="fill " style="width:21.8%"></span><b class="d">61d</b></div>
+  <blockquote class="hook">Tired of feeling held back by your drinking habits?</blockquote>
+</li><li class="rec">
+  <div class="rec-h"><span class="adv">Ask Dr. Whitmore</span>
+    <span class="meta"><span class="ctry">DEDKNL</span>
+    
+    <span class="lp">application form</span></span></div>
+  <div class="bar"><span class="fill " style="width:21.4%"></span><b class="d">60d</b></div>
+  <blockquote class="hook">You don’t need to hit rock bottom to make a change.</blockquote>
+</li></ol>
+</section><section class="cluster" id="C6">
+  <header class="ch"><span class="cid">C6</span>
+    <h2>burnout as an unbreakable loop</h2>
+    <span class="count">6 advertisers past triage · 3 on framing</span></header>
+  <ol class="recs"><li class="rec">
+  <div class="rec-h"><span class="adv">Medifit Rehabilitation Center</span>
+    <span class="meta"><span class="ctry">GB</span>
+    <span class="var">2 variants</span>
+    <span class="lp">vsl</span></span></div>
+  <div class="bar"><span class="fill live" style="width:56.4%"></span><b class="d">158d</b></div>
+  <blockquote class="hook">If ongoing pressure is still affecting your clarity and energy, structured intervention may be the next step.</blockquote>
+</li><li class="rec">
+  <div class="rec-h"><span class="adv">Rewired Woman</span>
+    <span class="meta"><span class="ctry">AUDEGBNLUS</span>
+    <span class="var">6 variants</span>
+    <span class="lp">—</span></span></div>
+  <div class="bar"><span class="fill " style="width:18.9%"></span><b class="d">53d</b></div>
+  <blockquote class="hook">Want to learn how we help executive women leaders end burnout and REWIRE their brains for sustainable success?</blockquote>
+</li><li class="rec">
+  <div class="rec-h"><span class="adv">The Tired Years</span>
+    <span class="meta"><span class="ctry">AUGBUS</span>
+    
+    <span class="lp">direct checkout</span></span></div>
+  <div class="bar"><span class="fill " style="width:18.6%"></span><b class="d">52d</b></div>
+  <blockquote class="hook">Knowing you need to rest and actually being able to rest are two completely different skills. One is information. The other is a nervous system problem.</blockquote>
+</li></ol>
+</section><section class="cluster" id="C7">
+  <header class="ch"><span class="cid">C7</span>
+    <h2>ADHD founder</h2>
+    <span class="count">5 advertisers past triage · 1 on framing</span></header>
+  <ol class="recs"><li class="rec">
+  <div class="rec-h"><span class="adv">Human Behavior Lab</span>
+    <span class="meta"><span class="ctry">AUDEGBUS</span>
+    
+    <span class="lp">—</span></span></div>
+  <div class="bar"><span class="fill " style="width:20.7%"></span><b class="d">58d</b></div>
+  <blockquote class="hook">&quot;I&#x27;m not lazy, I&#x27;m just overwhelmed.&quot; Sound familiar?</blockquote>
+</li></ol>
+</section><section class="cluster" id="C8">
+  <header class="ch"><span class="cid">C8</span>
+    <h2>Denmark</h2>
+    <span class="count">11 advertisers past triage · 4 on framing</span></header>
+  <ol class="recs"><li class="rec">
+  <div class="rec-h"><span class="adv">Mellem-Rummet Retreat, Samsø</span>
+    <span class="meta"><span class="ctry">DK</span>
+    
+    <span class="lp">direct checkout</span></span></div>
+  <div class="bar"><span class="fill live" style="width:69.3%"></span><b class="d">194d</b></div>
+  <blockquote class="hook">Kan du genkende følelsen af, at der er noget i dig, som altid er på overarbejde, aldrig kan slappe helt af, eller måske at du overtænker, bekymrer dig eller har svært ved at være helt til stede? Retreatet her tilbyder dig et rum over fem dage, hvor opmærksomheden flyttes fra tanker til nærvær og erfaring i kroppen https://mellem-rummet.dk/event/retreat-bbbb</blockquote>
+</li><li class="rec">
+  <div class="rec-h"><span class="adv">Lind &amp; Dahl</span>
+    <span class="meta"><span class="ctry">DK</span>
+    
+    <span class="lp">—</span></span></div>
+  <div class="bar"><span class="fill " style="width:29.3%"></span><b class="d">82d</b></div>
+  <blockquote class="hook">3 uddannelser i 1 uddannelse - Psykoterapeut, Stresscoach, Positiv Psykologiformidler</blockquote>
+</li><li class="rec">
+  <div class="rec-h"><span class="adv">Stærkt Sind</span>
+    <span class="meta"><span class="ctry">DK</span>
+    
+    <span class="lp">—</span></span></div>
+  <div class="bar"><span class="fill " style="width:28.9%"></span><b class="d">81d</b></div>
+  <blockquote class="hook">Du bruger enormt meget energi på at regne ud, hvad andre forventer af dig.</blockquote>
+</li><li class="rec">
+  <div class="rec-h"><span class="adv">Djøf</span>
+    <span class="meta"><span class="ctry">DK</span>
+    <span class="var">5 variants</span>
+    <span class="lp">application form</span></span></div>
+  <div class="bar"><span class="fill " style="width:16.4%"></span><b class="d">46d</b></div>
+  <blockquote class="hook">Det giver ret god mening, hvis du vil stå stærkt i dit arbejdsliv.</blockquote>
+</li></ol>
+</section>
+
+<section class="findings">
+  <h3>What the sweep says</h3>
+  <div class="finding"><p><strong>C2 is the live market, not C1.</strong> “Can’t switch
+  off” is the deepest cluster by a distance — 41 advertisers past triage, with runs of 191,
+  160, 159 and 151 days. The 2 a.m. decision has almost nobody selling against it. The
+  framing you lead with is the one nobody has priced; the money is next door.</p></div>
+  <div class="finding"><p><strong>The control held.</strong> Sarah Rusbatch ran one
+  creative 123 days in Britain and Australia at once, into a gated application. C5 was
+  the brief’s built-in check — it returned a working lane, so a thin cluster elsewhere is
+  a real reading rather than a coverage artifact.</p></div>
+  <div class="finding"><p><strong>A worked lane gets industrialised.</strong> Four
+  separate pages — Mindful Drinking Community, Dr. Alex Morgan, Alcohol Free Daily and
+  Ask Dr. Whitmore — run the same hook into the same destination, calmio.ai, across five
+  countries for 60–68 days. One operator wearing four faces.</p></div>
+  <div class="finding"><p><strong>C3 is empty, and the emptiness is real.</strong> One
+  advertiser survived across all six countries. Compulsive checking is a symptom people
+  recognise and will not buy a cure for on its own.</p></div>
+  <div class="finding"><p><strong>Nobody sells the mechanism.</strong> Rusbatch sells
+  drinking by promising <em>switching off</em>; Rewired Woman sells burnout to
+  <em>executive women</em>, seven variants over five countries. The buyer is reached
+  through the habit or the role — never through the mechanism.</p></div>
+  <div class="finding caveat"><h3>Read the price column as unread</h3><p>The API exposes
+  only the display domain, so the landing-page pass reads each domain’s root rather than
+  the creative’s true destination, and the price regex mistakes stray “$1” strings for
+  prices. Variant counts are copy-hash groupings, not Meta’s own collation_count.
+  Recovering real destination URLs needs a pass through the UI scraper.</p></div>
+</section>
+
+<footer>291 queries · 0 query errors · 163,508 ads · 1,823 past triage · 548 on framing ·
+122 advertisers<br>Raw CSV and the sweep scripts live in <code>contemplative/sweeps/</code>.</footer>
+</div>

@@ -11,3 +11,10 @@ contemplative/sweeps/raw.jsonl
 contemplative/sweeps/urls_active.json
 contemplative/sweeps/survivors.json
 __pycache__/
+contemplative/sweeps/api_*.jsonl
+contemplative/sweeps/survivors_*.json
+contemplative/sweeps/framed_*.json
+contemplative/sweeps/lp_*.json
+contemplative/sweeps/lp_urls.txt
+contemplative/sweeps/report_data.json
+contemplative/sweeps/*.log

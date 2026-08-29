@@ -73,4 +73,48 @@ keeps the answer; this one goes on answering.
 
 ## Findings
 
-None yet.
+Swept 2026-08-29 via the Ad Library API: 291 keyword queries (8 clusters ×
+6 countries, Denmark-only for C8), active and inactive passes, 163,508 ads
+returned, 0 query errors. Machinery and raw CSV in `sweeps/`.
+
+**§0.1 resolved to API, and the API was not the constraint.** Every country
+returned commercial ads. The DK/DE/NL-carry-the-study worry was unfounded.
+
+**C2 is the live market, not C1.** *Can't switch off* is the deepest cluster by
+a distance — 41 advertisers survived triage, with runs of 191, 160, 159, 151,
+124 days. The 2 a.m. decision (C1) has almost no one selling against it: what
+looks like C1 volume is hypnotherapists and bathroom fitters whose copy happens
+to contain *spiralling*. **The framing johan leads with is the one nobody has
+priced.** That is either the opening or the warning — this sweep cannot tell
+which, only that the money is next door.
+
+**C5 confirms the method.** Sarah Rusbatch ran one creative 123 days in GB and
+AU at once — *"relying on that evening glass of wine more and more to switch off
+at the end of the day"* — into a gated application. The control passed, so a
+thin cluster elsewhere is a real reading, not a coverage artifact.
+
+**C5 also shows what a worked lane looks like.** Four separate pages — Mindful
+Drinking Community, Dr. Alex Morgan, Alcohol Free Daily, Ask Dr. Whitmore — run
+the same hook, *"Tired of feeling held back by your drinking habits?"*, into the
+same destination, `calmio.ai`, across DK DE NL GB US for 60–68 days. One
+operator wearing four faces. Where a framing pays, it gets industrialised.
+
+**C3 is empty and the emptiness is real.** One advertiser survived across all
+six countries. Nobody sells against compulsive checking directly — it is a
+symptom people recognise but will not buy a cure for on its own.
+
+**Note the crossover.** Rusbatch sells *drinking* by promising *switching off*;
+Rewired Woman sells *burnout* to *executive women*, 7 variants over 5 countries.
+The buyer is reached through the habit or the role, not through the mechanism.
+
+**Denmark is thin and mostly institutional.** Of 12 survivors, the unions (Djøf,
+CA) and the aftenskole cycle account for most volume — flagged, not ranked, per
+the seasonality trap. One real framing match: Mellem-Rummet Retreat, 194 days,
+*"noget i dig, som altid er på overarbejde, aldrig kan slappe helt af"*.
+
+**Caveats.** `price_visible` is weak: the API exposes only the display domain,
+so the landing-page pass reads the domain root, not the creative's actual
+destination, and the regex mistakes stray `$1` strings for prices. Treat the
+price column as unread until a run through the scraper recovers true
+`link_url`s. Variant counts are copy-hash groupings, not Meta's own
+`collation_count`.
