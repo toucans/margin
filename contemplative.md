@@ -88,17 +88,19 @@ Free municipal rooms usually carry a non-commercial condition. Check.
 
 ## The funnel
 
-**Content → email**, not content → call. A call CTA from cold content fills the
-calendar with the unqualified.
+**Content → VSL → application**, not content → email. The worry was right — a
+bare call CTA from cold content fills the calendar with the unqualified — but
+the filter is the video and the form, not a nurture sequence. Email is a
+show-rate layer behind the booking, never the path to it.
 
-1. **Lead magnet** — one narrow thing solved completely, runnable this week: a
-   protocol for the first ninety minutes, a practice for the moment the urge to
-   check hits. It works, and it reveals the gap.
-2. **Sequence** — three or four emails each solving something small, then one
-   naming the gap outright with the offer attached. Then weekly, indefinitely.
-3. **Application form**, not open booking — the friction filters. Ask two real
-   questions about their week; a bare *book a call* button converts worse, and
-   the questions are already a dose of the product.
+1. **VSL** — one page, one video. It solves the narrow thing completely, and in
+   solving it reveals the gap. Benchmark: 4–7% of *page* views book, 5% typical.
+2. **Application form**, not open booking — the friction filters. Two real
+   questions about their week; the questions are already a dose of the product.
+3. **Speed to lead**, then confirm by message, not email. Show rate under 55%
+   means the booking sequence is broken, not the offer.
+
+Email sits after the booking: FAQ, one case, one story, to get them in the room.
 
 ## The CTA
 
