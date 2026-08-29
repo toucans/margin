@@ -63,6 +63,53 @@ def search(search_terms, countries=("DK",), search_type="KEYWORD_EXACT_PHRASE",
     return out[:limit]
 
 
+def exchange(short_token=None):
+    """Trade a short-lived user token for a ~60-day one.
+
+    Refuses to write an empty or error response over a working token — the
+    failure mode that cost us the original once.
+    """
+    import urllib.parse
+    cfg = {}
+    for line in ENV.read_text().splitlines():
+        if "=" in line and not line.strip().startswith("#"):
+            k, v = line.split("=", 1); cfg[k.strip()] = v.strip()
+    app_id, secret = cfg.get("META_APP_ID"), cfg.get("META_APP_SECRET")
+    if not (app_id and secret):
+        raise SystemExit("META_APP_ID and META_APP_SECRET must be in " + str(ENV))
+    q = urllib.parse.urlencode({
+        "grant_type": "fb_exchange_token", "client_id": app_id,
+        "client_secret": secret, "fb_exchange_token": short_token or token()})
+    try:
+        with urllib.request.urlopen(
+                "https://graph.facebook.com/v21.0/oauth/access_token?" + q, timeout=30) as r:
+            body = json.load(r)
+    except urllib.error.HTTPError as e:
+        raise SystemExit("exchange refused: " +
+                         json.load(e).get("error", {}).get("message", str(e)))
+    new = body.get("access_token")
+    if not new or len(new) < 50:
+        raise SystemExit("refusing to write a short/empty token; env left untouched")
+    cfg["META_ADS_TOKEN"] = new
+    ENV.write_text("# Meta Graph API token for the Ad Library (ads_archive).\n"
+                   "# Kept outside the repo on purpose: never commit this.\n"
+                   + "".join(f"{k}={v}\n" for k, v in cfg.items()))
+    ENV.chmod(0o600)
+    print(f"token replaced; expires_in={body.get('expires_in')}")
+
+
+def status():
+    import time
+    t = token()
+    q = urllib.parse.urlencode({"input_token": t, "access_token": t})
+    with urllib.request.urlopen(
+            "https://graph.facebook.com/v21.0/debug_token?" + q, timeout=30) as r:
+        d = json.load(r)["data"]
+    exp = d.get("expires_at")
+    print(f"valid={d.get('is_valid')} scopes={d.get('scopes')} "
+          f"hours_left={round((exp - time.time()) / 3600, 1) if exp else 'never'}")
+
+
 # ---------------------------------------------------------------- MCP server
 
 TOOLS = [{
@@ -136,6 +183,10 @@ def serve():
 def main():
     if len(sys.argv) > 1 and sys.argv[1] == "mcp":
         return serve()
+    if len(sys.argv) > 1 and sys.argv[1] == "exchange":
+        return exchange(sys.argv[2] if len(sys.argv) > 2 else None)
+    if len(sys.argv) > 1 and sys.argv[1] == "status":
+        return status()
     if len(sys.argv) > 2 and sys.argv[1] == "search":
         args = sys.argv[3:]
         def opt(name, default=None):
