@@ -3,8 +3,8 @@
 General rules. Not any one business.
 
 Anything that decides something in a specific business is a **P** in that
-business's file — `ecommerce.md` or `contemplative.md` — and lives only there.
-This file never restates one; it cites.
+business's file — `contemplative.md` — and lives only there. This file never
+restates one; it cites.
 
 **The bar is that it changed a decision**, and that it isn't already in the
 corpus. Anything `./hormozi` returns on demand is a duplicate of a searchable
@@ -15,10 +15,16 @@ on the day it was learned.
 
 ## Where opportunity is
 
+**Opportunity density is inverse to visibility.** Any market visible from the
+outside is already priced and defended.
+
 **How you found it predicts how crowded it is.** If you found it through
 something built to make it appealing, you are late by construction. The channel
-that taught you the option exists predicts its returns, negatively. That is the
-mechanism under P7 — visibility *causes* the crowding.
+that taught you the option exists predicts its returns, negatively — visibility
+*causes* the crowding.
+
+So ideas get found by buying access, never by thinking harder — and buy that
+access inside the industry you sell to, where you are paid while you look.
 
 ---
 

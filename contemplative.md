@@ -15,8 +15,8 @@ history, this file is only the current answer.
 | People in acute crisis | Very high | Sometimes | Clinical, not mine |
 
 Both live rows already pay an outsider for something adjacent — executive
-coaching, continuing education. Nobody needs teaching that the category exists
-(P2).
+coaching, continuing education. Nobody needs teaching that the category exists,
+so none of this is spent funding the market's education.
 
 **The failure mode is a slide, not a decision:** drifting from founders back to
 seekers, because seekers are pleasanter and there are more of them.
