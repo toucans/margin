@@ -38,6 +38,23 @@ coaches and therapists.
 
 Anchored to executive coaching, not meditation apps.
 
+**The shape others have proved.** Of the advertisers still running a creative
+past ninety days, the recurring offer is narrow and repeats across four of them:
+*a named change program for a named role, sold by one person with a collapse
+story, behind a free specific guide, priced only after an application.* Medifit
+ran an "Executive Burnout Recovery Program" 158 days; Sarah Rusbatch ran a free
+guide into a program 123 days on *"I've supported over 10,000 women"*.
+
+**The credential problem has a tested answer, and it is twenty words.** Mindstar
+Hypnotherapy, 151 days: *"I'm Tom. 20 years in corporate IT. Burnt out. Found a
+way out. Now I help others do the same."* Collapse, exit, now I take others
+through it — no qualification named.
+
+**What the ads cannot tell us:** the 8–12 week length, the price level, and
+whether a contemplative angle helps. Nobody in 163,508 ads leads with it. That
+is consistent with *lead with the loop, never the mechanism*, but it means the
+teaching itself carries no outside proof. It is a bet, and worth calling one.
+
 ## The content
 
 **Your content picks your audience** — it qualifies before any CTA does. Dhamma on founder problems assembles founders; dhamma in general assembles
@@ -105,7 +122,9 @@ words itself — that is how to be understood, not how to select.
 It always reveals the same next problem: *I saw it clearly for four days, then
 went back to being the same guy.* That gap is the offer.
 
-**The test:** if it doesn't make a founder say *that's my Tuesday*, discard it.
+**The test:** if it doesn't make the person you're aiming at say *that's my
+Tuesday*, discard it. Which person that is stays open — the test holds
+whoever it turns out to be.
 
 ## The room
 
@@ -136,6 +155,17 @@ show-rate layer behind the booking, never the path to it.
 
 Email sits after the booking: FAQ, one case, one story, to get them in the room.
 
+**The application form is the most common destination among the survivors** — 18
+of the 44 advertisers running past ninety days, ahead of checkout, VSL and
+opt-in. This funnel is the one the long-running money already uses.
+
+**Two things the evidence refused to support.** Gating the price is not proven:
+23 of those 44 gated it, 21 showed it. Gate it because the application filters,
+not because the market says to. And there is **no bulletproof hook formula** —
+75% of the ninety-day survivors share no opening structure, and every structure
+that does appear is as common among ads that died at 45 days. Specificity
+survives; shape does not. Don't go looking for the formula again.
+
 ## The CTA
 
 In nearly every piece, and soft. Talk, don't pitch — the content is the proof —
@@ -143,8 +173,8 @@ then one line at the end.
 
 **The line changes with the piece; the shape doesn't:** name the person by the
 problem this talk just left them holding, then the next step. Never *link in
-bio*. After a talk on compulsive checking — *"if you're the founder who's read
-all of this and still can't put the phone down, I run a small group for exactly
+bio*. After a talk on compulsive checking — *"if you've read all of
+this and still can't put the phone down, I run a small group for exactly
 that: details in the bio."* After one on the decision that won't settle, it
 names that instead. The specificity qualifies and asks at once.
 
