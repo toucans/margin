@@ -18,6 +18,11 @@ Both live rows already pay an outsider for something adjacent — executive
 coaching, continuing education. Nobody needs teaching that the category exists,
 so none of this is spent funding the market's education.
 
+**In Denmark the invoice is probably not the buyer's own.** Employers carry
+psykisk arbejdsmiljø and procure stress work with real budgets; aftenskole (FOF,
+AOF, LOF) is an existing paid channel with published prices. Neither appears in
+a Skool census. Unverified — check before weighting.
+
 **The failure mode is a slide, not a decision:** drifting from founders back to
 seekers, because seekers are pleasanter and there are more of them.
 
@@ -49,6 +54,15 @@ week: the promotion that didn't land, the decision that won't settle, the
 Sunday that was already Monday. The dhamma is unchanged; the situation is
 theirs.
 
+**The spine** — one talk each, reused:
+
+- the decision that reopens at 2 a.m.
+- can't switch out of work mode with the laptop shut
+- checking the same metric, the same thread, again
+- the body already captured before the mind notices
+- performing under pressure, then the same habit the next day
+- burnout as *I keep solving the wrong problem because I can't stop the loop*
+
 **The problem you lead with is the business you get.** It picks the buyer, the
 buyer shapes the product, and you can't swap it once they've shown up for it.
 Go deep after they trust you — but *how to switch out of work mode* sold to
@@ -58,8 +72,28 @@ you to that.
 **One talk, one thing they finally see.** One narrow thing they've had wrong,
 cleared up completely.
 
+**Lead with the loop, never the mechanism.** *Nervous system*, *craving*,
+*mindfulness*, *dharma* never open a title or a first line; the mechanism is
+revealed inside the case. `contemplative/vocabulary.md` records how this market
+words itself — that is how to be understood, not how to select.
+
 It always reveals the same next problem: *I saw it clearly for four days, then
 went back to being the same guy.* That gap is the offer.
+
+**The test:** if it doesn't make a founder say *that's my Tuesday*, discard it.
+
+## The room
+
+Weekly group at Stenløse Kulturhus. **Reps and live language — not content, not
+proof.** A free suburban room proves nothing to this buyer, and a general room
+produces general talks, which is the slide.
+
+Advertise one named problem, never *meditation*; six weeks a framing; count who
+comes. That tests whether a pain is live, not whether it is paid — the paid
+question stays with the invoice above. Write their words down before you have
+taught them anything.
+
+Free municipal rooms usually carry a non-commercial condition. Check.
 
 ## The funnel
 
@@ -86,3 +120,10 @@ bio*. After a talk on compulsive checking — *"if you're the founder who's read
 all of this and still can't put the phone down, I run a small group for exactly
 that: details in the bio."* After one on the decision that won't settle, it
 names that instead. The specificity qualifies and asks at once.
+
+## The outreach
+
+**Only people who have already shown recognition** — watched, replied, commented
+in a way that says they saw their own week. Never a pitch: reflect the capture
+they described back to them, and give one concrete move for this week. The
+application form sits behind that.
