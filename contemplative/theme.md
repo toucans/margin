@@ -177,6 +177,46 @@ His other warning applies to the temptation that follows: *"don't make me niche
 slap you"* — the failure mode is hopping branches because one felt slow, not
 because you outgrew it.
 
+**Organic does not buy you breadth.** The tempting premise — no ad money spent,
+so a wrong viewer is free — is true about money and false about everything else:
+organic reach is *earned*, so the wrong viewer costs the slot and the algorithm's
+read of who you are. William Brown's micro-channel model is the sharpest version:
+*"the right 500 viewers will always outpay the wrong 50,000 subscribers"*, and
+*"if everyone thinks your content's for them, it's actually for no one."*
+Hormozi lands in the same place — *"if you make content and you judge it by
+views, I think that's dumb… the content is the targeting"*
+([source](https://www.youtube.com/watch?v=QR1q5645iTQ)).
+
+**The one breadth both of them grant is awareness, not audience.** *"As you go up
+funnel… you need wider hooks"*
+([source](https://www.youtube.com/watch?v=Mu7JlT34v1Y)) — a wider hook reaches
+someone earlier inside the same problem. Reaching a *different* problem is the
+other axis, and only that one changes the room.
+
+## The branch committed to
+
+**C2 — can't switch out of work mode.** It is the only branch where the proven
+money and the intended buyer are the same person: karl_williams 160d, Kara
+Kuipers 159d, Mindstar 151d, all addressing someone who cannot put the job down.
+C5 and C4 carry more money and assemble a different room; C1 — the 2 a.m.
+decision, the framing this work most wants to teach — has no visible buyer at
+all.
+
+C1 is not abandoned, it is **demoted from promise to scene.** C2 is what the
+channel is about; the decision that reopens at 2 a.m. is one of the nights inside
+it. The same demotion holds every other branch: the glass, the phone, the body
+clenching first are Tuesday nights for the same person, and stop being separate
+markets the moment none of them is the title.
+
+**What crosses the line, concretely** — a habit named in the *title* (the drink,
+the phone) switches you to that habit's market; leading with the mechanism
+(*nervous system*, *regulation*) switches you to the most crowded lane in the
+sweep; *burnout* as the promise rather than the consequence switches you to the
+executive-and-HR market; meaning or purpose leaves the tree entirely. Note that
+none of these is a demographic — the constraint is the problem addressed, never
+who is allowed to show up for it (`contemplative.md` → *the avatar is a
+recognition*).
+
 ## No formula, and stop looking for one
 
 Tested directly against the sweep: **75% of the ninety-day survivors share no

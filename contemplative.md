@@ -22,6 +22,14 @@ so none of this is spent funding the market's education.
 burnout at the top sell; meaning, contentment and surrender don't. The rule
 under it: money follows urgent pain held by someone who can sign.
 
+**The avatar is a recognition, not a demographic.** What holds still is the
+problem addressed — *can't stop working* — not the age, sex or job title of
+whoever turns up for it. The buyer labels in `contemplative/sweeps/verdict.html`
+are the least certain thing in the sweep: read off ad copy, not measured, and
+they record who those advertisers happened to reach, not a rule. Nobody running
+this model well is demographically constrained. Fix the problem, let the room be
+whoever recognises it, and read the demographic off the calls afterwards.
+
 ## The offer
 
 **Narrow the promise, not the teaching.** One result, one buyer.
@@ -100,7 +108,10 @@ one that picks the buyer.
 the money sits in, how far a hook can travel before it changes the room, and
 which branch to commit to first.
 
-**The spine** — one talk each, reused:
+**The spine — six scenes under one promise, not six talks.** These are verbatim
+the six sweep clusters C1–C6, written to *test* which market exists. As promises
+they are six markets: two have no proven buyer and two address a different
+person. Use them as scenes inside the committed branch, never as the title:
 
 - the decision that reopens at 2 a.m.
 - can't switch out of work mode with the laptop shut
@@ -125,6 +136,18 @@ words itself — that is how to be understood, not how to select.
 
 It always reveals the same next problem: *I saw it clearly for four days, then
 went back to being the same guy.* That gap is the offer.
+
+**The form** — from William Brown's micro-channel material, `/mnt/lexar/AI
+data/William Brown/`. Unedited and talking-to-a-friend, not scripted or
+produced: *"every time you add production value, you're actually adding a layer
+of distrust."* Text-message titles. Never teach the whole thing — his example is
+a channel at 3.1M views a month booking 38 calls, because the videos were course
+videos and nobody needed to buy.
+
+**One video a week, and he means as a maximum** — *"the more we uploaded, the
+less well each video did."* This contradicts the hundreds-of-videos supply model
+in `contemplative/theme.md`: at one a week, a hundred videos is two years.
+Unresolved — decide it on purpose rather than by drift.
 
 **The test:** if it doesn't make the person you're aiming at say *that's my
 Tuesday*, discard it. Which person that is stays open — the test holds
@@ -151,7 +174,8 @@ the filter is the video and the form, not a nurture sequence. Email is a
 show-rate layer behind the booking, never the path to it.
 
 1. **VSL** — one page, one video. It solves the narrow thing completely, and in
-   solving it reveals the gap. Benchmark: 4–7% of *page* views book, 5% typical.
+   solving it reveals the gap. Benchmark: 4–7% of *page* views book, 5% typical
+   — the ad evidence and William Brown give the same number independently.
 2. **Application form**, not open booking — the friction filters. Two real
    questions about their week; the questions are already a dose of the product.
 3. **Speed to lead**, then confirm by message, not email. Show rate under 55%
@@ -181,6 +205,12 @@ bio*. After a talk on compulsive checking — *"if you've read all of
 this and still can't put the phone down, I run a small group for exactly
 that: details in the bio."* After one on the decision that won't settle, it
 names that instead. The specificity qualifies and asks at once.
+
+**The mechanics, from William Brown.** The *work with me* link goes at the **top**
+of the description, never buried and never straight to a calendar — *"going
+straight to Calendly, that is suicide."* Two soft CTAs rather than one: the line
+at the end, plus a pinned comment if bookings are thin. The north-star metric is
+booked calls, not views or comments — *"you can't close comments."*
 
 ## The outreach
 
