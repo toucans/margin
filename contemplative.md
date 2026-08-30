@@ -21,15 +21,17 @@ so none of this is spent funding the market's education.
 **They pay to get something back, not to reach higher.** What has gone is a
 capacity: the day that no longer ends, the evening that is already tomorrow, the
 hours that used to be theirs. They are buying the ability to put it down again.
-Meaning, contentment and surrender don't sell here — and neither does more
-output. The rule under it: money follows urgent pain held by someone who can
-sign.
+Meaning, contentment and surrender don't sell here. The rule under it: money
+follows urgent pain held by someone who can sign.
 
-**Where the line runs against productivity, which is out of bounds.** The promise
-is not more done per day. It is that stopping is available again — and the
-steady output and the free time are what stopping *protects*, not what it buys.
-Sold the other way round it is an optimisation pitch, and optimisation was swept
-and found unfunded (`contemplative/theme.md` → outside the tree).
+**Output goes up — that is a result, and the result is not the promise.** The
+gain is synergistic, the same shape as a four-day week: the work gets better
+*because* the stopping is real, not in spite of it. So more done, and better
+done, is a true and sayable outcome. What is out of bounds is productivity as
+the **pitch** — do more, squeeze more in, optimise the day. That is the
+hacks-and-systems market, swept and found unfunded (`contemplative/theme.md` →
+outside the tree), and it is the wrong mechanism besides: here the output rises
+by subtraction, not by pushing.
 
 **The avatar is a recognition, not a demographic.** What holds still is the
 problem addressed — *can't stop working* — not the age, sex or job title of
