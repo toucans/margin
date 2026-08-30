@@ -96,6 +96,10 @@ women in midlife, through the phone assembles everyone and sells to no one. Pick
 the register and hold it — that is a separate decision from the bound, and the
 one that picks the buyer.
 
+`contemplative/theme.md` holds the tree under this bound — the five branches
+the money sits in, how far a hook can travel before it changes the room, and
+which branch to commit to first.
+
 **The spine** — one talk each, reused:
 
 - the decision that reopens at 2 a.m.
