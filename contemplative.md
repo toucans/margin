@@ -18,9 +18,18 @@ Both live rows already pay an outsider for something adjacent — executive
 coaching, continuing education. Nobody needs teaching that the category exists,
 so none of this is spent funding the market's education.
 
-**They pay to get better, not to let go.** Performance under pressure and
-burnout at the top sell; meaning, contentment and surrender don't. The rule
-under it: money follows urgent pain held by someone who can sign.
+**They pay to get something back, not to reach higher.** What has gone is a
+capacity: the day that no longer ends, the evening that is already tomorrow, the
+hours that used to be theirs. They are buying the ability to put it down again.
+Meaning, contentment and surrender don't sell here — and neither does more
+output. The rule under it: money follows urgent pain held by someone who can
+sign.
+
+**Where the line runs against productivity, which is out of bounds.** The promise
+is not more done per day. It is that stopping is available again — and the
+steady output and the free time are what stopping *protects*, not what it buys.
+Sold the other way round it is an optimisation pitch, and optimisation was swept
+and found unfunded (`contemplative/theme.md` → outside the tree).
 
 **The avatar is a recognition, not a demographic.** What holds still is the
 problem addressed — *can't stop working* — not the age, sex or job title of
