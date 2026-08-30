@@ -24,14 +24,17 @@ hours that used to be theirs. They are buying the ability to put it down again.
 Meaning, contentment and surrender don't sell here. The rule under it: money
 follows urgent pain held by someone who can sign.
 
-**Output goes up — that is a result, and the result is not the promise.** The
-gain is synergistic, the same shape as a four-day week: the work gets better
-*because* the stopping is real, not in spite of it. So more done, and better
-done, is a true and sayable outcome. What is out of bounds is productivity as
-the **pitch** — do more, squeeze more in, optimise the day. That is the
-hacks-and-systems market, swept and found unfunded (`contemplative/theme.md` →
-outside the tree), and it is the wrong mechanism besides: here the output rises
-by subtraction, not by pushing.
+**Output goes up, and that belongs in the promise.** The gain is synergistic —
+the same shape as a four-day week: the work gets better *because* the stopping
+is real, not in spite of it. The promise is the dream outcome, so the offer says
+it plainly: steadier output, better decisions, and the evenings back.
+
+**What it is not is the hook.** The sweep read first lines, and productivity
+framings there found no sustained money — so the finding is about openings, not
+about what those offers promised once someone was on the page. Opening on *do
+more* also fails the *already tried* half of the theme: someone who merely wants
+more done will try harder instead of buying. Open on the loop, promise the
+result. Same claim, opposite ends of the funnel.
 
 **The avatar is a recognition, not a demographic.** What holds still is the
 problem addressed — *can't stop working* — not the age, sex or job title of
